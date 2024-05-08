@@ -23,6 +23,103 @@
 
 
 /* Adarsh section */
+#adiv{
+    
+        width: 70%;
+        max-width: 1180px;
+        margin: 0 auto; 
+        display: grid;
+        grid-template-columns: repeat(5, 1fr);
+        gap: 10px;
+        justify-content: center; 
+    
+    
+}
+.card{
+    /* border: 2px solid black; */
+    padding: 4px;
+}
+.A-image-div{
+    width: 240px;
+    height: 240px;
+    /* padding: 15px; */
+    box-sizing: border-box;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}
+.A-image{
+    width: 100%;
+    border-radius: 8px;
+}
+.A-title{
+    font-size: 14px;
+    width: 240px;
+    height: 36px;
+    font-weight: 600;
+}
+.A-weight{
+font-size: 13px;
+color: #000000;
+}
+.A-price{
+font-size: 15px;
+font-weight: 700;
+}
+.A-btn{
+width: 96%;
+display: block;
+margin: auto;
+margin-bottom: 5px;
+padding: 8px;
+background: none;
+border: 1.5px solid #ff3268;
+border-radius: 8px;
+font-size: 13px;
+font-weight: 600;
+color: #ff3268;
 
+}
+/* product details css file */
+/* styles.css */
+
+
+.product-container {
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+    /* align-items: center; */
+    /* height: 100vh; */
+}
+.product-image {
+    margin-right: 20px;
+    width: 650px;
+    height: 650px;
+    background-color: #ff3268;
+}
+
+.product-image img {
+    width: 100%;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+
+}
+.product-details {
+    /* text-align: left; */
+    
+}
+#product-weight{
+
+}
+#product-price{
+    font-size: 20px;
+    font-weight: 600;
+}
+#product-btn{
+    padding: 10px;
+    width: 110px;
+    font-size: 16px;
+    color: aliceblue;
+    background-color: #ff3268;
+    border: none;
+    border-radius: 8px;
+}
 
 /* Adarsh section end */
