@@ -1,0 +1,24 @@
+{
+  "name": "betwa-interface-015-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1", 
+    "start": "json-server --watch db.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kranti00/Betwa-Interface-015.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kranti00/Betwa-Interface-015/issues"
+  },
+  "homepage": "https://github.com/Kranti00/Betwa-Interface-015#readme",
+  "dependencies": {
+    "json-server": "^0.17.4"
+  }
+}
