@@ -1,6 +1,57 @@
 /* Kranti section */
-
-
+*{
+    padding:0;
+    margin:0;
+    box-sizing: border-box;
+    font-family: "Open Sans", sans-serif;
+}
+#kdiv{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding:20px 50px;
+    background-image: linear-gradient(white, rgb(212, 238, 255));
+}
+#kdiv #klocation{
+    font-size: 22px;
+}
+#kdiv #kinput{
+    width:950px;
+    position: relative;
+}
+#kdiv #kinput input{
+    width:100%;
+    padding:15px 50px;
+    border-radius: 10px;
+    border: 0.5px solid lightgrey;
+}
+#kdiv #kinput i{
+    position: absolute;
+    font-size: 20px;
+    top:40%;
+    left:30px;
+    transform: translate(-50%, -50%);
+}
+#kdiv #kicons{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#kdiv #kicon1, #kicon2{
+    margin:0px 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+#kdiv #kicon1, #kicon2, p{
+    margin-top: 2px;
+    font-size: 15px;
+}
+#kdiv #kicons #kicon1, #kicon2, i{
+    font-size: 18px;
+    margin-top: 5px;
+}
 /* Kranti section end */
 
 
