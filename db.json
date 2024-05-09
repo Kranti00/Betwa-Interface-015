@@ -1,1 +1,1598 @@
-{}
+{
+  "cards": [
+    {
+      "id": 151,
+      "img": "https://cdn.zeptonow.com/production///tr:w-400,ar-1021-1021,pr-true,f-auto,q-80/cms/product_variant/d8aeab4b-81fc-4a47-978d-855017898856.jpeg",
+      "title": "Uncle Chipps - Spicy Treat",
+      "weight": "50g",
+      "price": "₹20"
+    },
+    {
+      "id": 153,
+      "img": "https://cdn.zeptonow.com/production///tr:w-400,ar-1000-1000,pr-true,f-auto,q-80/cms/product_variant/465331c0-00ba-490e-ba77-69cb24513cd5.jpeg",
+      "title": "MAGGI 2- Minute Instant Masala Noodles",
+      "weight": "280",
+      "price": "₹51"
+    },
+    {
+      "id": 154,
+      "img": "https://cdn.zeptonow.com/production///tr:w-400,ar-1021-1021,pr-true,f-auto,q-80/cms/product_variant/af0a1930-e8b6-4eed-a986-87dc1843cbe6.jpeg",
+      "title": "Cadbury Dairy Milk Chocolate Home Treats",
+      "weight": "119g",
+      "price": "₹126"
+    },
+    {
+      "id": 155,
+      "img": "https://cdn.zeptonow.com/production///tr:w-400,ar-1000-1000,pr-true,f-auto,q-80/cms/product_variant/c511c857-a35e-45d4-880e-65f3f4132fe2.jpeg",
+      "title": "Tata Agni Tea",
+      "weight": "250",
+      "price": "₹55"
+    },
+    {
+      "id": 156,
+      "img": "https://cdn.zeptonow.com/production///tr:w-400,ar-1000-1000,pr-true,f-auto,q-80/cms/product_variant/191f9115-0f8f-4388-9709-3eb46530ab69.jpeg",
+      "title": "Uttam Sugar Sulphurless Sugar",
+      "weight": "1 kg",
+      "price": "₹53"
+    },
+    {
+      "id": 157,
+      "img": "https://cdn.zeptonow.com/production///tr:w-400,ar-1021-1021,pr-true,f-auto,q-80/cms/product_variant/5f134c5a-96e7-4a31-95be-aa3958d768c1.jpeg",
+      "title": "Lay's India's Magic Masala Potato Chips",
+      "weight": "50g",
+      "price": "₹20"
+    },
+    {
+      "id": 158,
+      "img": "https://cdn.zeptonow.com/production///tr:w-400,ar-1021-1021,pr-true,f-auto,q-80/cms/product_variant/47624d67-7e56-41e4-a405-98d8238bbdf2.jpeg",
+      "title": "Cadbury Chocobakes ChocoChip Cookies",
+      "weight": "167g",
+      "price": "₹64"
+    },
+    {
+      "id": 159,
+      "img": "https://cdn.zeptonow.com/production///tr:w-400,ar-1021-1021,pr-true,f-auto,q-80/cms/product_variant/11865ada-733e-4490-819d-d7e1e5b92038.jpeg",
+      "title": "Eno - Lemon Fruit Salt Sixer Pack",
+      "weight": "5g",
+      "price": "₹60"
+    },
+    {
+      "id": 160,
+      "img": "https://cdn.zeptonow.com/production///tr:w-400,ar-1000-1000,pr-true,f-auto,q-80/cms/product_variant/f64aa80e-f2d0-4420-911b-d2b57d57d690.jpeg",
+      "title": "Coca-Cola Soft Drink",
+      "weight": "750 ml",
+      "price": "₹40"
+    },
+    {
+      "id": 161,
+      "img": "https://cdn.zeptonow.com/production///tr:w-400,ar-741-955,pr-true,f-auto,q-80/cms/product_variant/f1e793c7-67de-478a-99d8-377d266edf33.png",
+      "title": "Amul Gold Full Cream Fresh Milk (Pouch)",
+      "weight": "1l",
+      "price": "₹66"
+    },
+    {
+      "id": 162,
+      "img": "https://cdn.zeptonow.com/production///tr:w-400,ar-1000-1000,pr-true,f-auto,q-80/cms/product_variant/f64aa80e-f2d0-4420-911b-d2b57d57d690.jpeg",
+      "title": "Coca-Cola Soft Drink",
+      "weight": "750 ml",
+      "price": "₹40"
+    },
+    {
+      "id": 163,
+      "img": "https://cdn.zeptonow.com/production///tr:w-400,ar-1000-1000,pr-true,f-auto,q-80/cms/product_variant/21e8833e-57f0-43f5-ac76-d403e862fb89.jpeg",
+      "title": "Vim Dishwash Bar",
+      "weight": "200g",
+      "price": "₹86"
+    },
+    {
+      "id": 164,
+      "img": "https://cdn.zeptonow.com/production///tr:w-400,ar-1021-1021,pr-true,f-auto,q-80/cms/product_variant/08d4354d-ae28-4cd5-b2e7-50d515542ab5.jpeg",
+      "title": "Veeba Tomato Ketchup - Chef's Special",
+      "weight": "900 g",
+      "price": "₹88"
+    },
+    {
+      "id": 165,
+      "img": "https://cdn.zeptonow.com/production///tr:w-400,ar-852-894,pr-true,f-auto,q-80/cms/product_variant/e47950bc-1bca-4ba2-9dd8-47e984ea6b24.jpeg",
+      "title": "Kwality Wall's Cornetto Double Chocolate Cone",
+      "weight": "105ml",
+      "price": "₹40"
+    },
+    {
+      "id": 166,
+      "img": "https://cdn.zeptonow.com/production///tr:w-400,ar-2985-1777,pr-true,f-auto,q-80/cms/product_variant/ac8794c1-0e42-4301-b821-955afc3a8a69.jpeg",
+      "title": "Britannia Nutri Choice Digestive Biscuits Packet",
+      "weight": "100g",
+      "price": "₹19"
+    },
+    {
+      "id": 167,
+      "img": "https://cdn.zeptonow.com/production///tr:w-400,ar-1021-1021,pr-true,f-auto,q-80/cms/product_variant/c7789ade-cfef-440a-a3a1-6156735bd64c.jpeg",
+      "title": "Fortune Kachi Ghani Mustard Oil (Bottle)",
+      "weight": "1l",
+      "price": "₹134"
+    },
+    {
+      "id": 168,
+      "img": "https://cdn.zeptonow.com/production///tr:w-400,ar-1000-1000,pr-true,f-auto,q-80/inventory/product/f9fdc106-c5b1-4c24-8c76-61251827c506-/tmp/20231019-0453141.jpeg",
+      "title": "Bru Gold Flavoured Coffee Mix - Vanilla",
+      "weight": "55g",
+      "price": "₹290"
+    },
+    {
+      "id": 169,
+      "img": "https://cdn.zeptonow.com/production///tr:w-400,ar-1000-1000,pr-true,f-auto,q-80/cms/product_variant/22001a01-28da-4524-adfc-263b83bf5c43.jpeg",
+      "title": "Limca Soft Drink Pet",
+      "weight": "750 ml",
+      "price": "₹40"
+    },
+    {
+      "id": 170,
+      "img": "https://cdn.zeptonow.com/production///tr:w-400,ar-1021-1021,pr-true,f-auto,q-80/cms/product_variant/99715086-258b-4e24-993c-ac759eec87d5.jpeg",
+      "title": "Thums Up Soft Drink",
+      "weight": "750 ml",
+      "price": "₹40"
+    },
+    {
+      "id": 171,
+      "img": "https://cdn.zeptonow.com/production///tr:w-400,ar-1021-1021,pr-true,f-auto,q-80/cms/product_variant/f71348d6-db9e-4ae1-abe1-d4dc7d13daf3.jpeg",
+      "title": "Safal Frozen Green Peas",
+      "weight": "500g",
+      "price": "₹122"
+    },
+    {
+      "id": 1,
+      "img": "https://cdn.zeptonow.com/production///tr:w-450,ar-1000-1000,pr-true,f-webp,q-80/inventory/product/c89f35c6-5275-4124-b8be-13653aff648f-1exxYsUISux3Ul8efHeYm95FxltJLivd7.jpeg",
+      "img2": "https://cdn.zeptonow.com/production///tr:w-450,ar-1000-1000,pr-true,f-webp,q-80/inventory/product/c89f35c6-5275-4124-b8be-13653aff648f-1m_bP5_4raHc3TPkeVx8gJAuQp-JTgM_J.jpeg",
+      "img3": "https://cdn.zeptonow.com/production///tr:w-450,ar-1000-1000,pr-true,f-webp,q-80/inventory/product/c89f35c6-5275-4124-b8be-13653aff648f-1bxvCxzl2nVWy33dm_o5R-NQ_6ZEtzZVZ.jpeg",
+      "img4": "https://cdn.zeptonow.com/production///tr:w-450,ar-1000-1000,pr-true,f-webp,q-80/inventory/product/c89f35c6-5275-4124-b8be-13653aff648f-15-yB2zmeblqWvthvJtMDE4WAGljP8rde.jpeg",
+      "title": "Maybelline New York Fit Me Shade 128 Warm Nude Compact Powder",
+      "price": "₹220",
+      "price2": "₹249",
+      "weight": "8 g",
+      "discount": "11%"
+    },
+    {
+      "id": 2,
+      "img": "https://cdn.zeptonow.com/production///tr:w-450,ar-679-679,pr-true,f-webp,q-80/inventory/product/051d25ec-274d-4f74-bf42-2d4ad045daa0-1DBayIZ3gm4GOAXsrz2dh3qpaPQ7zLiMA.jpeg",
+      "img2": "https://cdn.zeptonow.com/production///tr:w-450,ar-644-879,pr-true,f-webp,q-80/inventory/product/051d25ec-274d-4f74-bf42-2d4ad045daa0-1aIczaFMXLwUFmvkYuWIGvnxdQcry1Kuf.jpeg",
+      "img3": "https://cdn.zeptonow.com/production///tr:w-450,ar-679-679,pr-true,f-webp,q-80/inventory/product/051d25ec-274d-4f74-bf42-2d4ad045daa0-1Hcnkv62C1uOfcSTfdWLDOaAbrpI_z8Oh.jpeg",
+      "img4": "https://cdn.zeptonow.com/production///tr:w-450,ar-644-879,pr-true,f-webp,q-80/inventory/product/051d25ec-274d-4f74-bf42-2d4ad045daa0-1zhAEq-ndg-4bG792ucZ5VxEqCX0JgCSV.jpeg",
+      "title": "SUGAR Cosmetics Kohl Of Honour Intense Kajal - 01 Black Out",
+      "price": "₹249",
+      "price2": "₹380",
+      "weight": "0.25 g",
+      "discount": "15%"
+    },
+    {
+      "id": 3,
+      "img": "https://cdn.zeptonow.com/production///tr:w-450,ar-679-679,pr-true,f-webp,q-80/inventory/product/745816f4-ab32-4304-be2b-d927f5b16cf9-1-fPDAGh2RaaOWrZaaVbDUHCeK-_mIOJN.jpeg",
+      "img2": "https://cdn.zeptonow.com/production///tr:w-450,ar-679-679,pr-true,f-webp,q-80/inventory/product/745816f4-ab32-4304-be2b-d927f5b16cf9-1T2E7RJ6vXHHyh3G33dr3wNBX9VB6sp3u.jpeg",
+      "img3": "https://cdn.zeptonow.com/production///tr:w-450,ar-679-679,pr-true,f-webp,q-80/inventory/product/745816f4-ab32-4304-be2b-d927f5b16cf9-1QMYwS_-mURoqaUWMTwwGWOVkcAAsY4r7.jpeg",
+      "img4": "https://cdn.zeptonow.com/production///tr:w-450,ar-679-679,pr-true,f-webp,q-80/inventory/product/745816f4-ab32-4304-be2b-d927f5b16cf9-1lGOo4K7rUMsH8ywr_DJFvn5axZw8n-AE.jpeg",
+      "title": "Faces Canada Ultime Pro Splash Nail Enamel Floral Dream 56",
+      "price": "₹107",
+      "price2": "₹119",
+      "weight": "1 piece",
+      "discount": "10%"
+    },
+    {
+      "id": 4,
+      "img": "https://cdn.zeptonow.com/production///tr:w-450,ar-679-679,pr-true,f-webp,q-80/inventory/product/664fea7c-f775-4ef3-8f89-e2d0cbd62f1a-19NTGwVDlAJP_UR4iSKXzXYkuQI5rm-u1.jpeg",
+      "img2": "https://cdn.zeptonow.com/production///tr:w-450,ar-500-500,pr-true,f-webp,q-80/inventory/product/664fea7c-f775-4ef3-8f89-e2d0cbd62f1a-15guuKo6f4oEHIoPwqhp6n8agwVHTQ3eZ.jpeg",
+      "img3": "https://cdn.zeptonow.com/production///tr:w-450,ar-679-679,pr-true,f-webp,q-80/inventory/product/664fea7c-f775-4ef3-8f89-e2d0cbd62f1a-1CHovdwqCnoxSfEH9nuo3PdtfABfH974O.jpeg",
+      "img4": "https://cdn.zeptonow.com/production///tr:w-450,ar-679-679,pr-true,f-webp,q-80/inventory/product/664fea7c-f775-4ef3-8f89-e2d0cbd62f1a-1QpY9HQcG4rSQQvrD0u5Gwe__S2aYT1fA.jpeg",
+      "title": "Lakme 9 to 5 Complexion Care Face Cream Bronze",
+      "price": "₹285",
+      "price2": "₹299",
+      "weight": "30 g",
+      "discount": "4%"
+    },
+    {
+      "id": 5,
+      "img": "https://cdn.zeptonow.com/production///tr:w-450,ar-1000-1000,pr-true,f-webp,q-80/inventory/product/324dce63-fd0c-4cda-be12-1f72f4a18f6c-1NtWEfhi-CuuxiJJCzmgQHn7C7Tq85vr_.jpeg",
+      "img2": "https://cdn.zeptonow.com/production///tr:w-450,ar-1000-1000,pr-true,f-webp,q-80/inventory/product/324dce63-fd0c-4cda-be12-1f72f4a18f6c-1zfswAgFQ-soPPFXBsIdGT_SdSTKaOPu5.jpeg",
+      "img3": "https://cdn.zeptonow.com/production///tr:w-450,ar-1000-1000,pr-true,f-webp,q-80/inventory/product/324dce63-fd0c-4cda-be12-1f72f4a18f6c-15fELFNDrUe3Ynh4feEpCukqLApVuwYFm.jpeg",
+      "img4": "https://cdn.zeptonow.com/production///tr:w-450,ar-1000-1000,pr-true,f-webp,q-80/inventory/product/324dce63-fd0c-4cda-be12-1f72f4a18f6c-1NrpdktskjACx32rHJDJPbkwruZUVwRRF.jpeg",
+      "title": "Maybelline New York Sensational Liquid Matte Lipstick 21 Nude Nuance ",
+      "price": "₹352",
+      "price2": "₹399",
+      "weight": "7 ml",
+      "discount": "11%"
+    },
+    {
+      "id": 6,
+      "img2": "https://cdn.zeptonow.com/production///tr:w-450,ar-644-879,pr-true,f-webp,q-80/inventory/product/703a25d2-2b84-40af-bdcc-212fef17aadc-15JpAMce7hALaN5crjuEk86vWHLIDveBz.jpeg",
+      "img": "https://cdn.zeptonow.com/production///tr:w-450,ar-679-679,pr-true,f-webp,q-80/inventory/product/703a25d2-2b84-40af-bdcc-212fef17aadc-17fZejsp9wJSaFOFUlNWkSGVRN24pGpV6.jpeg",
+      "img3": "https://cdn.zeptonow.com/production///tr:w-450,ar-679-679,pr-true,f-webp,q-80/inventory/product/703a25d2-2b84-40af-bdcc-212fef17aadc-1naBoRvl7pqr8YzABcptwVCLya5SGX9Bf.jpeg",
+      "img4": "https://cdn.zeptonow.com/production///tr:w-450,ar-679-679,pr-true,f-webp,q-80/inventory/product/703a25d2-2b84-40af-bdcc-212fef17aadc-1obBr-WpEmoVmwwrS26rRSqL00uYh1sFp.jpeg",
+      "title": "SUGAR Cosmetics Smudge Me Not Liquid Mini Lipstick - 09 Suave Mauve",
+      "price": "₹225",
+      "price2": "₹249",
+      "weight": "1 piece",
+      "discount": "9%"
+    },
+    {
+      "id": 7,
+      "img": "https://cdn.zeptonow.com/production///tr:w-450,ar-679-679,pr-true,f-webp,q-80/inventory/product/e8236017-295e-46ca-a94e-b65fb44f8427-1W-316rQkN74AIgizvI5NvJzLyXyXwgmM.jpeg",
+      "img2": "https://cdn.zeptonow.com/production///tr:w-450,ar-679-679,pr-true,f-webp,q-80/inventory/product/e8236017-295e-46ca-a94e-b65fb44f8427-137eyiVlidGj6Ce_qZriMg6bTg1XaFAOS.jpeg",
+      "img3": "https://cdn.zeptonow.com/production///tr:w-450,ar-679-679,pr-true,f-webp,q-80/inventory/product/e8236017-295e-46ca-a94e-b65fb44f8427-1Oti2XWS3523J9NGePZDxtE5rvy_11lgx.jpeg",
+      "img4": "https://cdn.zeptonow.com/production///tr:w-450,ar-679-679,pr-true,f-webp,q-80/inventory/product/e8236017-295e-46ca-a94e-b65fb44f8427-1SLVo4G3wnUm4pL0Qv3oDH6m-CXt1UXR-.jpeg",
+      "title": "Maybelline New York Lash Sensational Sky High Waterproof Mascara Lengthening ",
+      "price": "₹704",
+      "price2": "₹799",
+      "weight": "6 ml",
+      "discount": "11%"
+    },
+    {
+      "id": 8,
+      "img": "https://cdn.zeptonow.com/production///tr:w-450,ar-1000-1000,pr-true,f-webp,q-80/inventory/product/0b11668f-ab74-4b02-b1ad-62b2e30681eb-1ETSc5RB3vWyoELrhjv4j_ki1wob4xGF-.jpeg",
+      "img2": "https://cdn.zeptonow.com/production///tr:w-450,ar-1000-1000,pr-true,f-webp,q-80/inventory/product/0b11668f-ab74-4b02-b1ad-62b2e30681eb-1M-MnC3n7psRUwbWdiaPC9CZ7AY7kx353.jpeg",
+      "img3": "https://cdn.zeptonow.com/production///tr:w-450,ar-1000-1000,pr-true,f-webp,q-80/inventory/product/0b11668f-ab74-4b02-b1ad-62b2e30681eb-13VP4omCDKdcvLtGGiYajRAmoeKyVQmRs.jpeg",
+      "img4": "https://cdn.zeptonow.com/production///tr:w-450,ar-1000-1000,pr-true,f-webp,q-80/inventory/product/0b11668f-ab74-4b02-b1ad-62b2e30681eb-14srOJP5kV_RI_20Aojbw6qTIfFG4ixRN.jpeg",
+      "title": "Maybelline New York Super Stay Ink Crayon Lipstick X Pinks Edition 85 Change Is Good",
+      "price": "₹704",
+      "price2": "₹799",
+      "weight": "1.2 g",
+      "discount": "11%"
+    },
+    {
+      "id": 9,
+      "img": "https://cdn.zeptonow.com/production///tr:w-450,ar-1000-1000,pr-true,f-webp,q-80/inventory/product/d966ebfa-96c5-4d10-947d-830d8b761bc2-dea83725-f72c-450b-aefb-61a00c2534c9.jpeg",
+      "img2": "https://cdn.zeptonow.com/production///tr:w-450,ar-600-600,pr-true,f-webp,q-80/inventory/product/744085a0-cc54-47f3-9099-0fd6ee3ee25f-1C7wPt3SwL4Y9nuVwgbdprMIxc4sY0DbX.jpeg",
+      "img3": "https://cdn.zeptonow.com/production///tr:w-450,ar-600-600,pr-true,f-webp,q-80/inventory/product/744085a0-cc54-47f3-9099-0fd6ee3ee25f-1qYvBX6ztFVMd0LpHt3n3zyGuGRjuiHLn.jpeg",
+      "img4": "https://cdn.zeptonow.com/production///tr:w-450,ar-600-600,pr-true,f-webp,q-80/inventory/product/744085a0-cc54-47f3-9099-0fd6ee3ee25f-1-3YSJJtc1CmD6pD8jLcdHoMGGpo3xk80.jpeg",
+      "title": "Garnier Bright Complete Mask",
+      "price": "₹99",
+      "price2": "₹380",
+      "weight": "28 g",
+      "discount": "15%"
+    },
+    {
+      "id": 10,
+      "img": "https://cdn.zeptonow.com/production///tr:w-450,ar-3868-3868,pr-true,f-webp,q-80/inventory/product/42693592-107f-4b7a-885f-5f8b12a3e9cd-1ZYsSFQka58ue1iE1LAIFa9Zpy-4rf1w-.jpeg",
+      "img2": "https://cdn.zeptonow.com/production///tr:w-450,ar-3868-3868,pr-true,f-webp,q-80/inventory/product/42693592-107f-4b7a-885f-5f8b12a3e9cd-1FA5ZFPVKZvfPqY350B_8G3AqyzwD9WBd.jpeg",
+      "img3": "https://cdn.zeptonow.com/production///tr:w-450,ar-3868-3868,pr-true,f-webp,q-80/inventory/product/42693592-107f-4b7a-885f-5f8b12a3e9cd-1jJ0B2gkRoxLcYiVp8dyQfm2ExeRmn6Hr.jpeg",
+      "img4": "https://cdn.zeptonow.com/production///tr:w-450,ar-3868-3868,pr-true,f-webp,q-80/inventory/product/42693592-107f-4b7a-885f-5f8b12a3e9cd-17kmAQEGECeesYZ29MbsDgK9-eFfPQ3oY.jpeg",
+      "title": "Faces Canada Weightless Matte Finish Foundation Beige 03",
+      "price": "₹172",
+      "price2": "₹199",
+      "weight": "18 ml",
+      "discount": "13%"
+    },
+    {
+      "id": 11,
+      "img": "https://cdn.zeptonow.com/production///tr:w-450,ar-1200-1200,pr-true,f-webp,q-80/inventory/product/1f2b7f13-542f-4862-906a-22efe37032da-745ca29b-9b4a-43b5-b736-3014846075a7.jpeg",
+      "img2": "https://cdn.zeptonow.com/production///tr:w-450,ar-1500-1500,pr-true,f-webp,q-80/inventory/product/e6c49509-04b7-4179-b46b-cb01fa778f17-1BcYg8TWg7gONeK1Ass-cbp_nok6y1asA.jpeg",
+      "img3": "https://cdn.zeptonow.com/production///tr:w-450,ar-1201-1200,pr-true,f-webp,q-80/inventory/product/e6c49509-04b7-4179-b46b-cb01fa778f17-1jiyXScbqJxmDJOGTYZ0wVCTH65cM9Uz7.jpeg",
+      "img4": "https://cdn.zeptonow.com/production///tr:w-450,ar-1500-1499,pr-true,f-webp,q-80/inventory/product/e6c49509-04b7-4179-b46b-cb01fa778f17-1cLp4w0jZNyfnhgwQyptms5--UhoE6b0O.jpeg",
+      "title": "Mamaearth Bye Bye Dark Circles Under Eye Cream",
+      "price": "₹368",
+      "price2": "₹399",
+      "weight": "20 ml",
+      "discount": "7%"
+    },
+    {
+      "id": 12,
+      "img": "https://cdn.zeptonow.com/production///tr:w-450,ar-4167-4167,pr-true,f-webp,q-80/inventory/product/a46218ff-2ce1-4aaa-8442-800d1dd9b1b8-1DCwVXDR1QOeAiqjMijIEhQHrSbzdW4Be.jpeg",
+      "img2": "https://cdn.zeptonow.com/production///tr:w-450,ar-4167-4167,pr-true,f-webp,q-80/inventory/product/a46218ff-2ce1-4aaa-8442-800d1dd9b1b8-1sRgFviP7GcRES6cmVXlHlzwVvX_kxt_V.jpeg",
+      "img3": "https://cdn.zeptonow.com/production///tr:w-450,ar-1000-1000,pr-true,f-webp,q-80/inventory/product/a46218ff-2ce1-4aaa-8442-800d1dd9b1b8-1nEqsrJADrKXR3yXjx-gch4NGOxEtEait.jpeg",
+      "img4": "https://cdn.zeptonow.com/production///tr:w-450,ar-1000-1000,pr-true,f-webp,q-80/inventory/product/a46218ff-2ce1-4aaa-8442-800d1dd9b1b8-18J2JkN6qcy02fTOWx0G8lyy1ypk7UiiM.jpeg",
+      "title": "Maybelline New York Fit Me Concealer25 Medium",
+      "price": "₹528",
+      "price2": "₹599",
+      "weight": "6.8 ml",
+      "discount": "11%"
+    },
+    {
+      "id": 13,
+      "img2": "https://cdn.zeptonow.com/production///tr:w-450,ar-1025-1400,pr-true,f-webp,q-80/inventory/product/55af1823-b99a-48b0-a874-e4dcecc6f5bb-Photo.jpeg",
+      "img": "https://cdn.zeptonow.com/production///tr:w-450,ar-1500-1500,pr-true,f-webp,q-80/inventory/product/af23e1c3-731b-49d3-a689-603b67df475b-1_6lLPKJEPVZ-8yGnkaE0wkQPzvR8XOwc.jpeg",
+      "img3": "https://cdn.zeptonow.com/production///tr:w-450,ar-1500-1500,pr-true,f-webp,q-80/inventory/product/af23e1c3-731b-49d3-a689-603b67df475b-1ZhgKyI_gsmljJ_gOsWbfOfYnJKXMNjCi.jpeg",
+      "img4": "https://cdn.zeptonow.com/production///tr:w-450,ar-1100-1100,pr-true,f-webp,q-80/inventory/product/af23e1c3-731b-49d3-a689-603b67df475b-1Ay5bCKXvpsQgRcTb-_-p8K9MNdJjGdfG.jpeg",
+      "title": "SUGAR Cosmetics Arch Arrival Brow Definer - 03 Woody Scooby (Deep Brown)",
+      "price": "₹499",
+      "price2": "₹580",
+      "weight": "3.5 g",
+      "discount": "15%"
+    },
+    {
+      "id": 14,
+      "img": "https://cdn.zeptonow.com/production///tr:w-450,ar-1934-1934,pr-true,f-webp,q-80/inventory/product/7192a837-8900-432b-8d38-aaf74d48c878-1pTKwbQMhj-82cjGguD5xA6eqdqbBpYV4.jpeg",
+      "img2": "https://cdn.zeptonow.com/production///tr:w-450,ar-2500-2500,pr-true,f-webp,q-80/inventory/product/7192a837-8900-432b-8d38-aaf74d48c878-1HQ2Z-lNMa5M_6KzJ7y4dFsLLoETQBfk5.jpeg",
+      "img3": "https://cdn.zeptonow.com/production///tr:w-450,ar-2500-2500,pr-true,f-webp,q-80/inventory/product/7192a837-8900-432b-8d38-aaf74d48c878-1nH0er6H9C7ur7wQYUtne-PcR4Ld1GIMd.jpeg",
+      "img4": "https://cdn.zeptonow.com/production///tr:w-450,ar-2500-2500,pr-true,f-webp,q-80/inventory/product/7192a837-8900-432b-8d38-aaf74d48c878-1PnPUmWUlCzPcCwz7nZd8VOK3s_JrdXbW.jpeg",
+      "title": "Faces Canada Weightless Matte Finish Lipstick Buff Nude 05",
+      "price": "₹240",
+      "price2": "₹299",
+      "weight": "4.5 g",
+      "discount": "19%"
+    },
+    {
+      "id": 15,
+      "img": "https://cdn.zeptonow.com/production///tr:w-450,ar-1000-1000,pr-true,f-webp,q-80/inventory/product/9174d87e-7c47-4dc2-b4ea-d140ca30d052-103pRtkbCEAOkWwsYSEIURWBitjpFN-wX.jpeg",
+      "img2": "https://cdn.zeptonow.com/production///tr:w-450,ar-1000-1000,pr-true,f-webp,q-80/inventory/product/9174d87e-7c47-4dc2-b4ea-d140ca30d052-1WkQze_o0KFO2TQfhUmnwnXafE1ORTbYh.jpeg",
+      "img3": "https://cdn.zeptonow.com/production///tr:w-450,ar-1000-1000,pr-true,f-webp,q-80/inventory/product/9174d87e-7c47-4dc2-b4ea-d140ca30d052-1lQXPYXdXfLnsm7WwjEhXDLcQVCSwENIW.jpeg",
+      "img4": "https://cdn.zeptonow.com/production///tr:w-450,ar-1000-1000,pr-true,f-webp,q-80/inventory/product/9174d87e-7c47-4dc2-b4ea-d140ca30d052-1HWLWqK36uLqie2VNIPRMnu2Q6TNz4EOD.jpeg",
+      "title": "Lakme True Wear Nail Color, Reds & Maroons 404",
+      "price": "₹120",
+      "price2": "₹380",
+      "weight": "9 ml",
+      "discount": "15%"
+    },
+    {
+      "id": 16,
+      "img": "https://cdn.zeptonow.com/production///tr:w-450,ar-1000-1000,pr-true,f-webp,q-80/inventory/product/92e4510f-1df0-4c27-9060-885cc6e7987d-1_2BRtr6IN3KBAyra6Tjlx7b-SkfGmG3E.jpeg",
+      "img2": "https://cdn.zeptonow.com/production///tr:w-450,ar-1000-1000,pr-true,f-webp,q-80/inventory/product/92e4510f-1df0-4c27-9060-885cc6e7987d-1-DZHfxYZ03BXMtaIBDz0YxWTwnjHTvM2.jpeg",
+      "img3": "https://cdn.zeptonow.com/production///tr:w-450,ar-1000-1000,pr-true,f-webp,q-80/inventory/product/92e4510f-1df0-4c27-9060-885cc6e7987d-13aV3ZXZGOyry-KiqYGA83fCvRfiCcBAp.jpeg",
+      "img4": "https://cdn.zeptonow.com/production///tr:w-450,ar-1000-1000,pr-true,f-webp,q-80/inventory/product/92e4510f-1df0-4c27-9060-885cc6e7987d-1iFdJxCHoCduJ7hk0mvDL8bwxcTFXjgCK.jpeg",
+      "title": "Minimalist Salicylic Acid 2% For Acne Backheads And Oil Control Serum For Men & Women",
+      "price": "₹522",
+      "price2": "₹549",
+      "weight": "30 ml",
+      "discount": "4%"
+    },
+    {
+      "id": 17,
+      "img": "https://cdn.zeptonow.com/production///tr:w-450,ar-1500-1500,pr-true,f-webp,q-80/inventory/product/fc0a4140-133b-4eaa-8006-3d45efe2cd81-1FsRMQuTz9-fgmmMsscsA1N_9biUutMns.jpeg",
+      "img2": "https://cdn.zeptonow.com/production///tr:w-450,ar-1500-1500,pr-true,f-webp,q-80/inventory/product/fc0a4140-133b-4eaa-8006-3d45efe2cd81-1dS-F5AINXtE1_iH9IgTcdmTUH5NytOfc.jpeg",
+      "img3": "https://cdn.zeptonow.com/production///tr:w-450,ar-1500-1500,pr-true,f-webp,q-80/inventory/product/fc0a4140-133b-4eaa-8006-3d45efe2cd81-11SGvdBLt1r4Y5YqJGvrc4jktJFb6QqZW.jpeg",
+      "img4": "https://cdn.zeptonow.com/production///tr:w-450,ar-1500-1500,pr-true,f-webp,q-80/inventory/product/fc0a4140-133b-4eaa-8006-3d45efe2cd81-11G1Cfvhbp2zTYCmOQ3N21flYLhaxED2N.jpeg",
+      "title": "Dabur Gulabari Premium Rose Water - Paraben Free Skin Toner,",
+      "price": "₹50",
+      "price2": "₹52",
+      "weight": "120 ml",
+      "discount": "3%"
+    },
+    {
+      "id": 18,
+      "img2": "https://cdn.zeptonow.com/production///tr:w-450,ar-6096-9144,pr-true,f-webp,q-80/inventory/product/8aaaeed4-1021-477e-bff8-94e8b56b9b24-1qTBVijp0MlOIe2pSocSszUXXHtTN86Xg.jpeg",
+      "img": "https://cdn.zeptonow.com/production///tr:w-450,ar-679-679,pr-true,f-webp,q-80/inventory/product/8aaaeed4-1021-477e-bff8-94e8b56b9b24-1uT6q4bmtS4ARdaeJ3hbXpgfrTlSDLDTu.jpeg",
+      "img3": "https://cdn.zeptonow.com/production///tr:w-450,ar-3600-3600,pr-true,f-webp,q-80/inventory/product/8aaaeed4-1021-477e-bff8-94e8b56b9b24-1YyObeA8_0W_NoyAi4EGVdQF3wg4J0AIw.jpeg",
+      "img4": "https://cdn.zeptonow.com/production///tr:w-450,ar-6096-9144,pr-true,f-webp,q-80/inventory/product/8aaaeed4-1021-477e-bff8-94e8b56b9b24-1qTBVijp0MlOIe2pSocSszUXXHtTN86Xg.jpeg",
+      "title": "Hair Rubber Bands, Assorted Colour, 8 Pcs",
+      "price": "₹45",
+      "price2": "₹49",
+      "weight": "8 piece",
+      "discount": "8%"
+    },
+    {
+      "id": 19,
+      "img": "https://cdn.zeptonow.com/production///tr:w-450,ar-1000-1000,pr-true,f-webp,q-80/inventory/product/dcae1887-321f-4370-8e89-d03568ffff55-5f1ac8a5-4436-4b4b-9b4b-9d9879a7c5c4.jpeg",
+      "img2": "https://cdn.zeptonow.com/production///tr:w-450,ar-1120-1120,pr-true,f-webp,q-80/inventory/product/c7f0d8fb-1af1-431a-b330-3e7ebb07ee24-1CQrSLjgIOpxR4FtSN1AnOYEVz0-EZ7xb.jpeg",
+      "img3": "https://cdn.zeptonow.com/production///tr:w-450,ar-900-900,pr-true,f-webp,q-80/inventory/product/c7f0d8fb-1af1-431a-b330-3e7ebb07ee24-1DP-ljSUfIUKDEZENzi8lZI7PlY3poOXK.jpeg",
+      "img4": "https://cdn.zeptonow.com/production///tr:w-450,ar-1000-1000,pr-true,f-webp,q-80/inventory/product/dcae1887-321f-4370-8e89-d03568ffff55-5f1ac8a5-4436-4b4b-9b4b-9d9879a7c5c4.jpeg",
+      "title": "Glow & Lovely Advanced Multi Vitamin Face Cream",
+      "price": "₹122",
+      "price2": "₹380",
+      "weight": "50 g",
+      "discount": "15%"
+    },
+    {
+      "id": 20,
+      "img3": "https://cdn.zeptonow.com/production///tr:w-450,ar-500-306,pr-true,f-webp,q-80/inventory/product/9ff9e97a-8079-48e1-90d8-8d019b789463-1k3yXOl3_czdPCGQDIFN1pYIwtZczlK8F.jpeg",
+      "img2": "https://cdn.zeptonow.com/production///tr:w-450,ar-500-397,pr-true,f-webp,q-80/inventory/product/9ff9e97a-8079-48e1-90d8-8d019b789463-12dbDj0tGsZadFQ07gHCZUVWE-P7DokhI.jpeg",
+      "img": "https://cdn.zeptonow.com/production///tr:w-450,ar-500-500,pr-true,f-webp,q-80/inventory/product/9ff9e97a-8079-48e1-90d8-8d019b789463-1Z0H5TWtt8U6QwEDhOwSheiDGrzKewmUE.jpeg",
+      "img4": "https://cdn.zeptonow.com/production///tr:w-450,ar-1200-923,pr-true,f-webp,q-80/inventory/product/9ff9e97a-8079-48e1-90d8-8d019b789463-1q-c9SUaQjmqxYNeezGW8OC_ZRt-rdcBo.jpeg",
+      "title": "Tic Tac Pins Medium ( 12 Pcs )",
+      "price": "₹49",
+      "price2": "₹55",
+      "weight": "12 piece",
+      "discount": "10%"
+    },
+    {
+      "id": 21,
+      "img3": "https://cdn.zeptonow.com/production///tr:w-450,ar-337-500,pr-true,f-webp,q-80/inventory/product/9d4c530e-bcfd-48fd-8c97-c23203f5eabc-8932ced6-26d9-4130-899b-16fd778498cb.jpeg",
+      "img2": "https://cdn.zeptonow.com/production///tr:w-450,ar-800-800,pr-true,f-webp,q-80/inventory/product/b68e43ce-f71b-4e02-bccd-5eda6c9f2f67-17iI2ZLJNylAynRsoaiBZRCwoHRVmYbru.jpeg",
+      "img": "https://cdn.zeptonow.com/production///tr:w-450,ar-600-600,pr-true,f-webp,q-80/inventory/product/b68e43ce-f71b-4e02-bccd-5eda6c9f2f67-17i4nSbyCuu65Ae0ot2CENGbFvp8DG78g.jpeg",
+      "img4": "https://cdn.zeptonow.com/production///tr:w-450,ar-337-500,pr-true,f-webp,q-80/inventory/product/9d4c530e-bcfd-48fd-8c97-c23203f5eabc-8932ced6-26d9-4130-899b-16fd778498cb.jpeg",
+      "title": "Maybelline Baby Lips Cherry Kiss",
+      "price": "₹176",
+      "price2": "₹199",
+      "weight": "1 piece",
+      "discount": "11%"
+    },
+    {
+      "id": 22,
+      "img": "https://cdn.zeptonow.com/production///tr:w-450,ar-1080-1080,pr-true,f-webp,q-80/inventory/product/85d97718-18fe-4cca-aa57-5543d2343d20-1Ayx15JoLu7qCOxrm3RIJOU5CTJYr3Pnt.jpeg",
+      "img2": "https://cdn.zeptonow.com/production///tr:w-450,ar-750-1500,pr-true,f-webp,q-80/inventory/product/85d97718-18fe-4cca-aa57-5543d2343d20-1pq8ox25eD0Xw7syhC_oPGwFC-ZEIwFyO.jpeg",
+      "img3": "https://cdn.zeptonow.com/production///tr:w-450,ar-1080-1080,pr-true,f-webp,q-80/inventory/product/85d97718-18fe-4cca-aa57-5543d2343d20-1sOyCJdmXO7UWuzf_brAyIyPdHH_MwoH-.jpeg",
+      "img4": "https://cdn.zeptonow.com/production///tr:w-450,ar-1080-1080,pr-true,f-webp,q-80/inventory/product/85d97718-18fe-4cca-aa57-5543d2343d20-1RggwicTQNXjYxz1zkWhCS4ibonIbFAuu.jpeg",
+      "title": "WOW Skin Science Aloe Vera Gel",
+      "price": "₹270",
+      "price2": "₹299",
+      "weight": "150 ml",
+      "discount": "9%"
+    },
+    {
+      "id": 23,
+      "img": "https://cdn.zeptonow.com/production///tr:w-450,ar-1000-1000,pr-true,f-webp,q-80/inventory/product/09a4ea2c-dbf9-4cf0-9f59-3387be274dee-1_7KTVdLoAW70Yw2zagPoazLwujZSj_we.jpeg",
+      "img2": "https://cdn.zeptonow.com/production///tr:w-450,ar-1000-1014,pr-true,f-webp,q-80/inventory/product/09a4ea2c-dbf9-4cf0-9f59-3387be274dee-1mmVKOaRznrZTa54y4YpAryzOAq0Ftdrb.jpeg",
+      "img3": "https://cdn.zeptonow.com/production///tr:w-450,ar-1025-1000,pr-true,f-webp,q-80/inventory/product/09a4ea2c-dbf9-4cf0-9f59-3387be274dee-1lZR0qs9GyQYqAfgwWnX8owh_fD1izHcW.jpeg",
+      "img4": "https://cdn.zeptonow.com/production///tr:w-450,ar-1031-1000,pr-true,f-webp,q-80/inventory/product/09a4ea2c-dbf9-4cf0-9f59-3387be274dee-1hCQkMDZ4ITffK2QBCUeY5GRCFg7mJEOv.jpeg",
+      "title": "Mamaearth Aloe Vera Gel For Face",
+      "price": "₹294",
+      "price2": "₹319",
+      "weight": "300 ml",
+      "discount": "7%"
+    },
+    {
+      "id": 24,
+      "img": "https://cdn.zeptonow.com/production///tr:w-450,ar-679-679,pr-true,f-webp,q-80/inventory/product/eec84dcf-1443-4f13-bdc2-9dfcbeb482c8-1M-TIadmQwza1uDJsbwrm2wf2_jX9SMRt.jpeg",
+      "img2": "https://cdn.zeptonow.com/production///tr:w-450,ar-679-679,pr-true,f-webp,q-80/inventory/product/eec84dcf-1443-4f13-bdc2-9dfcbeb482c8-1wJf2M0JohDUzPZgkO5EB9T-A5V48WqpK.jpeg",
+      "img3": "https://cdn.zeptonow.com/production///tr:w-450,ar-679-679,pr-true,f-webp,q-80/inventory/product/eec84dcf-1443-4f13-bdc2-9dfcbeb482c8-13HMGqEvUUB-05VGLTwS3vnqcHc-BU63m.jpeg",
+      "img4": "https://cdn.zeptonow.com/production///tr:w-450,ar-679-679,pr-true,f-webp,q-80/inventory/product/eec84dcf-1443-4f13-bdc2-9dfcbeb482c8-1xmMHTq9P_9bbtiRcxfOT281urjlDKPJn.jpeg",
+      "title": "Nivea Lip Balm Soft Rose for 24h Moisture with Natural Oils Delicate Rose Shine",
+      "price": "₹199",
+      "price2": "₹380",
+      "weight": "4.8 g",
+      "discount": "15%"
+    },
+    {
+      "id": 25,
+      "img4": "https://cdn.zeptonow.com/production///tr:w-450,ar-657-823,pr-true,f-webp,q-80/inventory/product/73ca31e0-8caa-4cc1-90f5-52732b21cf55-1VvauwMd1YwGQUP-QKIRn6bgE129ABuH4.jpeg",
+      "img2": "https://cdn.zeptonow.com/production///tr:w-450,ar-438-1500,pr-true,f-webp,q-80/inventory/product/73ca31e0-8caa-4cc1-90f5-52732b21cf55-14t9ZqryO9Q6LCnfTxxRE5eRu_JIcnodo.jpeg",
+      "img3": "https://cdn.zeptonow.com/production///tr:w-450,ar-600-600,pr-true,f-webp,q-80/inventory/product/73ca31e0-8caa-4cc1-90f5-52732b21cf55-16aUGidu2uGpTmon-n_SM9BT5APJ-PNes.jpeg",
+      "img": "https://cdn.zeptonow.com/production///tr:w-450,ar-600-600,pr-true,f-webp,q-80/inventory/product/73ca31e0-8caa-4cc1-90f5-52732b21cf55-1BkEH7EVfKq_pDNx6X0_u59UpojYixy7u.jpeg",
+      "title": "White Tone Creamface Cream",
+      "price": "₹140",
+      "price2": "₹380",
+      "weight": "50 g",
+      "discount": "15%"
+    },
+    {
+      "id": 26,
+      "img": "https://cdn.zeptonow.com/production///tr:w-450,ar-1100-1100,pr-true,f-webp,q-80/inventory/product/a73dac06-86af-4bc4-a837-3eeda6e546b0-1Q65vi15Q14Aal_THbSpRx7wJXgeOmeua.jpeg",
+      "img2": "https://cdn.zeptonow.com/production///tr:w-450,ar-1050-1050,pr-true,f-webp,q-80/inventory/product/a73dac06-86af-4bc4-a837-3eeda6e546b0-17M0CvxSW_46tBFiPl-KZwkUkezHGcy5z.jpeg",
+      "img3": "https://cdn.zeptonow.com/production///tr:w-450,ar-1050-1050,pr-true,f-webp,q-80/inventory/product/a73dac06-86af-4bc4-a837-3eeda6e546b0-1PJ2B4iNntv9Che9lHMwN02wx91ryIdRn.jpeg",
+      "img4": "https://cdn.zeptonow.com/production///tr:w-450,ar-1100-1100,pr-true,f-webp,q-80/inventory/product/a73dac06-86af-4bc4-a837-3eeda6e546b0-1Q65vi15Q14Aal_THbSpRx7wJXgeOmeua.jpeg",
+      "title": "Maybelline Baby Lips Pink Lolita",
+      "price": "₹176",
+      "price2": "₹199",
+      "weight": "1 piece",
+      "discount": "11%"
+    },
+    {
+      "id": 27,
+      "img": "https://cdn.zeptonow.com/production///tr:w-450,ar-2000-2000,pr-true,f-webp,q-80/inventory/product/ce13b631-efe9-422a-b08d-9b3496c7d740-1NBD86UO71GdsXEEPxvOn46GnuwXj3aaz.jpeg",
+      "img2": "https://cdn.zeptonow.com/production///tr:w-450,ar-6240-4160,pr-true,f-webp,q-80/inventory/product/ce13b631-efe9-422a-b08d-9b3496c7d740-1-A1aSOGIR-BvU6UGZhkNmSWiuu2mP0CN.jpeg",
+      "img3": "https://cdn.zeptonow.com/production///tr:w-450,ar-2000-2000,pr-true,f-webp,q-80/inventory/product/ce13b631-efe9-422a-b08d-9b3496c7d740-1sXhPpOrg42bZO5_f1nLZX0Upvgy61OlV.jpeg",
+      "img4": "https://cdn.zeptonow.com/production///tr:w-450,ar-2083-2083,pr-true,f-webp,q-80/inventory/product/ce13b631-efe9-422a-b08d-9b3496c7d740-1BCmc4PkAqkV5SpRSXpl8tImvQd82aHxG.jpeg",
+      "title": "Compact Pop-up Hair Brush with Foldable Mirror (Gold)",
+      "price": "₹175",
+      "price2": "₹249",
+      "weight": "1 piece",
+      "discount": "29%"
+    },
+    {
+      "id": 28,
+      "img": "https://cdn.zeptonow.com/production///tr:w-450,ar-2000-2000,pr-true,f-webp,q-80/inventory/product/56c2dbf4-fb48-4e64-af2d-f10d6dbb707f-1mhugs-F69UigQBHYWoVD15vb2TCXgnMd.jpeg",
+      "img2": "https://cdn.zeptonow.com/production///tr:w-450,ar-2000-2000,pr-true,f-webp,q-80/inventory/product/56c2dbf4-fb48-4e64-af2d-f10d6dbb707f-1-6CnrGSIbVZes5Ya-EIRk66jvUwQz1g8.jpeg",
+      "img3": "https://cdn.zeptonow.com/production///tr:w-450,ar-2000-2000,pr-true,f-webp,q-80/inventory/product/56c2dbf4-fb48-4e64-af2d-f10d6dbb707f-1xxJyK3r8AnAxUBZqC8uRQtMclX_p6jmR.jpeg",
+      "img4": "https://cdn.zeptonow.com/production///tr:w-450,ar-2000-2000,pr-true,f-webp,q-80/inventory/product/56c2dbf4-fb48-4e64-af2d-f10d6dbb707f-1AFUxiBpjXU3ssIyrzWsi6yJ6_MApC0xO.jpeg",
+      "title": "Silicone Face Cleansing Scrubber for Exfoliation, Massaging (Pack of 2)",
+      "price": "₹225",
+      "price2": "₹299",
+      "weight": "1 piece",
+      "discount": "24%"
+    },
+    {
+      "id": 29,
+      "img": "https://cdn.zeptonow.com/production///tr:w-450,ar-1500-1500,pr-true,f-webp,q-80/inventory/product/aeb4dd76-bc2c-474c-92e2-533b0fa12a93-1ZFpP1SlHJebaJPmdDI-zTi72NDXviytx.jpeg",
+      "img2": "https://cdn.zeptonow.com/production///tr:w-450,ar-1500-1500,pr-true,f-webp,q-80/inventory/product/aeb4dd76-bc2c-474c-92e2-533b0fa12a93-1GwxVNHeDn69uBbX0UbYNYocbDFMgQwOs.jpeg",
+      "img3": "https://cdn.zeptonow.com/production///tr:w-450,ar-1500-1500,pr-true,f-webp,q-80/inventory/product/aeb4dd76-bc2c-474c-92e2-533b0fa12a93-14_b5NgfswzGt4jfLSxJ9u3EUTo_1ItaO.jpeg",
+      "img4": "https://cdn.zeptonow.com/production///tr:w-450,ar-1500-1500,pr-true,f-webp,q-80/inventory/product/aeb4dd76-bc2c-474c-92e2-533b0fa12a93-10PfEDrKqlVH6vEmBb842DJKaL3cPbu7c.jpeg",
+      "title": "Vaseline Lip Tins Aloe",
+      "price": "₹323",
+      "price2": "₹380",
+      "weight": "17 g",
+      "discount": "4%"
+    },
+    {
+      "id": 30,
+      "img": "https://cdn.zeptonow.com/production///tr:w-450,ar-1100-1100,pr-true,f-webp,q-80/inventory/product/37d07622-7821-4efc-99d6-8160235b2f0a-19O-16RJf3qJ0mUryXCHTX4oLggZ_k63u.jpeg",
+      "img2": "https://cdn.zeptonow.com/production///tr:w-450,ar-1100-1100,pr-true,f-webp,q-80/inventory/product/37d07622-7821-4efc-99d6-8160235b2f0a-1N0nuSRwh1fc7UHcoXFCwlWxUklm56ntj.jpeg",
+      "img3": "https://cdn.zeptonow.com/production///tr:w-450,ar-1100-1100,pr-true,f-webp,q-80/inventory/product/37d07622-7821-4efc-99d6-8160235b2f0a-1C04Mj8FNKiPlfDKyOmqyx1ANVLltFIl7.jpeg",
+      "img4": "https://cdn.zeptonow.com/production///tr:w-450,ar-1100-1100,pr-true,f-webp,q-80/inventory/product/37d07622-7821-4efc-99d6-8160235b2f0a-1_GyQwYTY5Tt-2NYp3t7DtaAhRKEh6il8.jpeg",
+      "title": "mCaffeine Coffee Lip Scrub | Exfoliates & Reduces Pigmentation",
+      "price": "₹285",
+      "price2": "₹299",
+      "weight": "12 g",
+      "discount": "4%"
+    },
+    {
+      "id": 31,
+      "img": "https://cdn.zeptonow.com/production///tr:w-450,ar-450-450,pr-true,f-webp,q-80/inventory/product/b2ca1889-4554-40be-b289-a9d8c7a05f95-image_file.jpeg",
+      "title": "Mango Totapuri",
+      "price": "₹123",
+      "price2": "₹151",
+      "weight": "1 kg (Approx. 4pcs - 5pcs)"
+    },
+    {
+      "id": 32,
+      "img": "https://cdn.zeptonow.com/production///tr:w-450,ar-500-500,pr-true,f-webp,q-80/inventory/product/01e5ea5f-9b18-42e1-8c16-b00ea2af2f18-f8e39466-1999-455e-be70-395c295d9280.jpeg",
+      "title": "Mango Banganapalli",
+      "price": "₹137",
+      "price2": "₹166",
+      "weight": "1 kg (Approx. 3pcs - 4pcs)"
+    },
+    {
+      "id": 33,
+      "img": "https://cdn.zeptonow.com/production///tr:w-450,ar-500-500,pr-true,f-webp,q-80/inventory/product/7f2c9b0c-39d4-4ddd-893c-ea36e60e7633-48fb2ac1-2a7b-49bf-b83f-3d29c802a465.jpeg",
+      "title": "Grapes Black Seedless",
+      "price": "₹57",
+      "price2": "₹68",
+      "weight": "500 g"
+    },
+    {
+      "id": 34,
+      "img": "https://cdn.zeptonow.com/production///tr:w-450,ar-500-369,pr-true,f-webp,q-80/inventory/product/8c9cfba3-0ee6-4202-bcfd-f890b2786bcf-image_file.png",
+      "title": "Mango Sindhura",
+      "price": "₹175",
+      "price2": "₹207",
+      "weight": "1 kg (Approx. 6pcs - 7pcs)"
+    },
+    {
+      "id": 35,
+      "img": "https://cdn.zeptonow.com/production///tr:w-450,ar-500-500,pr-true,f-webp,q-80/inventory/product/1fb5d67e-a73c-4829-b6b3-30dc92f12f11-f624d7ea-cb1d-4bc6-be9c-679c38450678.jpeg",
+      "title": "Apple Red Delicious",
+      "price": "₹135",
+      "price2": "₹164",
+      "weight": "4 piece"
+    },
+    {
+      "id": 36,
+      "img": "https://cdn.zeptonow.com/production///tr:w-450,ar-770-627,pr-true,f-webp,q-80/inventory/product/306bb6cd-b9a4-46bb-a7c0-8f7c781c0420-image_file.jpeg",
+      "title": "Orange Nagpur (Santara)",
+      "price": "₹47",
+      "price2": "₹57",
+      "weight": "500 g"
+    },
+    {
+      "id": 37,
+      "img": "https://cdn.zeptonow.com/production///tr:w-200,ar-4008-4008,pr-true,f-webp,q-80/inventory/product/e7a14330-625b-4ffe-af6d-1a9c75d222d1-shutterstock_486923446.jpg",
+      "title": "Tender Coconut",
+      "price": "₹138",
+      "price2": "₹138",
+      "weight": "3pc"
+    },
+    {
+      "id": 38,
+      "img": "https://cdn.zeptonow.com/production///tr:w-450,ar-500-500,pr-true,f-webp,q-80/inventory/product/20c2dfd6-97d4-4be3-be87-cee0776690f7-image_file.jpeg",
+      "title": "Grapes Green Seedless",
+      "price": "₹28",
+      "price2": "₹32",
+      "weight": "500 g"
+    },
+    {
+      "id": 39,
+      "img": "https://cdn.zeptonow.com/production///tr:w-450,ar-217-232,pr-true,f-webp,q-80/inventory/product/5dc9c5b7-4b36-4a9f-a9a7-decf4a43153a-f624d7ea-cb1d-4bc6-be9c-679c38450678.jpeg",
+      "title": "Apple Red Delicious",
+      "price": "₹75",
+      "price2": "₹91",
+      "weight": "2 pcs (Approx. 280g - 300g)"
+    },
+    {
+      "id": 40,
+      "img": "https://cdn.zeptonow.com/production///tr:w-450,ar-770-627,pr-true,f-webp,q-80/inventory/product/306bb6cd-b9a4-46bb-a7c0-8f7c781c0420-image_file.jpeg",
+      "title": "Orange Nagpur (Santara)",
+      "price": "₹47",
+      "price2": "₹57",
+      "weight": "500 g"
+    },
+    {
+      "id": 41,
+      "img": "https://cdn.zeptonow.com/production///tr:w-450,ar-500-450,pr-true,f-webp,q-80/inventory/product/30e08357-ee32-419f-aedd-741ebe3ddc14-/tmp/20230113-082708.jpeg",
+      "title": "Mix Grapes",
+      "price": "₹83",
+      "price2": "₹96",
+      "weight": "500 g"
+    },
+    {
+      "id": 42,
+      "img": "https://cdn.zeptonow.com/production///tr:w-450,ar-500-500,pr-true,f-webp,q-80/inventory/product/0f139399-5203-49a0-9750-ea450bfc2caa-40.jpeg",
+      "title": "Orange Imported",
+      "price": "₹98",
+      "price2": "₹122",
+      "weight": "4 piece"
+    },
+    {
+      "id": 43,
+      "img": "https://cdn.zeptonow.com/production///tr:w-450,ar-1500-1022,pr-true,f-webp,q-80/inventory/product/2e256ec1-4f92-4d71-b952-41f8188b9dfd-tmp/6d2288ae-a5f3-4af0-89e6-c419ea40d387.jpeg",
+      "title": "Watermelon Kiran",
+      "price": "₹69",
+      "price2": "₹85",
+      "weight": "1 pc (Approx. 2.2 - 3.5 kg)"
+    },
+    {
+      "id": 44,
+      "img": "https://cdn.zeptonow.com/production///tr:w-450,ar-500-500,pr-true,f-webp,q-80/inventory/product/9d6c78a7-ae4f-453a-95ed-b1337b09093d-tmp/2a240e29-096e-41fa-b539-f1d20b91fe4f.jpeg",
+      "title": "Apple Royal Gala",
+      "price": "₹141",
+      "price2": "₹172",
+      "weight": "4 pcs (500-600g)"
+    },
+    {
+      "id": 45,
+      "img": "https://cdn.zeptonow.com/production///tr:w-450,ar-489-500,pr-true,f-webp,q-80/inventory/product/c59fbf95-640c-4203-abf7-8fefc52cecca-tmp/cfedb00b-492c-4021-9879-1edb34b96bf0.jpeg",
+      "title": "Papaya Semi Ripe",
+      "price": "₹77",
+      "price2": "₹95",
+      "weight": "1 pc (Approx. 600g - 900g)"
+    },
+    {
+      "id": 46,
+      "img": "https://cdn.zeptonow.com/production///tr:w-450,ar-500-500,pr-true,f-webp,q-80/inventory/product/d5ac3a95-317f-4aee-8f48-f61515efee64-c4e14c1e-340f-445b-981f-034b762bd5aa.jpeg",
+      "title": "Mango Kesar",
+      "price": "₹285",
+      "price2": "₹348",
+      "weight": "1 kg"
+    },
+    {
+      "id": 47,
+      "img": "https://cdn.zeptonow.com/production///tr:w-450,ar-489-500,pr-true,f-webp,q-80/inventory/product/c59fbf95-640c-4203-abf7-8fefc52cecca-tmp/cfedb00b-492c-4021-9879-1edb34b96bf0.jpeg",
+      "title": "Papaya Semi Ripe",
+      "price": "₹77",
+      "price2": "₹95",
+      "weight": "1 pc (Approx. 600g - 900g)"
+    },
+    {
+      "id": 48,
+      "img": "https://cdn.zeptonow.com/production///tr:w-450,ar-1500-938,pr-true,f-webp,q-80/inventory/product/1f2bb758-9bdb-41b9-8615-a07e0c27128f-Photo.jpeg",
+      "title": "Pomegranate",
+      "price": "₹198",
+      "price2": "₹246",
+      "weight": "4 pcs (Approx. 720g - 820g)"
+    },
+    {
+      "id": 49,
+      "img": "https://cdn.zeptonow.com/production///tr:w-450,ar-600-426,pr-true,f-webp,q-80/inventory/product/e050647f-ecf0-4a57-a758-042d22bcabba-51.jpeg",
+      "title": "Apple Pink Lady",
+      "price": "₹184",
+      "price2": "₹224",
+      "weight": "4pc"
+    },
+    {
+      "id": 50,
+      "img": "https://cdn.zeptonow.com/production///tr:w-450,ar-1500-1500,pr-true,f-webp,q-80/inventory/product/06f38f12-2c12-46ff-83c7-e1ea8a864c01-573.jpg",
+      "title": "Papaya(1pc) & Watermelon Kiran(1pc) Combo",
+      "price": "₹140",
+      "price2": "₹180",
+      "weight": "2 Combo"
+    },
+    {
+      "id": 51,
+      "img": "https://cdn.zeptonow.com/production///tr:w-450,ar-499-356,pr-true,f-webp,q-80/inventory/product/f2603872-b193-4c5c-9388-0669317f8628-920119f6-a47a-4039-a3d3-e081b0796a1c.jpeg",
+      "title": "Muskmelon Semi Ripe",
+      "price": "₹42",
+      "price2": "₹52",
+      "weight": "1 pc (Approx. 600g - 800g)"
+    },
+    {
+      "id": 52,
+      "img": "https://cdn.zeptonow.com/production///tr:w-450,ar-470-470,pr-true,f-webp,q-80/inventory/product/20be2ba5-b845-407a-9406-80ef9c43c1a6-tmp/23d8686f-cad4-4c78-9c86-bc64a8c5c856.jpeg",
+      "title": "Dragon Fruit Imported",
+      "price": "₹95",
+      "price2": "₹116",
+      "weight": "1 pc (Approx. 300g)"
+    },
+    {
+      "id": 53,
+      "img": "https://cdn.zeptonow.com/production///tr:w-450,ar-900-900,pr-true,f-webp,q-80/inventory/product/c3aa00c2-6d2b-4c50-8005-ef59bcf9fd6a-29995b32-2f3c-4633-b103-801138d27e22.jpeg",
+      "title": "Orange Baby",
+      "price": "₹157",
+      "price2": "₹190",
+      "weight": "500 g"
+    },
+    {
+      "id": 54,
+      "img": "https://cdn.zeptonow.com/production///tr:w-450,ar-500-313,pr-true,f-webp,q-80/inventory/product/ec726c90-7fec-45a5-b706-26ec3592448a-image_file.jpeg",
+      "title": "Mango Raspuri",
+      "price": "₹240",
+      "price2": "₹289",
+      "weight": "1 kg"
+    },
+    {
+      "id": 55,
+      "img": "https://cdn.zeptonow.com/production///tr:w-450,ar-612-409,pr-true,f-webp,q-80/inventory/product/6383b6d1-f335-49b6-9c89-f5acbe14f5e8-image_file.jpeg",
+      "title": "Coconut",
+      "price": "₹31",
+      "price2": "₹38",
+      "weight": "1 pc (Approx. 500g - 700g)"
+    },
+    {
+      "id": 56,
+      "img": "https://cdn.zeptonow.com/production///tr:w-450,ar-522-522,pr-true,f-webp,q-80/inventory/product/98b8033c-0fe3-4fc3-81c8-4887e6f1c453-tmp/27ba1e7f-4166-4362-aee2-6fda4bd3a74d.jpeg",
+      "title": "Pomegranate",
+      "price": "₹128",
+      "price2": "₹151",
+      "weight": "2 pcs (Approx. 480g - 550g)"
+    },
+    {
+      "id": 57,
+      "img": "https://cdn.zeptonow.com/production///tr:w-450,ar-474-474,pr-true,f-webp,q-80/inventory/product/d0cb5f3f-dd15-41ab-a733-f3858b21a7d5-image_file.jpeg",
+      "title": "Sapota Semi Ripe",
+      "price": "₹28",
+      "price2": "₹34",
+      "weight": "250 g"
+    },
+    {
+      "id": 58,
+      "img": "https://cdn.zeptonow.com/production///tr:w-450,ar-612-408,pr-true,f-webp,q-80/inventory/product/f09fe9da-fa2c-4112-8188-49bb0430ed51-image",
+      "title": "Banana Elaichi / Yelakki Semi Ripe",
+      "price": "₹53",
+      "price2": "₹64",
+      "weight": "500 g"
+    },
+    {
+      "id": 59,
+      "img": "https://cdn.zeptonow.com/production///tr:w-450,ar-481-500,pr-true,f-webp,q-80/inventory/product/212cb308-8907-42a2-8a2e-c5b5c86d72dd-tmp/4142a02e-67e4-4967-9948-1aa86bed8d2c.jpeg",
+      "title": "Pineapple Semi Ripe",
+      "price": "₹91",
+      "price2": "₹111",
+      "weight": "1 pc (Approx. 900g - 1.2 kg)"
+    },
+    {
+      "id": 60,
+      "img": "https://cdn.zeptonow.com/production///tr:w-450,ar-466-545,pr-true,f-webp,q-80/inventory/product/e615d4b0-cb09-409a-a808-f3b6446e313f-71017b8e-d5d8-40ca-add3-548d4a688b23.jpeg",
+      "title": "Muskmelon Striped",
+      "price": "₹44",
+      "price2": "₹54",
+      "weight": "1 piece"
+    },
+    {
+      "id": 61,
+      "img": "https://cdn.zeptonow.com/production///tr:w-450,ar-730-436,pr-true,f-webp,q-80/inventory/product/fdca4f60-6ff3-4dcf-bebf-c7d4a459e21a-29.jpeg",
+      "title": "Mushroom Button",
+      "price": "₹102",
+      "price2": "₹128",
+      "weight": "360g-400g"
+    },
+    {
+      "id": 62,
+      "img": "https://cdn.zeptonow.com/production///tr:w-450,ar-500-500,pr-true,f-webp,q-80/inventory/product/a6052636-651e-4eb6-a2e4-f2c98efd9b02-tmp/7ace6422-09e9-411c-a1ab-d4161df2bd34.jpeg",
+      "title": "Green Peas",
+      "price": "₹53",
+      "price2": "₹64",
+      "weight": "500 g"
+    },
+    {
+      "id": 63,
+      "img": "https://cdn.zeptonow.com/production///tr:w-450,ar-612-491,pr-true,f-webp,q-80/inventory/product/aa0ca374-7e65-478d-b003-0267c3902f5d-ask.jpeg",
+      "title": "Onion",
+      "price": "₹46",
+      "price2": "₹58",
+      "weight": "2kg"
+    },
+    {
+      "id": 64,
+      "img": "https://cdn.zeptonow.com/production///tr:w-450,ar-612-765,pr-true,f-webp,q-80/inventory/product/dba0b2d1-036d-4f0a-ac49-294f6eebdb01-e952d0eb-d91d-4fc3-87cf-f86bf65d551e-7.webp",
+      "title": "Potato (1kg), Onion (1kg) & Tomato Local (1kg) Combo",
+      "price": "₹71",
+      "price2": "₹88",
+      "weight": "3 Combo"
+    },
+    {
+      "id": 65,
+      "img": "https://cdn.zeptonow.com/production///tr:w-450,ar-450-450,pr-true,f-webp,q-80/inventory/product/41e0ec5a-8918-4a29-838c-0c10b100e02a-33.jpeg",
+      "title": "Spinach",
+      "price": "₹50",
+      "price2": "₹62",
+      "weight": "500gms"
+    },
+    {
+      "id": 66,
+      "img": "https://cdn.zeptonow.com/production///tr:w-450,ar-1280-1280,pr-true,f-webp,q-80/inventory/product/962298c1-a3d1-439d-b24c-bc33dc9ce28b-32.jpeg",
+      "title": "Cucumber Green",
+      "price": "₹52",
+      "price2": "₹64",
+      "weight": "1kg"
+    },
+    {
+      "id": 67,
+      "img": "https://cdn.zeptonow.com/production///tr:w-450,ar-5098-4621,pr-true,f-webp,q-80/inventory/product/80e6363e-af2c-4ecb-80c9-9421c897f07b-shutterstock_1136455013_(1)_(1).jpg",
+      "title": "Garlic",
+      "price": "₹76",
+      "price2": "₹96",
+      "weight": "400gms"
+    },
+    {
+      "id": 68,
+      "img": "https://cdn.zeptonow.com/production///tr:w-450,ar-1000-1000,pr-true,f-webp,q-80/inventory/product/69391ee6-1674-4c37-826b-fe44da7f5b9a-40.jpeg",
+      "title": "Green Chilli",
+      "price": "₹28",
+      "price2": "₹36",
+      "weight": "200gms"
+    },
+    {
+      "id": 69,
+      "img": "https://cdn.zeptonow.com/production///tr:w-450,ar-1500-1024,pr-true,f-webp,q-80/inventory/product/67f997cd-c1c8-4422-af95-e8799d9af2d6-image_file.jpeg",
+      "title": "Lemon",
+      "price": "₹55",
+      "price2": "₹68",
+      "weight": "200 g"
+    },
+    {
+      "id": 70,
+      "img": "https://cdn.zeptonow.com/production///tr:w-450,ar-500-500,pr-true,f-webp,q-80/inventory/product/fc35bfa4-05b6-4a12-96b7-a68784dd0f92-73.png",
+      "title": "Beans Haricot",
+      "price": "₹56",
+      "price2": "₹70",
+      "weight": "500gms"
+    },
+    {
+      "id": 71,
+      "img": "https://cdn.zeptonow.com/production///tr:w-450,ar-459-374,pr-true,f-webp,q-80/inventory/product/cfb6f3aa-e07b-48c4-a723-3034f6f60907-f839ee3c-6f57-479b-b83b-790a00d80072-image_file.webp",
+      "title": "Potato",
+      "price": "₹110",
+      "price2": "₹140",
+      "weight": "5kg"
+    },
+    {
+      "id": 72,
+      "img": "https://cdn.zeptonow.com/production///tr:w-450,ar-495-466,pr-true,f-webp,q-80/inventory/product/15c691c5-c2ff-4a67-a6c1-639c809fcded-fa8d5633-34d7-4827-ae7c-a9f495bd3bc5-ffa11209-9d10-4dcb-80a6-2c9b587415a9-image_fileCoriacurry_(1).webp",
+      "title": "Coriander Leaves (100gms), Curry Leaves (50gms) & Chilli Green (100gms) Combo",
+      "price": "₹42",
+      "price2": "₹53",
+      "weight": "3 Combo"
+    },
+    {
+      "id": 73,
+      "img": "https://cdn.zeptonow.com/production///tr:w-450,ar-679-390,pr-true,f-webp,q-80/inventory/product/3c49b369-6ebe-44c4-85d8-81a9abffc6ae-53.jpeg",
+      "title": "Coccinia",
+      "price": "₹46",
+      "price2": "₹58",
+      "weight": "500gms"
+    },
+    {
+      "id": 74,
+      "img": "https://cdn.zeptonow.com/production///tr:w-450,ar-500-497,pr-true,f-webp,q-80/inventory/product/b0d59839-43fa-49ae-bc7d-b7ff72d35fe2-72.jpeg",
+      "title": "Cauliflower",
+      "price": "₹44",
+      "price2": "₹56",
+      "weight": "600gms"
+    },
+    {
+      "id": 75,
+      "img": "https://cdn.zeptonow.com/production///tr:w-450,ar-481-573,pr-true,f-webp,q-80/inventory/product/26df2645-1a0f-4c5c-9b52-4c4dd6e42fcf-93.jpg",
+      "title": "Garlic (200gms), Ginger (200gms) & Chilli Green (100gms) Combo",
+      "price": "₹89",
+      "price2": "₹112",
+      "weight": "3 Combo"
+    },
+    {
+      "id": 76,
+      "img": "https://cdn.zeptonow.com/production///tr:w-450,ar-1533-1706,pr-true,f-webp,q-80/inventory/product/7d1bf308-8708-4a63-ab01-b76301d96dba-b9e205c3-3cda-4a59-86fe-7e7bc270d45a-image_43c5c488b4-88fc-4d9f-9df3-8511970f2f20-75669751Mushroom_(1).jpg",
+      "title": "Broccoli (1pc), Mushrooms Button (200gms) & Bell Peppers Red & Yellow (2pc) Combo",
+      "price": "₹137",
+      "price2": "₹173",
+      "weight": "3 Combo"
+    },
+    {
+      "id": 77,
+      "img": "https://cdn.zeptonow.com/production///tr:w-450,ar-1500-1500,pr-true,f-webp,q-80/inventory/product/a9e0c1fe-b110-4190-ae39-92c85876a5ba-757.jpg",
+      "title": "Cabbage(1pc), Lady Finger Okara(500gms) & Cauliflower(300gms) Combo",
+      "price": "₹79",
+      "price2": "₹100",
+      "weight": "3 Combo"
+    },
+    {
+      "id": 78,
+      "img": "https://cdn.zeptonow.com/production///tr:w-450,ar-5104-4083,pr-true,f-webp,q-80/inventory/product/88787223-f90f-4986-bf98-77d005d44c81-shutterstock_1891634779-2_(1)_(1).jpg",
+      "title": "Coriander Leaves",
+      "price": "₹26",
+      "price2": "₹32",
+      "weight": "200gms"
+    },
+    {
+      "id": 79,
+      "img": "https://cdn.zeptonow.com/production///tr:w-450,ar-730-436,pr-true,f-webp,q-80/inventory/product/46a9089e-5791-46d6-91e4-8f03e135320c-image_file.jpeg",
+      "title": "Mushroom Button",
+      "price": "₹53",
+      "price2": "₹64",
+      "weight": "1 pack (Approx. 180g - 200g)"
+    },
+    {
+      "id": 80,
+      "img": "https://cdn.zeptonow.com/production///tr:w-450,ar-5225-3217,pr-true,f-webp,q-80/inventory/product/8effb9fa-76dd-407e-887f-43813cc1f5ae-cucumber_english.jpg",
+      "title": "Cucumber English",
+      "price": "₹33",
+      "price2": "₹40",
+      "weight": "500 g"
+    },
+    {
+      "id": 81,
+      "img": "https://cdn.zeptonow.com/production///tr:w-450,ar-1074-1074,pr-true,f-webp,q-80/inventory/product/e743ee70-d864-4298-b53c-2275f6ffd1db-eacd9ca9-638a-4dc2-90f1-400c2dbd32bf.jpeg",
+      "title": "Capsicum Green",
+      "price": "₹47",
+      "price2": "₹57",
+      "weight": "500 g"
+    },
+    {
+      "id": 82,
+      "img": "https://cdn.zeptonow.com/production///tr:w-450,ar-3133-1852,pr-true,f-webp,q-80/inventory/product/404fdc8f-7b85-4372-a4e6-d3e335b6d112-brinjal_bhartaa.jpg",
+      "title": "Brinjal Bharta",
+      "price": "₹38",
+      "price2": "₹47",
+      "weight": "500 g"
+    },
+    {
+      "id": 83,
+      "img": "https://cdn.zeptonow.com/production///tr:w-450,ar-500-500,pr-true,f-webp,q-80/inventory/product/ab15d4c0-b8ba-430e-913a-3b9f7cb55aa4-a26f3a1a-b8b5-496f-800a-158b0745505f.jpeg",
+      "title": "Tomato Local",
+      "price": "₹26",
+      "price2": "₹31",
+      "weight": "1 kg"
+    },
+    {
+      "id": 84,
+      "img": "https://cdn.zeptonow.com/production///tr:w-450,ar-600-400,pr-true,f-webp,q-80/inventory/product/ec6115b9-6cb4-4399-9602-d3fb090be6e5-image_file.jpeg",
+      "title": "Ridge Gourd",
+      "price": "₹46",
+      "price2": "₹56",
+      "weight": "500 g"
+    },
+    {
+      "id": 85,
+      "img": "https://cdn.zeptonow.com/production///tr:w-450,ar-6086-3465,pr-true,f-webp,q-80/inventory/product/02133d43-aad1-4e3d-9fc7-070e23c74da4-shutterstock_335444504_(1).jpg",
+      "title": "Lady Finger (Okra)",
+      "price": "₹39",
+      "price2": "₹48",
+      "weight": "500 g"
+    },
+    {
+      "id": 86,
+      "img": "https://cdn.zeptonow.com/production///tr:w-450,ar-1500-1500,pr-true,f-webp,q-80/inventory/product/1ebe0091-c87e-4d0f-bb5d-c95ec1349468-Bottle_Gourd_(1pc),_Coccinia_(250gms)_&_Cauliflower_(1pc)_Combo.jpg",
+      "title": "Cauliflower (300gms), Bottle Gourd (1pc) & Coccinia (250gms) Combo",
+      "price": "₹69",
+      "price2": "₹87",
+      "weight": "3 Combo"
+    },
+    {
+      "id": 87,
+      "img": "https://cdn.zeptonow.com/production///tr:w-450,ar-872-613,pr-true,f-webp,q-80/inventory/product/bba12334-0813-4f66-ad98-18494b8bb9e7-49.jpeg",
+      "title": "Amaranthus Red",
+      "price": "₹52",
+      "price2": "₹64",
+      "weight": "500gms"
+    },
+    {
+      "id": 88,
+      "img": "https://cdn.zeptonow.com/production///tr:w-450,ar-1000-1000,pr-true,f-webp,q-80/inventory/product/f0a78b05-7166-4cd0-a65f-9a84315f9531-tmp/438bc8cc-ce53-4e1e-8276-597dbaed220a.jpeg",
+      "title": "Sweet Corn",
+      "price": "₹28",
+      "price2": "₹35",
+      "weight": "2 pcs (Approx. 500g - 600g)"
+    },
+    {
+      "id": 89,
+      "img": "https://cdn.zeptonow.com/production///tr:w-450,ar-802-854,pr-true,f-webp,q-80/inventory/product/bb5cc493-4b26-4bc5-bbbf-ec06dad9a445-ffa11209-9d10-4dcb-80a6-2c9b587415a9-image_fileCoriae9916edf-40d8-4e64-b1c0-10a658748175-lemon_(1).jpg",
+      "title": "Coriander Leaves (100gms), Lemon (200gms) & Chilli Green (100gms) Combo",
+      "price": "₹80",
+      "price2": "₹102",
+      "weight": "3 Combo"
+    },
+    {
+      "id": 90,
+      "img": "https://cdn.zeptonow.com/production///tr:w-450,ar-450-450,pr-true,f-webp,q-80/inventory/product/e4ac4777-adb4-4076-8d54-0424161196e5-image_file.jpeg",
+      "title": "Ginger",
+      "price": "₹38",
+      "price2": "₹46",
+      "weight": "200 g"
+    },
+    {
+      "id": 91,
+      "img": "https://cdn.zeptonow.com/production///tr:w-450,ar-1000-1000,pr-true,f-webp,q-80/inventory/product/c89f35c6-5275-4124-b8be-13653aff648f-1exxYsUISux3Ul8efHeYm95FxltJLivd7.jpeg",
+      "img2": "https://cdn.zeptonow.com/production///tr:w-450,ar-1000-1000,pr-true,f-webp,q-80/inventory/product/c89f35c6-5275-4124-b8be-13653aff648f-1m_bP5_4raHc3TPkeVx8gJAuQp-JTgM_J.jpeg",
+      "img3": "https://cdn.zeptonow.com/production///tr:w-450,ar-1000-1000,pr-true,f-webp,q-80/inventory/product/c89f35c6-5275-4124-b8be-13653aff648f-1bxvCxzl2nVWy33dm_o5R-NQ_6ZEtzZVZ.jpeg",
+      "img4": "https://cdn.zeptonow.com/production///tr:w-450,ar-1000-1000,pr-true,f-webp,q-80/inventory/product/c89f35c6-5275-4124-b8be-13653aff648f-15-yB2zmeblqWvthvJtMDE4WAGljP8rde.jpeg",
+      "title": "Maybelline New York Fit Me Shade 128 Warm Nude Compact Powder",
+      "price": "₹220",
+      "price2": "₹249",
+      "weight": "8 g",
+      "discount": "11%"
+    },
+    {
+      "id": 92,
+      "img": "https://cdn.zeptonow.com/production///tr:w-450,ar-679-679,pr-true,f-webp,q-80/inventory/product/051d25ec-274d-4f74-bf42-2d4ad045daa0-1DBayIZ3gm4GOAXsrz2dh3qpaPQ7zLiMA.jpeg",
+      "img2": "https://cdn.zeptonow.com/production///tr:w-450,ar-644-879,pr-true,f-webp,q-80/inventory/product/051d25ec-274d-4f74-bf42-2d4ad045daa0-1aIczaFMXLwUFmvkYuWIGvnxdQcry1Kuf.jpeg",
+      "img3": "https://cdn.zeptonow.com/production///tr:w-450,ar-679-679,pr-true,f-webp,q-80/inventory/product/051d25ec-274d-4f74-bf42-2d4ad045daa0-1Hcnkv62C1uOfcSTfdWLDOaAbrpI_z8Oh.jpeg",
+      "img4": "https://cdn.zeptonow.com/production///tr:w-450,ar-644-879,pr-true,f-webp,q-80/inventory/product/051d25ec-274d-4f74-bf42-2d4ad045daa0-1zhAEq-ndg-4bG792ucZ5VxEqCX0JgCSV.jpeg",
+      "title": "SUGAR Cosmetics Kohl Of Honour Intense Kajal - 01 Black Out",
+      "price": "₹249",
+      "price2": "₹380",
+      "weight": "0.25 g",
+      "discount": "15%"
+    },
+    {
+      "id": 93,
+      "img": "https://cdn.zeptonow.com/production///tr:w-450,ar-679-679,pr-true,f-webp,q-80/inventory/product/745816f4-ab32-4304-be2b-d927f5b16cf9-1-fPDAGh2RaaOWrZaaVbDUHCeK-_mIOJN.jpeg",
+      "img2": "https://cdn.zeptonow.com/production///tr:w-450,ar-679-679,pr-true,f-webp,q-80/inventory/product/745816f4-ab32-4304-be2b-d927f5b16cf9-1T2E7RJ6vXHHyh3G33dr3wNBX9VB6sp3u.jpeg",
+      "img3": "https://cdn.zeptonow.com/production///tr:w-450,ar-679-679,pr-true,f-webp,q-80/inventory/product/745816f4-ab32-4304-be2b-d927f5b16cf9-1QMYwS_-mURoqaUWMTwwGWOVkcAAsY4r7.jpeg",
+      "img4": "https://cdn.zeptonow.com/production///tr:w-450,ar-679-679,pr-true,f-webp,q-80/inventory/product/745816f4-ab32-4304-be2b-d927f5b16cf9-1lGOo4K7rUMsH8ywr_DJFvn5axZw8n-AE.jpeg",
+      "title": "Faces Canada Ultime Pro Splash Nail Enamel Floral Dream 56",
+      "price": "₹107",
+      "price2": "₹119",
+      "weight": "1 piece",
+      "discount": "10%"
+    },
+    {
+      "id": 94,
+      "img": "https://cdn.zeptonow.com/production///tr:w-450,ar-679-679,pr-true,f-webp,q-80/inventory/product/664fea7c-f775-4ef3-8f89-e2d0cbd62f1a-19NTGwVDlAJP_UR4iSKXzXYkuQI5rm-u1.jpeg",
+      "img2": "https://cdn.zeptonow.com/production///tr:w-450,ar-500-500,pr-true,f-webp,q-80/inventory/product/664fea7c-f775-4ef3-8f89-e2d0cbd62f1a-15guuKo6f4oEHIoPwqhp6n8agwVHTQ3eZ.jpeg",
+      "img3": "https://cdn.zeptonow.com/production///tr:w-450,ar-679-679,pr-true,f-webp,q-80/inventory/product/664fea7c-f775-4ef3-8f89-e2d0cbd62f1a-1CHovdwqCnoxSfEH9nuo3PdtfABfH974O.jpeg",
+      "img4": "https://cdn.zeptonow.com/production///tr:w-450,ar-679-679,pr-true,f-webp,q-80/inventory/product/664fea7c-f775-4ef3-8f89-e2d0cbd62f1a-1QpY9HQcG4rSQQvrD0u5Gwe__S2aYT1fA.jpeg",
+      "title": "Lakme 9 to 5 Complexion Care Face Cream Bronze",
+      "price": "₹285",
+      "price2": "₹299",
+      "weight": "30 g",
+      "discount": "4%"
+    },
+    {
+      "id": 95,
+      "img": "https://cdn.zeptonow.com/production///tr:w-450,ar-1000-1000,pr-true,f-webp,q-80/inventory/product/324dce63-fd0c-4cda-be12-1f72f4a18f6c-1NtWEfhi-CuuxiJJCzmgQHn7C7Tq85vr_.jpeg",
+      "img2": "https://cdn.zeptonow.com/production///tr:w-450,ar-1000-1000,pr-true,f-webp,q-80/inventory/product/324dce63-fd0c-4cda-be12-1f72f4a18f6c-1zfswAgFQ-soPPFXBsIdGT_SdSTKaOPu5.jpeg",
+      "img3": "https://cdn.zeptonow.com/production///tr:w-450,ar-1000-1000,pr-true,f-webp,q-80/inventory/product/324dce63-fd0c-4cda-be12-1f72f4a18f6c-15fELFNDrUe3Ynh4feEpCukqLApVuwYFm.jpeg",
+      "img4": "https://cdn.zeptonow.com/production///tr:w-450,ar-1000-1000,pr-true,f-webp,q-80/inventory/product/324dce63-fd0c-4cda-be12-1f72f4a18f6c-1NrpdktskjACx32rHJDJPbkwruZUVwRRF.jpeg",
+      "title": "Maybelline New York Sensational Liquid Matte Lipstick 21 Nude Nuance ",
+      "price": "₹352",
+      "price2": "₹399",
+      "weight": "7 ml",
+      "discount": "11%"
+    },
+    {
+      "id": 96,
+      "img2": "https://cdn.zeptonow.com/production///tr:w-450,ar-644-879,pr-true,f-webp,q-80/inventory/product/703a25d2-2b84-40af-bdcc-212fef17aadc-15JpAMce7hALaN5crjuEk86vWHLIDveBz.jpeg",
+      "img": "https://cdn.zeptonow.com/production///tr:w-450,ar-679-679,pr-true,f-webp,q-80/inventory/product/703a25d2-2b84-40af-bdcc-212fef17aadc-17fZejsp9wJSaFOFUlNWkSGVRN24pGpV6.jpeg",
+      "img3": "https://cdn.zeptonow.com/production///tr:w-450,ar-679-679,pr-true,f-webp,q-80/inventory/product/703a25d2-2b84-40af-bdcc-212fef17aadc-1naBoRvl7pqr8YzABcptwVCLya5SGX9Bf.jpeg",
+      "img4": "https://cdn.zeptonow.com/production///tr:w-450,ar-679-679,pr-true,f-webp,q-80/inventory/product/703a25d2-2b84-40af-bdcc-212fef17aadc-1obBr-WpEmoVmwwrS26rRSqL00uYh1sFp.jpeg",
+      "title": "SUGAR Cosmetics Smudge Me Not Liquid Mini Lipstick - 09 Suave Mauve",
+      "price": "₹225",
+      "price2": "₹249",
+      "weight": "1 piece",
+      "discount": "9%"
+    },
+    {
+      "id": 97,
+      "img": "https://cdn.zeptonow.com/production///tr:w-450,ar-679-679,pr-true,f-webp,q-80/inventory/product/e8236017-295e-46ca-a94e-b65fb44f8427-1W-316rQkN74AIgizvI5NvJzLyXyXwgmM.jpeg",
+      "img2": "https://cdn.zeptonow.com/production///tr:w-450,ar-679-679,pr-true,f-webp,q-80/inventory/product/e8236017-295e-46ca-a94e-b65fb44f8427-137eyiVlidGj6Ce_qZriMg6bTg1XaFAOS.jpeg",
+      "img3": "https://cdn.zeptonow.com/production///tr:w-450,ar-679-679,pr-true,f-webp,q-80/inventory/product/e8236017-295e-46ca-a94e-b65fb44f8427-1Oti2XWS3523J9NGePZDxtE5rvy_11lgx.jpeg",
+      "img4": "https://cdn.zeptonow.com/production///tr:w-450,ar-679-679,pr-true,f-webp,q-80/inventory/product/e8236017-295e-46ca-a94e-b65fb44f8427-1SLVo4G3wnUm4pL0Qv3oDH6m-CXt1UXR-.jpeg",
+      "title": "Maybelline New York Lash Sensational Sky High Waterproof Mascara Lengthening ",
+      "price": "₹704",
+      "price2": "₹799",
+      "weight": "6 ml",
+      "discount": "11%"
+    },
+    {
+      "id": 98,
+      "img": "https://cdn.zeptonow.com/production///tr:w-450,ar-1000-1000,pr-true,f-webp,q-80/inventory/product/0b11668f-ab74-4b02-b1ad-62b2e30681eb-1ETSc5RB3vWyoELrhjv4j_ki1wob4xGF-.jpeg",
+      "img2": "https://cdn.zeptonow.com/production///tr:w-450,ar-1000-1000,pr-true,f-webp,q-80/inventory/product/0b11668f-ab74-4b02-b1ad-62b2e30681eb-1M-MnC3n7psRUwbWdiaPC9CZ7AY7kx353.jpeg",
+      "img3": "https://cdn.zeptonow.com/production///tr:w-450,ar-1000-1000,pr-true,f-webp,q-80/inventory/product/0b11668f-ab74-4b02-b1ad-62b2e30681eb-13VP4omCDKdcvLtGGiYajRAmoeKyVQmRs.jpeg",
+      "img4": "https://cdn.zeptonow.com/production///tr:w-450,ar-1000-1000,pr-true,f-webp,q-80/inventory/product/0b11668f-ab74-4b02-b1ad-62b2e30681eb-14srOJP5kV_RI_20Aojbw6qTIfFG4ixRN.jpeg",
+      "title": "Maybelline New York Super Stay Ink Crayon Lipstick X Pinks Edition 85 Change Is Good",
+      "price": "₹704",
+      "price2": "₹799",
+      "weight": "1.2 g",
+      "discount": "11%"
+    },
+    {
+      "id": 99,
+      "img": "https://cdn.zeptonow.com/production///tr:w-450,ar-1000-1000,pr-true,f-webp,q-80/inventory/product/d966ebfa-96c5-4d10-947d-830d8b761bc2-dea83725-f72c-450b-aefb-61a00c2534c9.jpeg",
+      "img2": "https://cdn.zeptonow.com/production///tr:w-450,ar-600-600,pr-true,f-webp,q-80/inventory/product/744085a0-cc54-47f3-9099-0fd6ee3ee25f-1C7wPt3SwL4Y9nuVwgbdprMIxc4sY0DbX.jpeg",
+      "img3": "https://cdn.zeptonow.com/production///tr:w-450,ar-600-600,pr-true,f-webp,q-80/inventory/product/744085a0-cc54-47f3-9099-0fd6ee3ee25f-1qYvBX6ztFVMd0LpHt3n3zyGuGRjuiHLn.jpeg",
+      "img4": "https://cdn.zeptonow.com/production///tr:w-450,ar-600-600,pr-true,f-webp,q-80/inventory/product/744085a0-cc54-47f3-9099-0fd6ee3ee25f-1-3YSJJtc1CmD6pD8jLcdHoMGGpo3xk80.jpeg",
+      "title": "Garnier Bright Complete Mask",
+      "price": "₹99",
+      "price2": "₹380",
+      "weight": "28 g",
+      "discount": "15%"
+    },
+    {
+      "id": 100,
+      "img": "https://cdn.zeptonow.com/production///tr:w-450,ar-3868-3868,pr-true,f-webp,q-80/inventory/product/42693592-107f-4b7a-885f-5f8b12a3e9cd-1ZYsSFQka58ue1iE1LAIFa9Zpy-4rf1w-.jpeg",
+      "img2": "https://cdn.zeptonow.com/production///tr:w-450,ar-3868-3868,pr-true,f-webp,q-80/inventory/product/42693592-107f-4b7a-885f-5f8b12a3e9cd-1FA5ZFPVKZvfPqY350B_8G3AqyzwD9WBd.jpeg",
+      "img3": "https://cdn.zeptonow.com/production///tr:w-450,ar-3868-3868,pr-true,f-webp,q-80/inventory/product/42693592-107f-4b7a-885f-5f8b12a3e9cd-1jJ0B2gkRoxLcYiVp8dyQfm2ExeRmn6Hr.jpeg",
+      "img4": "https://cdn.zeptonow.com/production///tr:w-450,ar-3868-3868,pr-true,f-webp,q-80/inventory/product/42693592-107f-4b7a-885f-5f8b12a3e9cd-17kmAQEGECeesYZ29MbsDgK9-eFfPQ3oY.jpeg",
+      "title": "Faces Canada Weightless Matte Finish Foundation Beige 03",
+      "price": "₹172",
+      "price2": "₹199",
+      "weight": "18 ml",
+      "discount": "13%"
+    },
+    {
+      "id": 101,
+      "img": "https://cdn.zeptonow.com/production///tr:w-450,ar-1200-1200,pr-true,f-webp,q-80/inventory/product/1f2b7f13-542f-4862-906a-22efe37032da-745ca29b-9b4a-43b5-b736-3014846075a7.jpeg",
+      "img2": "https://cdn.zeptonow.com/production///tr:w-450,ar-1500-1500,pr-true,f-webp,q-80/inventory/product/e6c49509-04b7-4179-b46b-cb01fa778f17-1BcYg8TWg7gONeK1Ass-cbp_nok6y1asA.jpeg",
+      "img3": "https://cdn.zeptonow.com/production///tr:w-450,ar-1201-1200,pr-true,f-webp,q-80/inventory/product/e6c49509-04b7-4179-b46b-cb01fa778f17-1jiyXScbqJxmDJOGTYZ0wVCTH65cM9Uz7.jpeg",
+      "img4": "https://cdn.zeptonow.com/production///tr:w-450,ar-1500-1499,pr-true,f-webp,q-80/inventory/product/e6c49509-04b7-4179-b46b-cb01fa778f17-1cLp4w0jZNyfnhgwQyptms5--UhoE6b0O.jpeg",
+      "title": "Mamaearth Bye Bye Dark Circles Under Eye Cream",
+      "price": "₹368",
+      "price2": "₹399",
+      "weight": "20 ml",
+      "discount": "7%"
+    },
+    {
+      "id": 102,
+      "img": "https://cdn.zeptonow.com/production///tr:w-450,ar-4167-4167,pr-true,f-webp,q-80/inventory/product/a46218ff-2ce1-4aaa-8442-800d1dd9b1b8-1DCwVXDR1QOeAiqjMijIEhQHrSbzdW4Be.jpeg",
+      "img2": "https://cdn.zeptonow.com/production///tr:w-450,ar-4167-4167,pr-true,f-webp,q-80/inventory/product/a46218ff-2ce1-4aaa-8442-800d1dd9b1b8-1sRgFviP7GcRES6cmVXlHlzwVvX_kxt_V.jpeg",
+      "img3": "https://cdn.zeptonow.com/production///tr:w-450,ar-1000-1000,pr-true,f-webp,q-80/inventory/product/a46218ff-2ce1-4aaa-8442-800d1dd9b1b8-1nEqsrJADrKXR3yXjx-gch4NGOxEtEait.jpeg",
+      "img4": "https://cdn.zeptonow.com/production///tr:w-450,ar-1000-1000,pr-true,f-webp,q-80/inventory/product/a46218ff-2ce1-4aaa-8442-800d1dd9b1b8-18J2JkN6qcy02fTOWx0G8lyy1ypk7UiiM.jpeg",
+      "title": "Maybelline New York Fit Me Concealer25 Medium",
+      "price": "₹528",
+      "price2": "₹599",
+      "weight": "6.8 ml",
+      "discount": "11%"
+    },
+    {
+      "id": 103,
+      "img2": "https://cdn.zeptonow.com/production///tr:w-450,ar-1025-1400,pr-true,f-webp,q-80/inventory/product/55af1823-b99a-48b0-a874-e4dcecc6f5bb-Photo.jpeg",
+      "img": "https://cdn.zeptonow.com/production///tr:w-450,ar-1500-1500,pr-true,f-webp,q-80/inventory/product/af23e1c3-731b-49d3-a689-603b67df475b-1_6lLPKJEPVZ-8yGnkaE0wkQPzvR8XOwc.jpeg",
+      "img3": "https://cdn.zeptonow.com/production///tr:w-450,ar-1500-1500,pr-true,f-webp,q-80/inventory/product/af23e1c3-731b-49d3-a689-603b67df475b-1ZhgKyI_gsmljJ_gOsWbfOfYnJKXMNjCi.jpeg",
+      "img4": "https://cdn.zeptonow.com/production///tr:w-450,ar-1100-1100,pr-true,f-webp,q-80/inventory/product/af23e1c3-731b-49d3-a689-603b67df475b-1Ay5bCKXvpsQgRcTb-_-p8K9MNdJjGdfG.jpeg",
+      "title": "SUGAR Cosmetics Arch Arrival Brow Definer - 03 Woody Scooby (Deep Brown)",
+      "price": "₹499",
+      "price2": "₹580",
+      "weight": "3.5 g",
+      "discount": "15%"
+    },
+    {
+      "id": 104,
+      "img": "https://cdn.zeptonow.com/production///tr:w-450,ar-1934-1934,pr-true,f-webp,q-80/inventory/product/7192a837-8900-432b-8d38-aaf74d48c878-1pTKwbQMhj-82cjGguD5xA6eqdqbBpYV4.jpeg",
+      "img2": "https://cdn.zeptonow.com/production///tr:w-450,ar-2500-2500,pr-true,f-webp,q-80/inventory/product/7192a837-8900-432b-8d38-aaf74d48c878-1HQ2Z-lNMa5M_6KzJ7y4dFsLLoETQBfk5.jpeg",
+      "img3": "https://cdn.zeptonow.com/production///tr:w-450,ar-2500-2500,pr-true,f-webp,q-80/inventory/product/7192a837-8900-432b-8d38-aaf74d48c878-1nH0er6H9C7ur7wQYUtne-PcR4Ld1GIMd.jpeg",
+      "img4": "https://cdn.zeptonow.com/production///tr:w-450,ar-2500-2500,pr-true,f-webp,q-80/inventory/product/7192a837-8900-432b-8d38-aaf74d48c878-1PnPUmWUlCzPcCwz7nZd8VOK3s_JrdXbW.jpeg",
+      "title": "Faces Canada Weightless Matte Finish Lipstick Buff Nude 05",
+      "price": "₹240",
+      "price2": "₹299",
+      "weight": "4.5 g",
+      "discount": "19%"
+    },
+    {
+      "id": 105,
+      "img": "https://cdn.zeptonow.com/production///tr:w-450,ar-1000-1000,pr-true,f-webp,q-80/inventory/product/9174d87e-7c47-4dc2-b4ea-d140ca30d052-103pRtkbCEAOkWwsYSEIURWBitjpFN-wX.jpeg",
+      "img2": "https://cdn.zeptonow.com/production///tr:w-450,ar-1000-1000,pr-true,f-webp,q-80/inventory/product/9174d87e-7c47-4dc2-b4ea-d140ca30d052-1WkQze_o0KFO2TQfhUmnwnXafE1ORTbYh.jpeg",
+      "img3": "https://cdn.zeptonow.com/production///tr:w-450,ar-1000-1000,pr-true,f-webp,q-80/inventory/product/9174d87e-7c47-4dc2-b4ea-d140ca30d052-1lQXPYXdXfLnsm7WwjEhXDLcQVCSwENIW.jpeg",
+      "img4": "https://cdn.zeptonow.com/production///tr:w-450,ar-1000-1000,pr-true,f-webp,q-80/inventory/product/9174d87e-7c47-4dc2-b4ea-d140ca30d052-1HWLWqK36uLqie2VNIPRMnu2Q6TNz4EOD.jpeg",
+      "title": "Lakme True Wear Nail Color, Reds & Maroons 404",
+      "price": "₹120",
+      "price2": "₹380",
+      "weight": "9 ml",
+      "discount": "15%"
+    },
+    {
+      "id": 106,
+      "img": "https://cdn.zeptonow.com/production///tr:w-450,ar-1000-1000,pr-true,f-webp,q-80/inventory/product/92e4510f-1df0-4c27-9060-885cc6e7987d-1_2BRtr6IN3KBAyra6Tjlx7b-SkfGmG3E.jpeg",
+      "img2": "https://cdn.zeptonow.com/production///tr:w-450,ar-1000-1000,pr-true,f-webp,q-80/inventory/product/92e4510f-1df0-4c27-9060-885cc6e7987d-1-DZHfxYZ03BXMtaIBDz0YxWTwnjHTvM2.jpeg",
+      "img3": "https://cdn.zeptonow.com/production///tr:w-450,ar-1000-1000,pr-true,f-webp,q-80/inventory/product/92e4510f-1df0-4c27-9060-885cc6e7987d-13aV3ZXZGOyry-KiqYGA83fCvRfiCcBAp.jpeg",
+      "img4": "https://cdn.zeptonow.com/production///tr:w-450,ar-1000-1000,pr-true,f-webp,q-80/inventory/product/92e4510f-1df0-4c27-9060-885cc6e7987d-1iFdJxCHoCduJ7hk0mvDL8bwxcTFXjgCK.jpeg",
+      "title": "Minimalist Salicylic Acid 2% For Acne Backheads And Oil Control Serum For Men & Women",
+      "price": "₹522",
+      "price2": "₹549",
+      "weight": "30 ml",
+      "discount": "4%"
+    },
+    {
+      "id": 107,
+      "img": "https://cdn.zeptonow.com/production///tr:w-450,ar-1500-1500,pr-true,f-webp,q-80/inventory/product/fc0a4140-133b-4eaa-8006-3d45efe2cd81-1FsRMQuTz9-fgmmMsscsA1N_9biUutMns.jpeg",
+      "img2": "https://cdn.zeptonow.com/production///tr:w-450,ar-1500-1500,pr-true,f-webp,q-80/inventory/product/fc0a4140-133b-4eaa-8006-3d45efe2cd81-1dS-F5AINXtE1_iH9IgTcdmTUH5NytOfc.jpeg",
+      "img3": "https://cdn.zeptonow.com/production///tr:w-450,ar-1500-1500,pr-true,f-webp,q-80/inventory/product/fc0a4140-133b-4eaa-8006-3d45efe2cd81-11SGvdBLt1r4Y5YqJGvrc4jktJFb6QqZW.jpeg",
+      "img4": "https://cdn.zeptonow.com/production///tr:w-450,ar-1500-1500,pr-true,f-webp,q-80/inventory/product/fc0a4140-133b-4eaa-8006-3d45efe2cd81-11G1Cfvhbp2zTYCmOQ3N21flYLhaxED2N.jpeg",
+      "title": "Dabur Gulabari Premium Rose Water - Paraben Free Skin Toner,",
+      "price": "₹50",
+      "price2": "₹52",
+      "weight": "120 ml",
+      "discount": "3%"
+    },
+    {
+      "id": 108,
+      "img2": "https://cdn.zeptonow.com/production///tr:w-450,ar-6096-9144,pr-true,f-webp,q-80/inventory/product/8aaaeed4-1021-477e-bff8-94e8b56b9b24-1qTBVijp0MlOIe2pSocSszUXXHtTN86Xg.jpeg",
+      "img": "https://cdn.zeptonow.com/production///tr:w-450,ar-679-679,pr-true,f-webp,q-80/inventory/product/8aaaeed4-1021-477e-bff8-94e8b56b9b24-1uT6q4bmtS4ARdaeJ3hbXpgfrTlSDLDTu.jpeg",
+      "img3": "https://cdn.zeptonow.com/production///tr:w-450,ar-3600-3600,pr-true,f-webp,q-80/inventory/product/8aaaeed4-1021-477e-bff8-94e8b56b9b24-1YyObeA8_0W_NoyAi4EGVdQF3wg4J0AIw.jpeg",
+      "img4": "https://cdn.zeptonow.com/production///tr:w-450,ar-6096-9144,pr-true,f-webp,q-80/inventory/product/8aaaeed4-1021-477e-bff8-94e8b56b9b24-1qTBVijp0MlOIe2pSocSszUXXHtTN86Xg.jpeg",
+      "title": "Hair Rubber Bands, Assorted Colour, 8 Pcs",
+      "price": "₹45",
+      "price2": "₹49",
+      "weight": "8 piece",
+      "discount": "8%"
+    },
+    {
+      "id": 109,
+      "img": "https://cdn.zeptonow.com/production///tr:w-450,ar-1000-1000,pr-true,f-webp,q-80/inventory/product/dcae1887-321f-4370-8e89-d03568ffff55-5f1ac8a5-4436-4b4b-9b4b-9d9879a7c5c4.jpeg",
+      "img2": "https://cdn.zeptonow.com/production///tr:w-450,ar-1120-1120,pr-true,f-webp,q-80/inventory/product/c7f0d8fb-1af1-431a-b330-3e7ebb07ee24-1CQrSLjgIOpxR4FtSN1AnOYEVz0-EZ7xb.jpeg",
+      "img3": "https://cdn.zeptonow.com/production///tr:w-450,ar-900-900,pr-true,f-webp,q-80/inventory/product/c7f0d8fb-1af1-431a-b330-3e7ebb07ee24-1DP-ljSUfIUKDEZENzi8lZI7PlY3poOXK.jpeg",
+      "img4": "https://cdn.zeptonow.com/production///tr:w-450,ar-1000-1000,pr-true,f-webp,q-80/inventory/product/dcae1887-321f-4370-8e89-d03568ffff55-5f1ac8a5-4436-4b4b-9b4b-9d9879a7c5c4.jpeg",
+      "title": "Glow & Lovely Advanced Multi Vitamin Face Cream",
+      "price": "₹122",
+      "price2": "₹380",
+      "weight": "50 g",
+      "discount": "15%"
+    },
+    {
+      "id": 110,
+      "img3": "https://cdn.zeptonow.com/production///tr:w-450,ar-500-306,pr-true,f-webp,q-80/inventory/product/9ff9e97a-8079-48e1-90d8-8d019b789463-1k3yXOl3_czdPCGQDIFN1pYIwtZczlK8F.jpeg",
+      "img2": "https://cdn.zeptonow.com/production///tr:w-450,ar-500-397,pr-true,f-webp,q-80/inventory/product/9ff9e97a-8079-48e1-90d8-8d019b789463-12dbDj0tGsZadFQ07gHCZUVWE-P7DokhI.jpeg",
+      "img": "https://cdn.zeptonow.com/production///tr:w-450,ar-500-500,pr-true,f-webp,q-80/inventory/product/9ff9e97a-8079-48e1-90d8-8d019b789463-1Z0H5TWtt8U6QwEDhOwSheiDGrzKewmUE.jpeg",
+      "img4": "https://cdn.zeptonow.com/production///tr:w-450,ar-1200-923,pr-true,f-webp,q-80/inventory/product/9ff9e97a-8079-48e1-90d8-8d019b789463-1q-c9SUaQjmqxYNeezGW8OC_ZRt-rdcBo.jpeg",
+      "title": "Tic Tac Pins Medium ( 12 Pcs )",
+      "price": "₹49",
+      "price2": "₹55",
+      "weight": "12 piece",
+      "discount": "10%"
+    },
+    {
+      "id": 111,
+      "img3": "https://cdn.zeptonow.com/production///tr:w-450,ar-337-500,pr-true,f-webp,q-80/inventory/product/9d4c530e-bcfd-48fd-8c97-c23203f5eabc-8932ced6-26d9-4130-899b-16fd778498cb.jpeg",
+      "img2": "https://cdn.zeptonow.com/production///tr:w-450,ar-800-800,pr-true,f-webp,q-80/inventory/product/b68e43ce-f71b-4e02-bccd-5eda6c9f2f67-17iI2ZLJNylAynRsoaiBZRCwoHRVmYbru.jpeg",
+      "img": "https://cdn.zeptonow.com/production///tr:w-450,ar-600-600,pr-true,f-webp,q-80/inventory/product/b68e43ce-f71b-4e02-bccd-5eda6c9f2f67-17i4nSbyCuu65Ae0ot2CENGbFvp8DG78g.jpeg",
+      "img4": "https://cdn.zeptonow.com/production///tr:w-450,ar-337-500,pr-true,f-webp,q-80/inventory/product/9d4c530e-bcfd-48fd-8c97-c23203f5eabc-8932ced6-26d9-4130-899b-16fd778498cb.jpeg",
+      "title": "Maybelline Baby Lips Cherry Kiss",
+      "price": "₹176",
+      "price2": "₹199",
+      "weight": "1 piece",
+      "discount": "11%"
+    },
+    {
+      "id": 112,
+      "img": "https://cdn.zeptonow.com/production///tr:w-450,ar-1080-1080,pr-true,f-webp,q-80/inventory/product/85d97718-18fe-4cca-aa57-5543d2343d20-1Ayx15JoLu7qCOxrm3RIJOU5CTJYr3Pnt.jpeg",
+      "img2": "https://cdn.zeptonow.com/production///tr:w-450,ar-750-1500,pr-true,f-webp,q-80/inventory/product/85d97718-18fe-4cca-aa57-5543d2343d20-1pq8ox25eD0Xw7syhC_oPGwFC-ZEIwFyO.jpeg",
+      "img3": "https://cdn.zeptonow.com/production///tr:w-450,ar-1080-1080,pr-true,f-webp,q-80/inventory/product/85d97718-18fe-4cca-aa57-5543d2343d20-1sOyCJdmXO7UWuzf_brAyIyPdHH_MwoH-.jpeg",
+      "img4": "https://cdn.zeptonow.com/production///tr:w-450,ar-1080-1080,pr-true,f-webp,q-80/inventory/product/85d97718-18fe-4cca-aa57-5543d2343d20-1RggwicTQNXjYxz1zkWhCS4ibonIbFAuu.jpeg",
+      "title": "WOW Skin Science Aloe Vera Gel",
+      "price": "₹270",
+      "price2": "₹299",
+      "weight": "150 ml",
+      "discount": "9%"
+    },
+    {
+      "id": 113,
+      "img": "https://cdn.zeptonow.com/production///tr:w-450,ar-1000-1000,pr-true,f-webp,q-80/inventory/product/09a4ea2c-dbf9-4cf0-9f59-3387be274dee-1_7KTVdLoAW70Yw2zagPoazLwujZSj_we.jpeg",
+      "img2": "https://cdn.zeptonow.com/production///tr:w-450,ar-1000-1014,pr-true,f-webp,q-80/inventory/product/09a4ea2c-dbf9-4cf0-9f59-3387be274dee-1mmVKOaRznrZTa54y4YpAryzOAq0Ftdrb.jpeg",
+      "img3": "https://cdn.zeptonow.com/production///tr:w-450,ar-1025-1000,pr-true,f-webp,q-80/inventory/product/09a4ea2c-dbf9-4cf0-9f59-3387be274dee-1lZR0qs9GyQYqAfgwWnX8owh_fD1izHcW.jpeg",
+      "img4": "https://cdn.zeptonow.com/production///tr:w-450,ar-1031-1000,pr-true,f-webp,q-80/inventory/product/09a4ea2c-dbf9-4cf0-9f59-3387be274dee-1hCQkMDZ4ITffK2QBCUeY5GRCFg7mJEOv.jpeg",
+      "title": "Mamaearth Aloe Vera Gel For Face",
+      "price": "₹294",
+      "price2": "₹319",
+      "weight": "300 ml",
+      "discount": "7%"
+    },
+    {
+      "id": 114,
+      "img": "https://cdn.zeptonow.com/production///tr:w-450,ar-679-679,pr-true,f-webp,q-80/inventory/product/eec84dcf-1443-4f13-bdc2-9dfcbeb482c8-1M-TIadmQwza1uDJsbwrm2wf2_jX9SMRt.jpeg",
+      "img2": "https://cdn.zeptonow.com/production///tr:w-450,ar-679-679,pr-true,f-webp,q-80/inventory/product/eec84dcf-1443-4f13-bdc2-9dfcbeb482c8-1wJf2M0JohDUzPZgkO5EB9T-A5V48WqpK.jpeg",
+      "img3": "https://cdn.zeptonow.com/production///tr:w-450,ar-679-679,pr-true,f-webp,q-80/inventory/product/eec84dcf-1443-4f13-bdc2-9dfcbeb482c8-13HMGqEvUUB-05VGLTwS3vnqcHc-BU63m.jpeg",
+      "img4": "https://cdn.zeptonow.com/production///tr:w-450,ar-679-679,pr-true,f-webp,q-80/inventory/product/eec84dcf-1443-4f13-bdc2-9dfcbeb482c8-1xmMHTq9P_9bbtiRcxfOT281urjlDKPJn.jpeg",
+      "title": "Nivea Lip Balm Soft Rose for 24h Moisture with Natural Oils Delicate Rose Shine",
+      "price": "₹199",
+      "price2": "₹380",
+      "weight": "4.8 g",
+      "discount": "15%"
+    },
+    {
+      "id": 115,
+      "img4": "https://cdn.zeptonow.com/production///tr:w-450,ar-657-823,pr-true,f-webp,q-80/inventory/product/73ca31e0-8caa-4cc1-90f5-52732b21cf55-1VvauwMd1YwGQUP-QKIRn6bgE129ABuH4.jpeg",
+      "img2": "https://cdn.zeptonow.com/production///tr:w-450,ar-438-1500,pr-true,f-webp,q-80/inventory/product/73ca31e0-8caa-4cc1-90f5-52732b21cf55-14t9ZqryO9Q6LCnfTxxRE5eRu_JIcnodo.jpeg",
+      "img3": "https://cdn.zeptonow.com/production///tr:w-450,ar-600-600,pr-true,f-webp,q-80/inventory/product/73ca31e0-8caa-4cc1-90f5-52732b21cf55-16aUGidu2uGpTmon-n_SM9BT5APJ-PNes.jpeg",
+      "img": "https://cdn.zeptonow.com/production///tr:w-450,ar-600-600,pr-true,f-webp,q-80/inventory/product/73ca31e0-8caa-4cc1-90f5-52732b21cf55-1BkEH7EVfKq_pDNx6X0_u59UpojYixy7u.jpeg",
+      "title": "White Tone Creamface Cream",
+      "price": "₹140",
+      "price2": "₹380",
+      "weight": "50 g",
+      "discount": "15%"
+    },
+    {
+      "id": 116,
+      "img": "https://cdn.zeptonow.com/production///tr:w-450,ar-1100-1100,pr-true,f-webp,q-80/inventory/product/a73dac06-86af-4bc4-a837-3eeda6e546b0-1Q65vi15Q14Aal_THbSpRx7wJXgeOmeua.jpeg",
+      "img2": "https://cdn.zeptonow.com/production///tr:w-450,ar-1050-1050,pr-true,f-webp,q-80/inventory/product/a73dac06-86af-4bc4-a837-3eeda6e546b0-17M0CvxSW_46tBFiPl-KZwkUkezHGcy5z.jpeg",
+      "img3": "https://cdn.zeptonow.com/production///tr:w-450,ar-1050-1050,pr-true,f-webp,q-80/inventory/product/a73dac06-86af-4bc4-a837-3eeda6e546b0-1PJ2B4iNntv9Che9lHMwN02wx91ryIdRn.jpeg",
+      "img4": "https://cdn.zeptonow.com/production///tr:w-450,ar-1100-1100,pr-true,f-webp,q-80/inventory/product/a73dac06-86af-4bc4-a837-3eeda6e546b0-1Q65vi15Q14Aal_THbSpRx7wJXgeOmeua.jpeg",
+      "title": "Maybelline Baby Lips Pink Lolita",
+      "price": "₹176",
+      "price2": "₹199",
+      "weight": "1 piece",
+      "discount": "11%"
+    },
+    {
+      "id": 117,
+      "img": "https://cdn.zeptonow.com/production///tr:w-450,ar-2000-2000,pr-true,f-webp,q-80/inventory/product/ce13b631-efe9-422a-b08d-9b3496c7d740-1NBD86UO71GdsXEEPxvOn46GnuwXj3aaz.jpeg",
+      "img2": "https://cdn.zeptonow.com/production///tr:w-450,ar-6240-4160,pr-true,f-webp,q-80/inventory/product/ce13b631-efe9-422a-b08d-9b3496c7d740-1-A1aSOGIR-BvU6UGZhkNmSWiuu2mP0CN.jpeg",
+      "img3": "https://cdn.zeptonow.com/production///tr:w-450,ar-2000-2000,pr-true,f-webp,q-80/inventory/product/ce13b631-efe9-422a-b08d-9b3496c7d740-1sXhPpOrg42bZO5_f1nLZX0Upvgy61OlV.jpeg",
+      "img4": "https://cdn.zeptonow.com/production///tr:w-450,ar-2083-2083,pr-true,f-webp,q-80/inventory/product/ce13b631-efe9-422a-b08d-9b3496c7d740-1BCmc4PkAqkV5SpRSXpl8tImvQd82aHxG.jpeg",
+      "title": "Compact Pop-up Hair Brush with Foldable Mirror (Gold)",
+      "price": "₹175",
+      "price2": "₹249",
+      "weight": "1 piece",
+      "discount": "29%"
+    },
+    {
+      "id": 118,
+      "img": "https://cdn.zeptonow.com/production///tr:w-450,ar-2000-2000,pr-true,f-webp,q-80/inventory/product/56c2dbf4-fb48-4e64-af2d-f10d6dbb707f-1mhugs-F69UigQBHYWoVD15vb2TCXgnMd.jpeg",
+      "img2": "https://cdn.zeptonow.com/production///tr:w-450,ar-2000-2000,pr-true,f-webp,q-80/inventory/product/56c2dbf4-fb48-4e64-af2d-f10d6dbb707f-1-6CnrGSIbVZes5Ya-EIRk66jvUwQz1g8.jpeg",
+      "img3": "https://cdn.zeptonow.com/production///tr:w-450,ar-2000-2000,pr-true,f-webp,q-80/inventory/product/56c2dbf4-fb48-4e64-af2d-f10d6dbb707f-1xxJyK3r8AnAxUBZqC8uRQtMclX_p6jmR.jpeg",
+      "img4": "https://cdn.zeptonow.com/production///tr:w-450,ar-2000-2000,pr-true,f-webp,q-80/inventory/product/56c2dbf4-fb48-4e64-af2d-f10d6dbb707f-1AFUxiBpjXU3ssIyrzWsi6yJ6_MApC0xO.jpeg",
+      "title": "Silicone Face Cleansing Scrubber for Exfoliation, Massaging (Pack of 2)",
+      "price": "₹225",
+      "price2": "₹299",
+      "weight": "1 piece",
+      "discount": "24%"
+    },
+    {
+      "id": 119,
+      "img": "https://cdn.zeptonow.com/production///tr:w-450,ar-1500-1500,pr-true,f-webp,q-80/inventory/product/aeb4dd76-bc2c-474c-92e2-533b0fa12a93-1ZFpP1SlHJebaJPmdDI-zTi72NDXviytx.jpeg",
+      "img2": "https://cdn.zeptonow.com/production///tr:w-450,ar-1500-1500,pr-true,f-webp,q-80/inventory/product/aeb4dd76-bc2c-474c-92e2-533b0fa12a93-1GwxVNHeDn69uBbX0UbYNYocbDFMgQwOs.jpeg",
+      "img3": "https://cdn.zeptonow.com/production///tr:w-450,ar-1500-1500,pr-true,f-webp,q-80/inventory/product/aeb4dd76-bc2c-474c-92e2-533b0fa12a93-14_b5NgfswzGt4jfLSxJ9u3EUTo_1ItaO.jpeg",
+      "img4": "https://cdn.zeptonow.com/production///tr:w-450,ar-1500-1500,pr-true,f-webp,q-80/inventory/product/aeb4dd76-bc2c-474c-92e2-533b0fa12a93-10PfEDrKqlVH6vEmBb842DJKaL3cPbu7c.jpeg",
+      "title": "Vaseline Lip Tins Aloe",
+      "price": "₹323",
+      "price2": "₹380",
+      "weight": "17 g",
+      "discount": "4%"
+    },
+    {
+      "id": 120,
+      "img": "https://cdn.zeptonow.com/production///tr:w-450,ar-1100-1100,pr-true,f-webp,q-80/inventory/product/37d07622-7821-4efc-99d6-8160235b2f0a-19O-16RJf3qJ0mUryXCHTX4oLggZ_k63u.jpeg",
+      "img2": "https://cdn.zeptonow.com/production///tr:w-450,ar-1100-1100,pr-true,f-webp,q-80/inventory/product/37d07622-7821-4efc-99d6-8160235b2f0a-1N0nuSRwh1fc7UHcoXFCwlWxUklm56ntj.jpeg",
+      "img3": "https://cdn.zeptonow.com/production///tr:w-450,ar-1100-1100,pr-true,f-webp,q-80/inventory/product/37d07622-7821-4efc-99d6-8160235b2f0a-1C04Mj8FNKiPlfDKyOmqyx1ANVLltFIl7.jpeg",
+      "img4": "https://cdn.zeptonow.com/production///tr:w-450,ar-1100-1100,pr-true,f-webp,q-80/inventory/product/37d07622-7821-4efc-99d6-8160235b2f0a-1_GyQwYTY5Tt-2NYp3t7DtaAhRKEh6il8.jpeg",
+      "title": "mCaffeine Coffee Lip Scrub | Exfoliates & Reduces Pigmentation",
+      "price": "₹285",
+      "price2": "₹299",
+      "weight": "12 g",
+      "discount": "4%"
+    },
+    {
+      "id": 121,
+      "img": "https://cdn.zeptonow.com/production///tr:w-450,ar-450-450,pr-true,f-webp,q-80/inventory/product/b2ca1889-4554-40be-b289-a9d8c7a05f95-image_file.jpeg",
+      "title": "Mango Totapuri",
+      "price": "₹123",
+      "price2": "₹151",
+      "weight": "1 kg (Approx. 4pcs - 5pcs)"
+    },
+    {
+      "id": 122,
+      "img": "https://cdn.zeptonow.com/production///tr:w-450,ar-500-500,pr-true,f-webp,q-80/inventory/product/01e5ea5f-9b18-42e1-8c16-b00ea2af2f18-f8e39466-1999-455e-be70-395c295d9280.jpeg",
+      "title": "Mango Banganapalli",
+      "price": "₹137",
+      "price2": "₹166",
+      "weight": "1 kg (Approx. 3pcs - 4pcs)"
+    },
+    {
+      "id": 123,
+      "img": "https://cdn.zeptonow.com/production///tr:w-450,ar-500-500,pr-true,f-webp,q-80/inventory/product/7f2c9b0c-39d4-4ddd-893c-ea36e60e7633-48fb2ac1-2a7b-49bf-b83f-3d29c802a465.jpeg",
+      "title": "Grapes Black Seedless",
+      "price": "₹57",
+      "price2": "₹68",
+      "weight": "500 g"
+    },
+    {
+      "id": 124,
+      "img": "https://cdn.zeptonow.com/production///tr:w-450,ar-500-369,pr-true,f-webp,q-80/inventory/product/8c9cfba3-0ee6-4202-bcfd-f890b2786bcf-image_file.png",
+      "title": "Mango Sindhura",
+      "price": "₹175",
+      "price2": "₹207",
+      "weight": "1 kg (Approx. 6pcs - 7pcs)"
+    },
+    {
+      "id": 125,
+      "img": "https://cdn.zeptonow.com/production///tr:w-450,ar-500-500,pr-true,f-webp,q-80/inventory/product/1fb5d67e-a73c-4829-b6b3-30dc92f12f11-f624d7ea-cb1d-4bc6-be9c-679c38450678.jpeg",
+      "title": "Apple Red Delicious",
+      "price": "₹135",
+      "price2": "₹164",
+      "weight": "4 piece"
+    },
+    {
+      "id": 126,
+      "img": "https://cdn.zeptonow.com/production///tr:w-450,ar-770-627,pr-true,f-webp,q-80/inventory/product/306bb6cd-b9a4-46bb-a7c0-8f7c781c0420-image_file.jpeg",
+      "title": "Orange Nagpur (Santara)",
+      "price": "₹47",
+      "price2": "₹57",
+      "weight": "500 g"
+    },
+    {
+      "id": 127,
+      "img": "https://cdn.zeptonow.com/production///tr:w-200,ar-4008-4008,pr-true,f-webp,q-80/inventory/product/e7a14330-625b-4ffe-af6d-1a9c75d222d1-shutterstock_486923446.jpg",
+      "title": "Tender Coconut",
+      "price": "₹138",
+      "price2": "₹138",
+      "weight": "3pc"
+    },
+    {
+      "id": 128,
+      "img": "https://cdn.zeptonow.com/production///tr:w-450,ar-500-500,pr-true,f-webp,q-80/inventory/product/20c2dfd6-97d4-4be3-be87-cee0776690f7-image_file.jpeg",
+      "title": "Grapes Green Seedless",
+      "price": "₹28",
+      "price2": "₹32",
+      "weight": "500 g"
+    },
+    {
+      "id": 129,
+      "img": "https://cdn.zeptonow.com/production///tr:w-450,ar-217-232,pr-true,f-webp,q-80/inventory/product/5dc9c5b7-4b36-4a9f-a9a7-decf4a43153a-f624d7ea-cb1d-4bc6-be9c-679c38450678.jpeg",
+      "title": "Apple Red Delicious",
+      "price": "₹75",
+      "price2": "₹91",
+      "weight": "2 pcs (Approx. 280g - 300g)"
+    },
+    {
+      "id": 130,
+      "img": "https://cdn.zeptonow.com/production///tr:w-450,ar-770-627,pr-true,f-webp,q-80/inventory/product/306bb6cd-b9a4-46bb-a7c0-8f7c781c0420-image_file.jpeg",
+      "title": "Orange Nagpur (Santara)",
+      "price": "₹47",
+      "price2": "₹57",
+      "weight": "500 g"
+    },
+    {
+      "id": 131,
+      "img": "https://cdn.zeptonow.com/production///tr:w-450,ar-500-450,pr-true,f-webp,q-80/inventory/product/30e08357-ee32-419f-aedd-741ebe3ddc14-/tmp/20230113-082708.jpeg",
+      "title": "Mix Grapes",
+      "price": "₹83",
+      "price2": "₹96",
+      "weight": "500 g"
+    },
+    {
+      "id": 132,
+      "img": "https://cdn.zeptonow.com/production///tr:w-450,ar-500-500,pr-true,f-webp,q-80/inventory/product/0f139399-5203-49a0-9750-ea450bfc2caa-40.jpeg",
+      "title": "Orange Imported",
+      "price": "₹98",
+      "price2": "₹122",
+      "weight": "4 piece"
+    },
+    {
+      "id": 133,
+      "img": "https://cdn.zeptonow.com/production///tr:w-450,ar-1500-1022,pr-true,f-webp,q-80/inventory/product/2e256ec1-4f92-4d71-b952-41f8188b9dfd-tmp/6d2288ae-a5f3-4af0-89e6-c419ea40d387.jpeg",
+      "title": "Watermelon Kiran",
+      "price": "₹69",
+      "price2": "₹85",
+      "weight": "1 pc (Approx. 2.2 - 3.5 kg)"
+    },
+    {
+      "id": 134,
+      "img": "https://cdn.zeptonow.com/production///tr:w-450,ar-500-500,pr-true,f-webp,q-80/inventory/product/9d6c78a7-ae4f-453a-95ed-b1337b09093d-tmp/2a240e29-096e-41fa-b539-f1d20b91fe4f.jpeg",
+      "title": "Apple Royal Gala",
+      "price": "₹141",
+      "price2": "₹172",
+      "weight": "4 pcs (500-600g)"
+    },
+    {
+      "id": 135,
+      "img": "https://cdn.zeptonow.com/production///tr:w-450,ar-489-500,pr-true,f-webp,q-80/inventory/product/c59fbf95-640c-4203-abf7-8fefc52cecca-tmp/cfedb00b-492c-4021-9879-1edb34b96bf0.jpeg",
+      "title": "Papaya Semi Ripe",
+      "price": "₹77",
+      "price2": "₹95",
+      "weight": "1 pc (Approx. 600g - 900g)"
+    },
+    {
+      "id": 136,
+      "img": "https://cdn.zeptonow.com/production///tr:w-450,ar-500-500,pr-true,f-webp,q-80/inventory/product/d5ac3a95-317f-4aee-8f48-f61515efee64-c4e14c1e-340f-445b-981f-034b762bd5aa.jpeg",
+      "title": "Mango Kesar",
+      "price": "₹285",
+      "price2": "₹348",
+      "weight": "1 kg"
+    },
+    {
+      "id": 137,
+      "img": "https://cdn.zeptonow.com/production///tr:w-450,ar-489-500,pr-true,f-webp,q-80/inventory/product/c59fbf95-640c-4203-abf7-8fefc52cecca-tmp/cfedb00b-492c-4021-9879-1edb34b96bf0.jpeg",
+      "title": "Papaya Semi Ripe",
+      "price": "₹77",
+      "price2": "₹95",
+      "weight": "1 pc (Approx. 600g - 900g)"
+    },
+    {
+      "id": 138,
+      "img": "https://cdn.zeptonow.com/production///tr:w-450,ar-1500-938,pr-true,f-webp,q-80/inventory/product/1f2bb758-9bdb-41b9-8615-a07e0c27128f-Photo.jpeg",
+      "title": "Pomegranate",
+      "price": "₹198",
+      "price2": "₹246",
+      "weight": "4 pcs (Approx. 720g - 820g)"
+    },
+    {
+      "id": 139,
+      "img": "https://cdn.zeptonow.com/production///tr:w-450,ar-600-426,pr-true,f-webp,q-80/inventory/product/e050647f-ecf0-4a57-a758-042d22bcabba-51.jpeg",
+      "title": "Apple Pink Lady",
+      "price": "₹184",
+      "price2": "₹224",
+      "weight": "4pc"
+    },
+    {
+      "id": 140,
+      "img": "https://cdn.zeptonow.com/production///tr:w-450,ar-1500-1500,pr-true,f-webp,q-80/inventory/product/06f38f12-2c12-46ff-83c7-e1ea8a864c01-573.jpg",
+      "title": "Papaya(1pc) & Watermelon Kiran(1pc) Combo",
+      "price": "₹140",
+      "price2": "₹180",
+      "weight": "2 Combo"
+    },
+    {
+      "id": 141,
+      "img": "https://cdn.zeptonow.com/production///tr:w-450,ar-499-356,pr-true,f-webp,q-80/inventory/product/f2603872-b193-4c5c-9388-0669317f8628-920119f6-a47a-4039-a3d3-e081b0796a1c.jpeg",
+      "title": "Muskmelon Semi Ripe",
+      "price": "₹42",
+      "price2": "₹52",
+      "weight": "1 pc (Approx. 600g - 800g)"
+    },
+    {
+      "id": 142,
+      "img": "https://cdn.zeptonow.com/production///tr:w-450,ar-470-470,pr-true,f-webp,q-80/inventory/product/20be2ba5-b845-407a-9406-80ef9c43c1a6-tmp/23d8686f-cad4-4c78-9c86-bc64a8c5c856.jpeg",
+      "title": "Dragon Fruit Imported",
+      "price": "₹95",
+      "price2": "₹116",
+      "weight": "1 pc (Approx. 300g)"
+    },
+    {
+      "id": 143,
+      "img": "https://cdn.zeptonow.com/production///tr:w-450,ar-900-900,pr-true,f-webp,q-80/inventory/product/c3aa00c2-6d2b-4c50-8005-ef59bcf9fd6a-29995b32-2f3c-4633-b103-801138d27e22.jpeg",
+      "title": "Orange Baby",
+      "price": "₹157",
+      "price2": "₹190",
+      "weight": "500 g"
+    },
+    {
+      "id": 144,
+      "img": "https://cdn.zeptonow.com/production///tr:w-450,ar-500-313,pr-true,f-webp,q-80/inventory/product/ec726c90-7fec-45a5-b706-26ec3592448a-image_file.jpeg",
+      "title": "Mango Raspuri",
+      "price": "₹240",
+      "price2": "₹289",
+      "weight": "1 kg"
+    },
+    {
+      "id": 145,
+      "img": "https://cdn.zeptonow.com/production///tr:w-450,ar-612-409,pr-true,f-webp,q-80/inventory/product/6383b6d1-f335-49b6-9c89-f5acbe14f5e8-image_file.jpeg",
+      "title": "Coconut",
+      "price": "₹31",
+      "price2": "₹38",
+      "weight": "1 pc (Approx. 500g - 700g)"
+    },
+    {
+      "id": 146,
+      "img": "https://cdn.zeptonow.com/production///tr:w-450,ar-522-522,pr-true,f-webp,q-80/inventory/product/98b8033c-0fe3-4fc3-81c8-4887e6f1c453-tmp/27ba1e7f-4166-4362-aee2-6fda4bd3a74d.jpeg",
+      "title": "Pomegranate",
+      "price": "₹128",
+      "price2": "₹151",
+      "weight": "2 pcs (Approx. 480g - 550g)"
+    },
+    {
+      "id": 147,
+      "img": "https://cdn.zeptonow.com/production///tr:w-450,ar-474-474,pr-true,f-webp,q-80/inventory/product/d0cb5f3f-dd15-41ab-a733-f3858b21a7d5-image_file.jpeg",
+      "title": "Sapota Semi Ripe",
+      "price": "₹28",
+      "price2": "₹34",
+      "weight": "250 g"
+    },
+    {
+      "id": 148,
+      "img": "https://cdn.zeptonow.com/production///tr:w-450,ar-612-408,pr-true,f-webp,q-80/inventory/product/f09fe9da-fa2c-4112-8188-49bb0430ed51-image",
+      "title": "Banana Elaichi / Yelakki Semi Ripe",
+      "price": "₹53",
+      "price2": "₹64",
+      "weight": "500 g"
+    },
+    {
+      "id": 149,
+      "img": "https://cdn.zeptonow.com/production///tr:w-450,ar-481-500,pr-true,f-webp,q-80/inventory/product/212cb308-8907-42a2-8a2e-c5b5c86d72dd-tmp/4142a02e-67e4-4967-9948-1aa86bed8d2c.jpeg",
+      "title": "Pineapple Semi Ripe",
+      "price": "₹91",
+      "price2": "₹111",
+      "weight": "1 pc (Approx. 900g - 1.2 kg)"
+    },
+    {
+      "id": 150,
+      "img": "https://cdn.zeptonow.com/production///tr:w-450,ar-466-545,pr-true,f-webp,q-80/inventory/product/e615d4b0-cb09-409a-a808-f3b6446e313f-71017b8e-d5d8-40ca-add3-548d4a688b23.jpeg",
+      "title": "Muskmelon Striped",
+      "price": "₹44",
+      "price2": "₹54",
+      "weight": "1 piece"
+    }
+  ],
+  "cart": [
+    {
+      "img": "https://cdn.zeptonow.com/production///tr:w-400,ar-1000-1000,pr-true,f-auto,q-80/cms/product_variant/c511c857-a35e-45d4-880e-65f3f4132fe2.jpeg",
+      "title": "Tata Agni Tea",
+      "price": "₹55",
+      "id": 1
+    },
+    {
+      "img": "https://cdn.zeptonow.com/production///tr:w-400,ar-1000-1000,pr-true,f-auto,q-80/cms/product_variant/465331c0-00ba-490e-ba77-69cb24513cd5.jpeg",
+      "title": "MAGGI 2- Minute Instant Masala Noodles",
+      "price": "₹51",
+      "id": 2
+    }
+  ]
+}
