@@ -1,7 +1,128 @@
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
 /* Kranti section */
-
-
+*{
+    padding:0;
+    margin:0;
+    box-sizing: border-box;
+    font-family: "Open Sans", sans-serif;
+}
+#kdiv{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding:20px 50px;
+    background-image: linear-gradient(white, rgb(212, 238, 255));
+    position: fixed;
+    top:0%;
+    width:100%;
+}
+#kdiv #klocation h5{
+    font-size: 18px;
+}
+#kdiv #klocation h5 span{
+    color:#8E44AD;
+    font-size: 20px;
+}
+    
+#kdiv #kinput{
+    width:950px;
+    position: relative;
+}
+#kdiv #kinput input{
+    width:100%;
+    padding:15px 50px;
+    border-radius: 10px;
+    border: 0.5px solid rgb(222, 222, 222);
+}
+#kdiv #kinput i{
+    position: absolute;
+    font-size: 20px;
+    top:40%;
+    left:30px;
+    transform: translate(-50%, -50%);
+}
+#kdiv #kicons{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#kdiv #kicon1, #kicon2{
+    margin:0px 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+#kdiv #kicon1, #kicon2, a{
+    margin-top: 2px;
+    font-size: 15px;
+    text-decoration: none;
+    color:black;
+}
+#kdiv #kicons #kicon1, #kicon2, i{
+    font-size: 18px;
+    margin-top: 5px;
+}
+#kpopuplocation #kgps{
+    width:450px;
+    position: relative;
+}
+#kpopuplocation #kgps input{
+    width:100%;
+    padding:15px 50px;
+    border-radius: 10px;
+    border: 0.5px solid lightgrey;
+    margin-left:20px;
+    margin-top: 15px;
+    background-color: rgb(243, 242, 242);
+}
+#kpopuplocation #kgps i{
+    position: absolute;
+    font-size: 15px;
+    top:53%;
+    left:50px;
+    transform: translate(-50%, -50%);
+}
+#kpopuplocation{
+    border:1px solid lightgrey;
+    width:500px;
+    height:400px;
+    position: absolute;
+    left:50%;
+    margin-top: 20%;
+    transform: translate(-50%, -50%);
+    border-radius: 15px;
+    display: none;
+}
+#kpopuplocation h3{
+    text-align: center;
+    margin-top: 20px;
+}
+#kpopuplocation .fa-xmark{
+    position:relative;
+    right:-470px;
+    top:-25px;
+    background-color: rgb(139, 139, 139);
+    color:white;
+    border-radius: 100%;
+    padding:3px;
+    font-size: 10px;
+}
+#kpopuplocation #klocationmark {
+    display: flex;
+    margin:20px;
+    color:#FF3F71;
+}
+#kpopuplocation #klocationmark #kgpstext{
+    margin: 0px 10px;
+}
+#kpopuplocation #klocationmark #kgpstext a{
+    color:#FF3F71;
+}
+#kimagecontainer{
+    width:100%;
+    margin:114px 100px;
+}
 /* Kranti section end */
 
 
