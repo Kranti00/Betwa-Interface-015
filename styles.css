@@ -5,7 +5,7 @@
 /* Haresh section */
 body {
   font-family: Arial, sans-serif;
-  
+
 }
 
 .nav_h ul {
@@ -22,11 +22,9 @@ body {
 .container_h {
   width:55%;
   height:auto;
-  padding: 30px;
+  padding: 20px;
   border-radius: 20px 0px 0px 20px;
 }
-
-
 
 .container_h input[type="tel"],
 .container_h input[type="text"],
@@ -82,6 +80,8 @@ body {
   margin-top: 50px;
   border-radius: 20px;
   box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+  position: relative;
+  z-index: 1000;
 }
 
 .container_app_h{

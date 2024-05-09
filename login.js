@@ -1,7 +1,7 @@
 const loginForm = document.getElementById('loginForm');
 const loginContainer = document.getElementById('loginContainer');
 const signupLink = document.getElementById('signupLink');
-
+const backbtn = document.getElementById('login_back_btn');
 
 loginForm.addEventListener('submit', function (e) {
     e.preventDefault();
@@ -43,3 +43,7 @@ loginForm.addEventListener('submit', function (e) {
     const inputs = form.querySelectorAll('input');
     inputs.forEach(input => input.value = '');
   }
+
+  backbtn.addEventListener("click",()=>{
+    window.location.href= 'index.html'
+  })

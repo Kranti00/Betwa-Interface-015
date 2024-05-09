@@ -1,6 +1,7 @@
 const signupForm = document.getElementById('signupForm');
 const signupContainer = document.getElementById('signupContainer');
 const loginLink = document.getElementById('loginLink');
+let  backbtn = document.getElementById('signup_back_btn')
 
 signupForm.addEventListener('submit', function (e) {
     e.preventDefault();
@@ -52,3 +53,7 @@ signupForm.addEventListener('submit', function (e) {
     const inputs = form.querySelectorAll('input');
     inputs.forEach(input => input.value = '');
   }
+
+  backbtn.addEventListener("click",()=>{
+    window.location.href= 'index.html'
+  })
