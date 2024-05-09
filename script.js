@@ -4,17 +4,31 @@
 
 //Haresh section
 
+// script.js
+
 const loginBtn = document.getElementById("loginBtn");
+let isLogin = JSON.parse(localStorage.getItem("key"));
 
-const isLogin = JSON.parse(localStorage.getItem("key"));
-console.log(isLogin);
-
-if(isLogin){
+if (isLogin) {
     loginBtn.innerText = "Logout";
-    loginBtn.addEventListener("click",localStorage.setItem("key",false));
-}else{
-    loginBtn.innerText = "Login";
 }
+
+loginBtn.addEventListener('click', () => {
+    if (isLogin) {
+        // Perform logout actions here 
+        updateLoginStatus();
+    } else {
+        // Perform login actions here
+        window.location.href = 'login.html';
+    }
+});
+
+function updateLoginStatus() {
+    isLogin = !isLogin;
+    loginBtn.innerText = isLogin ? "Logout" : "Login";
+    localStorage.setItem("key", isLogin);
+}
+
 
 
 
