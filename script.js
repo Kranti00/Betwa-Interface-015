@@ -5,6 +5,7 @@ let crossmark = document.getElementById("kjs_xmark");
 
 locationdiv.addEventListener("click", function(){
     poplocation.style.display = "block";
+    poplocation.style.backgroundColor = "white";
 })
 
 crossmark.addEventListener("click", function(){

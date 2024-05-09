@@ -86,13 +86,12 @@
     border:1px solid lightgrey;
     width:500px;
     height:400px;
-    position: relative;
+    position: absolute;
     left:50%;
     margin-top: 20%;
     transform: translate(-50%, -50%);
     border-radius: 15px;
     display: none;
-    z-index: 999;
 }
 #kpopuplocation h3{
     text-align: center;
