@@ -68,6 +68,12 @@ price.innerText=item.price;
 let button=document.createElement("button");
 button.classList.add("A-btn");
 button.innerText="Add to Cart";
+button.addEventListener("click", (e) => {
+    e.preventDefault();
+    addToCart(item);
+    alert("Item added to cart");
+});
+
 // Appendoong all data to card
 card.append(imagediv,title,weight,price,button);
 
@@ -103,7 +109,7 @@ document.addEventListener('DOMContentLoaded', async function () {
         const res = await fetch(`http://localhost:3000/cards/${productId}`); 
         const data = await res.json();
         console.log(data);
-
+        // addToCart(data);
         // Fill product details
         document.getElementById('product-image').src = data.img;
         document.getElementById('product-title').innerText = data.title;
@@ -114,7 +120,27 @@ document.addEventListener('DOMContentLoaded', async function () {
         console.log(error);
     }
 });
-
+//Adding things to cart
+async function addToCart(item) {
+    try {
+        let itemData = {
+            "img": item.img,
+            "title": item.title,
+            "price": item.price
+        };
+        let res = await fetch(`http://localhost:3000/cart`, {
+            method: "POST",
+            headers: {
+                "Content-Type": "application/json",
+            },
+            body: JSON.stringify(itemData)
+        });
+        let data = await res.json();
+        console.log(data); // Handle the response from the server if needed
+    } catch (error) {
+        console.log(error);
+    }
+}
 
 
   
