@@ -1,53 +1,12 @@
 {
   "users": [
     {
-      "id": "1df5",
-      "username": "haresh",
+      "id": "7737",
+      "username": "Haresh",
       "email": "haresh31@gmail.com",
       "password": "123456",
-      "contact": "9773166630"
-    },
-    {
-      "id": "275f",
-      "username": "Aadarsh",
-      "email": "Aadarsh11@gmail.com",
-      "password": "456789",
-      "contact": "1234567891"
-    },
-    {
-      "id": "9edb",
-      "username": "Kranti",
-      "email": "Kranti12@gmail.com",
-      "password": "123458",
-      "contact": "4567891237"
-    },
-    {
-      "id": "f81d",
-      "username": "Somyadeep",
-      "email": "Somyadeep11@gmail.com",
-      "password": "789456",
-      "contact": "7894567894"
-    },
-    {
-      "id": "d16b",
-      "username": "Hari",
-      "email": "Hari@gmail.com",
-      "password": "456789",
-      "contact": "9512376562"
-    },
-    {
-      "id": "6acb",
-      "username": "abc1",
-      "email": "abc1@gmail.com",
-      "password": "",
-      "contact": "9512376562"
-    },
-    {
-      "id": "a736",
-      "username": "gsgd",
-      "email": "asdsad@sdhsak",
-      "password": "123456",
-      "contact": "5446546545"
+      "contact": "9773166630",
+      "CartArray": []
     }
   ]
 }

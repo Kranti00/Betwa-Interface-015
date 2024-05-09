@@ -1,84 +1,79 @@
 /* Kranti section */
 
-
 /* Kranti section end */
-
-
-
 
 /* Haresh section */
 body {
-    font-family: Arial, sans-serif;
+  font-family: Arial, sans-serif;
 }
 
-nav ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
+.nav_h ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
 }
 
-nav ul li {
-    display: inline;
-    margin-right: 10px;
+.nav_h ul li {
+  display: inline;
+  margin-right: 10px;
 }
+
 .container_h {
-    display: none;
-  }
-  
-  .container_h.active {
-    display: block;
-  }
-  
-.container_h {
-    max-width: 300px;
-    margin: 50px auto;
-    padding: 20px;
-    border: 1px solid #ccc;
-    border-radius: 5px;
+  max-width: 300px;
+  margin: 50px auto;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
 }
 
 .container_h h2 {
-    text-align: center;
+  text-align: center;
 }
 
-.container_h input[type="number"],
+.container_h input[type="tel"],
 .container_h input[type="text"],
 .container_h input[type="email"],
 .container_h input[type="password"] {
-    width: 100%;
-    margin-bottom: 10px;
-    padding: 10px;
-    box-sizing: border-box;
+  width: 100%;
+  margin-bottom: 10px;
+  padding: 10px;
+  box-sizing: border-box;
+  border-radius: 10px;
 }
 
 .container_h button {
-    width: 100%;
-    padding: 10px;
-    background-color: #4CAF50;
-    color: white;
-    border: none;
-    border-radius: 3px;
-    cursor: pointer;
+  width: 100%;
+  padding: 10px;
+  background-color: #4;
+  color: white;
+  border: none;
+  border-radius: 3px;
+  cursor: pointer;
 }
 
 .container_h button:hover {
-    background-color: #45a049;
+  background-color: #45a049;
+}
+
+.iogin_logo {
+  width: 100px;
+  height: 50px;
+  margin-bottom: 10px;
+}
+
+.container_h {
+  /* Modern browsers */
+  background: linear-gradient(to top, #950edb 0%, #ffffff 100%);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
 }
 
 /* Haresh section end */
 
-
-
-
 /* Soumyadeep section */
-
 
 /* Soumyadeep section end */
 
-
-
-
 /* Adarsh section */
-
 
 /* Adarsh section end */
