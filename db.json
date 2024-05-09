@@ -1589,10 +1589,34 @@
       "id": 1
     },
     {
-      "img": "https://cdn.zeptonow.com/production///tr:w-400,ar-1000-1000,pr-true,f-auto,q-80/cms/product_variant/465331c0-00ba-490e-ba77-69cb24513cd5.jpeg",
-      "title": "MAGGI 2- Minute Instant Masala Noodles",
-      "price": "₹51",
+      "img": "https://cdn.zeptonow.com/production///tr:w-400,ar-1000-1000,pr-true,f-auto,q-80/cms/product_variant/c511c857-a35e-45d4-880e-65f3f4132fe2.jpeg",
+      "title": "Tata Agni Tea",
+      "price": "₹55",
       "id": 2
+    },
+    {
+      "img": "https://cdn.zeptonow.com/production///tr:w-400,ar-1000-1000,pr-true,f-auto,q-80/cms/product_variant/f64aa80e-f2d0-4420-911b-d2b57d57d690.jpeg",
+      "title": "Coca-Cola Soft Drink",
+      "price": "₹40",
+      "id": 3
+    },
+    {
+      "img": "https://cdn.zeptonow.com/production///tr:w-400,ar-1000-1000,pr-true,f-auto,q-80/cms/product_variant/191f9115-0f8f-4388-9709-3eb46530ab69.jpeg",
+      "title": "Uttam Sugar Sulphurless Sugar",
+      "price": "₹53",
+      "id": 4
+    },
+    {
+      "img": "https://cdn.zeptonow.com/production///tr:w-400,ar-1021-1021,pr-true,f-auto,q-80/cms/product_variant/af0a1930-e8b6-4eed-a986-87dc1843cbe6.jpeg",
+      "title": "Cadbury Dairy Milk Chocolate Home Treats",
+      "price": "₹126",
+      "id": 5
+    },
+    {
+      "img": "https://cdn.zeptonow.com/production///tr:w-400,ar-1000-1000,pr-true,f-auto,q-80/cms/product_variant/c511c857-a35e-45d4-880e-65f3f4132fe2.jpeg",
+      "title": "Tata Agni Tea",
+      "price": "₹55",
+      "id": 6
     }
   ]
 }
