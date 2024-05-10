@@ -1,0 +1,56 @@
+.Scontainer_h {
+    width:400px;
+    height:auto;
+    padding: 20px;
+    border-radius: 20px;
+    margin: auto;
+    margin-top: 20px;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}
+
+.Scontainer_h input[type="tel"],
+.Scontainer_h input[type="text"],
+.Scontainer_h input[type="email"],
+.Scontainer_h input[type="password"] {
+  width: 100%;
+  margin-bottom: 10px;
+  padding: 10px;
+  box-sizing: border-box;
+  border-radius: 10px;
+}
+
+.Scontainer_h button {
+  width: 100%;
+  padding: 10px;
+  background-color: #ff3767;
+  color: white;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+.Scontainer_h button:hover {
+  background-color: #ff6853;
+}
+
+.Signup_logo {
+  width: 100px;
+  height: 50px;
+  box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}
+
+.LoginText_h{
+  color: white;
+  margin-top: -2px;
+  
+}
+.loginP_h{
+  text-align: center;
+}
+.Scontainer_h {
+  /* Modern browsers */
+  background: linear-gradient(to bottom, #460268 10%, white 100%);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+

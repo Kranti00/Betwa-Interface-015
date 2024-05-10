@@ -1,4 +1,23 @@
 {
+  "users": [
+    {
+      "id": "7737",
+      "username": "Haresh",
+      "email": "haresh31@gmail.com",
+      "password": "123456",
+      "contact": "9773166630",
+      "CartArray": []
+    },
+    {
+      "id": "ff29",
+      "username": "bhavesh",
+      "email": "bhavesh21@gmail.com",
+      "password": "456789",
+      "contact": "9512376562",
+      "CartArray": []
+    }
+],
+
   "cards": [
     {
       "id": 151,
@@ -1599,6 +1618,7 @@
       "title": "Lakme 9 to 5 Complexion Care Face Cream Bronze",
       "price": "₹285",
       "id": 19
+
     }
   ]
 }
