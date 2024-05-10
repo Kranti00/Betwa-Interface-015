@@ -26,6 +26,7 @@
 
 
 // Adarsh section
+
 let adiv=document.getElementById("adiv");
 
 
@@ -199,11 +200,20 @@ function displayCartItem(item) {
     buttonDiv.appendChild(btn2);
     //adding button fucntions here
     let value=1;
+   
+
+    // Update price function
+   
+
     span.innerHTML=value;
+    
+
     btn2.addEventListener("click",(e)=>{
-     e.preventDefault();
+        e.preventDefault();
      value++;
      span.innerHTML=value;
+    
+    
     })
     btn1.addEventListener("click",(e)=>{
         e.preventDefault();
@@ -212,6 +222,7 @@ function displayCartItem(item) {
        if(value>0){
         value--;
         span.innerHTML=value;
+      
        }
        if(value === 0){
        deleteformCart(item.id);
@@ -230,6 +241,8 @@ function displayCartItem(item) {
     return cart;
 }
 
+
+
 function appendCartData(data) {
     let cartMain = document.getElementById("A-cart");
     cartMain.innerHTML = "";
@@ -238,18 +251,7 @@ function appendCartData(data) {
         cartMain.appendChild(cartItem);
     });
 }
-// async function deleteformCart(itemId){
-//     try {
-//        let res = await fetch(`http://localhost:3000/cart/${itemId}`,{
-//         method:"DELETE",
-//        });
-//        let data = await res.json();
-//        console.log(data);
 
-//     } catch (error) {
-//         console.log(error);
-//     }
-// }
 async function deleteformCart(itemId) {
     try {
         let res = await fetch(`http://localhost:3000/cart/${itemId}`, {
@@ -268,10 +270,19 @@ btnCart.addEventListener("click",(e)=>{
  e.preventDefault()
  window.location.href="index.html";
 });
+//Payment button and popup related dislplay
+let Acartoutercontainer=document.getElementById("A-cart-outer-container");
+let popup=document.getElementById("cart-popup");
 let paymentButton = document.getElementById("A-cart-payment");
 paymentButton.addEventListener("click",(e)=>{
   e.preventDefault();
-  window.location.href="payment.html";
+  popup.style.visibility="visible";
+  popup.classList.add("A-cart-popup1");
+
 })
-  
+let goback=document.getElementById("goback-cart");
+goback.addEventListener("click",()=>{
+    window.location.href="index.html";
+})
+
 // Adarsh section end

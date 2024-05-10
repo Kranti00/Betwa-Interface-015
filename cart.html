@@ -13,19 +13,32 @@
       body {
         background-color: #e1e1e1;
         font-family: "Ubuntu Sans Mono", monospace;
+        /* background-color: rgba(0, 0, 0, 0.5); */
       }
     </style>
   </head>
   <body>
-    <div id="A-cart-upper">
-      <span>Cart</span>
-      <button id="A-cart-upper-button">Add More</button>
-    </div>
-    <div id="A-cart">
-      <!-- items will be added here -->
-    </div>
-    <div>
-      <button id="A-cart-payment">Proceed to payment</button>
+    <div id="A-cart-outer-container">
+      <div id="A-cart-upper">
+        <span>Cart</span>
+        <button id="A-cart-upper-button">Add More</button>
+      </div>
+      <div id="A-cart">
+        <!-- items will be added here -->
+      </div>
+      <div>
+        <button id="A-cart-payment">Proceed to payment</button>
+      </div>
+      <div class="A-cart-popup A-cart-popup1" id="cart-popup">
+        <img
+          src="https://www.kablooe.com/wp-content/uploads/2019/08/check_mark.png"
+          alt=""
+        />
+        <h3>Payment successfull</h3>
+        <!-- <h4>Visit cart again</h4> -->
+        <a href="./cart.html">Visit cart again</a>
+        <button id="goback-cart" type="button">Go back</button>
+      </div>
     </div>
     <script src="./script.js"></script>
   </body>

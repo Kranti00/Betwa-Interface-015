@@ -131,6 +131,22 @@ border: none;
 border-radius: 8px;
 margin-top: 20px;
 margin-bottom: 40px;
+cursor: pointer;
+}
+#product-btn-back{
+    display: none;
+    padding: 12px;
+/* box-sizing: border-box; */
+width: 115px;
+height: 44px;
+font-size: 16px;
+color: aliceblue;
+background-color: #ff3268;
+border: none;
+border-radius: 8px;
+margin-top: 20px;
+margin-bottom: 40px;
+cursor: pointer;
 }
 /* product page [How it works portion] */
 /* #product-static{
@@ -167,6 +183,13 @@ margin-top: 10px;
 font-family: "Open Sans", sans-serif;
 }
 /* cart css */
+#A-cart-outer-container{
+    width: 100%;
+    height: auto;
+    max-width: 1280px;
+    margin: auto;
+    position: relative;
+}
 #A-cart-upper{
     display: flex;
     justify-content: space-between;
@@ -247,6 +270,7 @@ font-family: "Open Sans", sans-serif;
     color: aliceblue;
     font-size: 16px;
     border-radius: 10px;
+    cursor: pointer;
 }
 .A-cart-price{
     font-weight: 600;
@@ -266,6 +290,74 @@ font-family: "Open Sans", sans-serif;
     border-radius: 16px;
     box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
     font-family: "Ubuntu Sans Mono", monospace;
+    cursor: pointer;
 
 }
+.A-cart-popup{
+  visibility: hidden;
+  width: 360px;
+  height: 240px;
+ background-color: aliceblue;
+  /* margin: auto; */
+ 
+ display: flex;
+  flex-direction: column;
+  align-items: center;
+  border-radius: 10px;
+  box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+  position: absolute;
+ top: 40%;
+ left: 36%;
+ margin: auto;
+}
+.A-cart-popup1{
+    /* visibility: visible; */
+    
+    
+}
+.A-cart-popup>img{
+    width: 140px;
+    height: 140px;
+    position: relative;
+    top: -60px;
+    margin-bottom: 0px;
+   border-radius: 100%;
+  
+}
+.A-cart-popup>h3{
+    font-size: 22px;
+    margin-top: 0px;
+    margin-bottom: 0;
+    position: relative;
+    top: -50px;
+}
+.A-cart-popup>a{
+    font-size: 16px;
+    text-decoration: none;
+    margin-bottom: 20px;
+    color: #000000;
+    font-weight: 600;
+    margin-top: 15px;
+    position: relative;
+    top: -50px;
+  z-index: 1000;
+}
+.A-cart-popup>button{
+    background-color: green;
+    position: relative;
+    top: -50px;
+    width: 140px;
+    margin: auto;
+    
+    padding: 12px;
+    box-sizing: border-box;
+    border: none;
+    color: white;
+    font-size: 16px;
+    border-radius: 16px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    font-family: "Ubuntu Sans Mono", monospace;
+    cursor: pointer;
+}
+
 /* Adarsh section end */
