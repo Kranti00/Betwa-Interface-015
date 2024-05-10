@@ -1583,16 +1583,22 @@
   ],
   "cart": [
     {
-      "img": "https://cdn.zeptonow.com/production///tr:w-400,ar-1000-1000,pr-true,f-auto,q-80/cms/product_variant/c511c857-a35e-45d4-880e-65f3f4132fe2.jpeg",
-      "title": "Tata Agni Tea",
-      "price": "₹55",
-      "id": 1
+      "img": "https://cdn.zeptonow.com/production///tr:w-400,ar-1021-1021,pr-true,f-auto,q-80/cms/product_variant/af0a1930-e8b6-4eed-a986-87dc1843cbe6.jpeg",
+      "title": "Cadbury Dairy Milk Chocolate Home Treats",
+      "price": "₹126",
+      "id": 13
     },
     {
-      "img": "https://cdn.zeptonow.com/production///tr:w-400,ar-1000-1000,pr-true,f-auto,q-80/cms/product_variant/465331c0-00ba-490e-ba77-69cb24513cd5.jpeg",
-      "title": "MAGGI 2- Minute Instant Masala Noodles",
-      "price": "₹51",
-      "id": 2
+      "img": "https://cdn.zeptonow.com/production///tr:w-400,ar-1000-1000,pr-true,f-auto,q-80/inventory/product/f9fdc106-c5b1-4c24-8c76-61251827c506-/tmp/20231019-0453141.jpeg",
+      "title": "Bru Gold Flavoured Coffee Mix - Vanilla",
+      "price": "₹290",
+      "id": 18
+    },
+    {
+      "img": "https://cdn.zeptonow.com/production///tr:w-450,ar-679-679,pr-true,f-webp,q-80/inventory/product/664fea7c-f775-4ef3-8f89-e2d0cbd62f1a-19NTGwVDlAJP_UR4iSKXzXYkuQI5rm-u1.jpeg",
+      "title": "Lakme 9 to 5 Complexion Care Face Cream Bronze",
+      "price": "₹285",
+      "id": 19
     }
   ]
 }
