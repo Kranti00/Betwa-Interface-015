@@ -281,6 +281,156 @@ body {
 /* Haresh section end */
 
 /* Soumyadeep section */
+/* Styles for card carousel */
+.carousel-container {
+    position: relative;
+    max-width: 100%;
+    overflow: hidden;
+    margin: 0 auto;
+}
+
+.cards {
+    display: flex;
+    transition: transform 0.5s ease; 
+}
+
+.card {
+    flex: 0 0 calc(25% - 20px); 
+    margin: 0 10px; 
+    box-sizing: border-box; 
+}
+
+.card img {
+    width: 100%;
+    height: auto;
+}
+
+/* Styles for carousel navigation buttons */
+.prev, .next {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    background-color: rgba(0, 0, 0, 0.5);
+    color: white;
+    padding: 10px;
+    border: none;
+    cursor: pointer;
+}
+
+.prev {
+    left: 0;
+}
+
+.next {
+    right: 0;
+}
+
+/* Styles for explore by category */
+.explore-categories {
+    margin-top: 20px;
+}
+
+.category-row {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.category {
+    margin: 10px;
+    text-align: center;
+    max-width: 2000px; 
+}
+
+.category img {
+    width: 162px;
+    height: 200px;
+    display: block;
+    margin: auto;
+    object-fit: contain;
+    transition: transform 0.5s ease; 
+}
+
+.category img[alt="Fruits and Vegetables"],
+.category img[alt="Atta, Rice and Dals"] {
+    width: 282px; 
+    height: auto; 
+}
+
+.category p {
+    margin-top: 5px;
+}
+
+.category img:hover {
+    transform: scale(1.05); 
+}
+
+
+@media screen and (max-width: 600px) {
+    .category {
+        max-width: 100%;
+    }
+
+    .category img {
+        width: 80px;
+        height: 80px;
+    }
+}
+
+.headings {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.explore-heading {
+    margin-right: auto; 
+}
+.see-all {
+    font-size: 18px;
+    color: #FF3269;
+    text-decoration: none;
+}
+.back {
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.back:hover {
+    background-color: #45a049; 
+}
+
+.product-card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.product-card img {
+    width: 1560px; /* Adjust the width as needed */
+    height: auto; /* Maintain aspect ratio */
+    border-radius: 10px; /* Rounded corners */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Add a subtle shadow */
+    transition: transform 0.3s ease-in-out; /* Smooth transition effect */
+}
+
+.product-card img:focus {
+    transform: scale(1.1); 
+    outline: none; 
+}
+
+.product-card p {
+    margin-top: 10px;
+    font-size: 16px;
+    text-align: center;
+}
 
 /* Soumyadeep section end */
 
