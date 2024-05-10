@@ -1605,14 +1605,155 @@
       "price": "₹44",
       "price2": "₹54",
       "weight": "1 piece"
+    },
+    {
+      "id": "151",
+      "img": "https://cdn.zeptonow.com/production///tr:w-400,ar-1021-1021,pr-true,f-auto,q-80/cms/product_variant/d8aeab4b-81fc-4a47-978d-855017898856.jpeg",
+      "title": "Uncle Chipps - Spicy Treat",
+      "weight": "50g",
+      "price": "₹20"
+    },
+    {
+      "id": "153",
+      "img": "https://cdn.zeptonow.com/production///tr:w-400,ar-1000-1000,pr-true,f-auto,q-80/cms/product_variant/465331c0-00ba-490e-ba77-69cb24513cd5.jpeg",
+      "title": "MAGGI 2- Minute Instant Masala Noodles",
+      "weight": "280",
+      "price": "₹51"
+    },
+    {
+      "id": "154",
+      "img": "https://cdn.zeptonow.com/production///tr:w-400,ar-1021-1021,pr-true,f-auto,q-80/cms/product_variant/af0a1930-e8b6-4eed-a986-87dc1843cbe6.jpeg",
+      "title": "Cadbury Dairy Milk Chocolate Home Treats",
+      "weight": "119g",
+      "price": "₹126"
+    },
+    {
+      "id": "155",
+      "img": "https://cdn.zeptonow.com/production///tr:w-400,ar-1000-1000,pr-true,f-auto,q-80/cms/product_variant/c511c857-a35e-45d4-880e-65f3f4132fe2.jpeg",
+      "title": "Tata Agni Tea",
+      "weight": "250",
+      "price": "₹55"
+    },
+    {
+      "id": "156",
+      "img": "https://cdn.zeptonow.com/production///tr:w-400,ar-1000-1000,pr-true,f-auto,q-80/cms/product_variant/191f9115-0f8f-4388-9709-3eb46530ab69.jpeg",
+      "title": "Uttam Sugar Sulphurless Sugar",
+      "weight": "1 kg",
+      "price": "₹53"
+    },
+    {
+      "id": "157",
+      "img": "https://cdn.zeptonow.com/production///tr:w-400,ar-1021-1021,pr-true,f-auto,q-80/cms/product_variant/5f134c5a-96e7-4a31-95be-aa3958d768c1.jpeg",
+      "title": "Lay's India's Magic Masala Potato Chips",
+      "weight": "50g",
+      "price": "₹20"
+    },
+    {
+      "id": "158",
+      "img": "https://cdn.zeptonow.com/production///tr:w-400,ar-1021-1021,pr-true,f-auto,q-80/cms/product_variant/47624d67-7e56-41e4-a405-98d8238bbdf2.jpeg",
+      "title": "Cadbury Chocobakes ChocoChip Cookies",
+      "weight": "167g",
+      "price": "₹64"
+    },
+    {
+      "id": "159",
+      "img": "https://cdn.zeptonow.com/production///tr:w-400,ar-1021-1021,pr-true,f-auto,q-80/cms/product_variant/11865ada-733e-4490-819d-d7e1e5b92038.jpeg",
+      "title": "Eno - Lemon Fruit Salt Sixer Pack",
+      "weight": "5g",
+      "price": "₹60"
+    },
+    {
+      "id": "160",
+      "img": "https://cdn.zeptonow.com/production///tr:w-400,ar-1000-1000,pr-true,f-auto,q-80/cms/product_variant/f64aa80e-f2d0-4420-911b-d2b57d57d690.jpeg",
+      "title": "Coca-Cola Soft Drink",
+      "weight": "750 ml",
+      "price": "₹40"
+    },
+    {
+      "id": "161",
+      "img": "https://cdn.zeptonow.com/production///tr:w-400,ar-741-955,pr-true,f-auto,q-80/cms/product_variant/f1e793c7-67de-478a-99d8-377d266edf33.png",
+      "title": "Amul Gold Full Cream Fresh Milk (Pouch)",
+      "weight": "1l",
+      "price": "₹66"
+    },
+    {
+      "id": "162",
+      "img": "https://cdn.zeptonow.com/production///tr:w-400,ar-1000-1000,pr-true,f-auto,q-80/cms/product_variant/f64aa80e-f2d0-4420-911b-d2b57d57d690.jpeg",
+      "title": "Coca-Cola Soft Drink",
+      "weight": "750 ml",
+      "price": "₹40"
+    },
+    {
+      "id": "163",
+      "img": "https://cdn.zeptonow.com/production///tr:w-400,ar-1000-1000,pr-true,f-auto,q-80/cms/product_variant/21e8833e-57f0-43f5-ac76-d403e862fb89.jpeg",
+      "title": "Vim Dishwash Bar",
+      "weight": "200g",
+      "price": "₹86"
+    },
+    {
+      "id": "164",
+      "img": "https://cdn.zeptonow.com/production///tr:w-400,ar-1021-1021,pr-true,f-auto,q-80/cms/product_variant/08d4354d-ae28-4cd5-b2e7-50d515542ab5.jpeg",
+      "title": "Veeba Tomato Ketchup - Chef's Special",
+      "weight": "900 g",
+      "price": "₹88"
+    },
+    {
+      "id": "165",
+      "img": "https://cdn.zeptonow.com/production///tr:w-400,ar-852-894,pr-true,f-auto,q-80/cms/product_variant/e47950bc-1bca-4ba2-9dd8-47e984ea6b24.jpeg",
+      "title": "Kwality Wall's Cornetto Double Chocolate Cone",
+      "weight": "105ml",
+      "price": "₹40"
+    },
+    {
+      "id": "166",
+      "img": "https://cdn.zeptonow.com/production///tr:w-400,ar-2985-1777,pr-true,f-auto,q-80/cms/product_variant/ac8794c1-0e42-4301-b821-955afc3a8a69.jpeg",
+      "title": "Britannia Nutri Choice Digestive Biscuits Packet",
+      "weight": "100g",
+      "price": "₹19"
+    },
+    {
+      "id": "167",
+      "img": "https://cdn.zeptonow.com/production///tr:w-400,ar-1021-1021,pr-true,f-auto,q-80/cms/product_variant/c7789ade-cfef-440a-a3a1-6156735bd64c.jpeg",
+      "title": "Fortune Kachi Ghani Mustard Oil (Bottle)",
+      "weight": "1l",
+      "price": "₹134"
+    },
+    {
+      "id": "168",
+      "img": "https://cdn.zeptonow.com/production///tr:w-400,ar-1000-1000,pr-true,f-auto,q-80/inventory/product/f9fdc106-c5b1-4c24-8c76-61251827c506-/tmp/20231019-0453141.jpeg",
+      "title": "Bru Gold Flavoured Coffee Mix - Vanilla",
+      "weight": "55g",
+      "price": "₹290"
+    },
+    {
+      "id": "169",
+      "img": "https://cdn.zeptonow.com/production///tr:w-400,ar-1000-1000,pr-true,f-auto,q-80/cms/product_variant/22001a01-28da-4524-adfc-263b83bf5c43.jpeg",
+      "title": "Limca Soft Drink Pet",
+      "weight": "750 ml",
+      "price": "₹40"
+    },
+    {
+      "id": "170",
+      "img": "https://cdn.zeptonow.com/production///tr:w-400,ar-1021-1021,pr-true,f-auto,q-80/cms/product_variant/99715086-258b-4e24-993c-ac759eec87d5.jpeg",
+      "title": "Thums Up Soft Drink",
+      "weight": "750 ml",
+      "price": "₹40"
+    },
+    {
+      "id": "171",
+      "img": "https://cdn.zeptonow.com/production///tr:w-400,ar-1021-1021,pr-true,f-auto,q-80/cms/product_variant/f71348d6-db9e-4ae1-abe1-d4dc7d13daf3.jpeg",
+      "title": "Safal Frozen Green Peas",
+      "weight": "500g",
+      "price": "₹122"
     }
   ],
   "cart": [
     {
-      "img": "https://cdn.zeptonow.com/production///tr:w-450,ar-679-679,pr-true,f-webp,q-80/inventory/product/664fea7c-f775-4ef3-8f89-e2d0cbd62f1a-19NTGwVDlAJP_UR4iSKXzXYkuQI5rm-u1.jpeg",
-      "title": "Lakme 9 to 5 Complexion Care Face Cream Bronze",
-      "price": "₹285",
-      "id": "19"
+      "id": "171",
+      "img": "https://cdn.zeptonow.com/production///tr:w-400,ar-1021-1021,pr-true,f-auto,q-80/cms/product_variant/f71348d6-db9e-4ae1-abe1-d4dc7d13daf3.jpeg",
+      "title": "Safal Frozen Green Peas",
+      "weight": "500g",
+      "price": "₹122"
     }
   ]
 }
