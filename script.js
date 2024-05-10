@@ -20,7 +20,7 @@ crossmark.addEventListener("click", function(){
 
 // script.js
 
-const loginBtn = document.getElementById("loginBtn");
+const loginBtn = document.getElementById("login_h");
 let isLogin = JSON.parse(localStorage.getItem("key"));
 
 if (isLogin) {
