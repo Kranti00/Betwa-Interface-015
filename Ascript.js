@@ -48,12 +48,17 @@ let button=document.createElement("button");
 button.classList.add("A-btn");
 button.innerText="Add to Cart";
 button.addEventListener("click", (e) => {
-    e.preventDefault(); // Prevent the default action of the button click
+    e.preventDefault(); 
     addToCart(item);
-    console.log(item.id);
+    // console.log(item.id);
     alert("Item added to cart");
 });
-
+// productbtn.addEventListener("click",(e)=>{
+//     e.preventDefault(); 
+//     addToCart(item);
+//     // console.log(item.id);
+//     alert("Item added to cart");
+// })
 // Appendoong all data to card
 card.append(imagediv,title,weight,price,button);
 
@@ -81,6 +86,7 @@ async function fetchDataCard(){
 }
 
 //product details JS data
+
 
 
 document.addEventListener('DOMContentLoaded', async function () {
