@@ -256,7 +256,7 @@ body {
     grid-template-columns: repeat(5, 1fr);
     gap: 10px;
     justify-content: center; 
-    position: relative;
+    /* position: relative; */
 
 
 }
@@ -312,7 +312,7 @@ color: #ff3268;
 display: flex;
 justify-content: center;
 gap: 50px;
-margin-top: 30px;
+margin-top: 110px;
 /* align-items: center; */
 /* height: 100vh; */
 }
@@ -417,12 +417,13 @@ font-family: "Open Sans", sans-serif;
     justify-content: space-between;
     align-items: center;
     margin: auto;
+    margin-top: 10px;
     width: 540px;
     padding: 10px;
     box-sizing: border-box;
-    background-color: aliceblue;
+    background-color: #ffffff;
     box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
-    height: 60px;
+    height: 70px;
     border-radius: 18px;
 }
 #A-cart-upper>button{
@@ -440,6 +441,15 @@ font-family: "Open Sans", sans-serif;
     font-weight: 500;
     font-size: 18px;
 }
+#A-cart-image{
+    width: 540px;
+    height: 79px;
+    display: block;
+    margin: auto;
+    margin-top: 10px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    border-radius: 18px;
+}
 #A-cart{
     display: flex;
     flex-direction: column;
@@ -449,11 +459,11 @@ font-family: "Open Sans", sans-serif;
     border-radius: 18px;
     width: 540px;
     margin: auto;
-    margin-top: 30px;
+    margin-top: 10px;
   
     padding: 10px;
     box-sizing: border-box;
-    background-color: aliceblue;
+   background-color: #ffffff;
     box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
 }
 .A-title-cart{
