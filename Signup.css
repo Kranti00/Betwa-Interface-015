@@ -6,6 +6,7 @@
     margin: auto;
     margin-top: 20px;
     box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+    font-family: Arial, sans-serif;
 }
 
 .Scontainer_h input[type="tel"],
@@ -37,6 +38,7 @@
   width: 100px;
   height: 50px;
   box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+ 
 }
 
 .LoginText_h{
