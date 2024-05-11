@@ -9,9 +9,15 @@
  nav{
     width: 100%;
     height: auto;
-    background-color: #0f7165;
+    /* background-color: #1cb19f; */
+    background: linear-gradient(to left, #d6bcf9 20%, rgb(173, 135, 197) 100%);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
     position: fixed;
     top:0%;
+ }
+ #K-pdiv{
+    margin-top: 200px;
  }
 #kdiv{
     display: flex;
@@ -20,7 +26,7 @@
     padding:20px 50px;
     /* background-image: linear-gradient(white, rgb(212, 238, 255)); */
     font-family: "Open Sans", sans-serif;
-    background-color: #0f7165;
+    /* background-color: #0f7165; */
    
     box-sizing: border-box;
    
@@ -39,10 +45,10 @@
 }
 #kdiv #klocation h5{
     font-size: 18px;
-    color: #ffffff;
+    color: black;
 }
 #kdiv #klocation span{
-    color: #f5da6f;
+    color: #7d26a9;
     font-size: 20px;
 }
     
@@ -285,7 +291,8 @@ body {
 /* Soumyadeep section end */
 
 /* Adarsh section */
-#adiv{
+
+#adiv,#P-pdiv{
     
     width: 70%;
     max-width: 1180px;
@@ -298,37 +305,47 @@ body {
 
 
 }
-
-.card{
+#P-pdiv{
+    margin-top: 20px;
+}
+#paan-heading{
+ margin-top: 100px;
+ margin-left: 70px;
+ font-family: "Ubuntu Sans Mono", monospace;
+ font-weight: 600;
+ /* position: fixed; */
+}
+.card,.p-card{
 /* border: 2px solid black; */
 padding: 4px;
 }
-.A-image-div{
+
+.A-image-div,.p-image-div{
 width: 240px;
 height: 240px;
 /* padding: 15px; */
 box-sizing: border-box;
 box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
 }
-.A-image{
+.A-image,.p-image{
 width: 100%;
 border-radius: 8px;
 }
-.A-title{
+.A-title,.p-title{
 font-size: 14px;
 width: 240px;
 height: 36px;
 font-weight: 600;
 }
-.A-weight{
+.A-weight,.p-piece{
 font-size: 13px;
 color: #000000;
 }
-.A-price{
+.A-price,.p-price{
 font-size: 15px;
 font-weight: 700;
 }
-.A-btn{
+.A-btn,.p-btn{
 width: 96%;
 display: block;
 margin: auto;
@@ -340,6 +357,7 @@ border-radius: 8px;
 font-size: 13px;
 font-weight: 600;
 color: #ff3268;
+cursor: pointer;
 
 }
 /* product details css file */

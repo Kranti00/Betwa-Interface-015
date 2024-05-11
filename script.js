@@ -13,7 +13,7 @@ crossmark.addEventListener("click", function(){
     poplocation.style.display = "none";
 })
 
-
+let paan=document.getElementById("")
 // Kranti section end
 
 //Haresh section
