@@ -1,13 +1,6 @@
 {
   "users": [
-    {
-      "id": "7737",
-      "username": "Haresh",
-      "email": "haresh31@gmail.com",
-      "password": "123456",
-      "contact": "9773166630",
-      "CartArray": []
-    },
+    
     {
       "id": "ff29",
       "username": "bhavesh",
@@ -23,6 +16,14 @@
       "password": "123456",
       "contact": "1234567891",
       "CartArray": []
+    },
+    {
+      "username": "Adarsh",
+      "email": "adarshchaturvedi98@gmail.com",
+      "password": "121345",
+      "contact": "1234567891",
+      "CartArray": [],
+      "id": "1az_Tzy"
     }
   ],
   "cards": [
@@ -1745,38 +1746,150 @@
       "title": "Safal Frozen Green Peas",
       "weight": "500g",
       "price": "₹122"
+    },
+    {
+      "id": 201,
+      "img": "https://cdn.zeptonow.com/production///tr:w-400,ar-1000-1000,pr-true,f-auto,q-80/cms/product_variant/a163a351-f031-4023-a382-11ac4a801685.jpeg",
+      "title": "Stellar Define",
+      "piece": "10",
+      "price": "250"
+    },
+    {
+      "id": 202,
+      "img": "https://cdn.zeptonow.com/production///tr:w-400,ar-1000-1000,pr-true,f-auto,q-80/cms/product_variant/bc253a81-9766-4ced-be70-fa4b32d2b12e.jpeg",
+      "title": "Marlboro Advanced Compact",
+      "piece": "10",
+      "price": "150"
+    },
+    {
+      "id": 203,
+      "img": "https://cdn.zeptonow.com/production///tr:w-400,ar-1000-1000,pr-true,f-auto,q-80/cms/product_variant/a163a351-f031-4023-a382-11ac4a801685.jpeg",
+      "title": "Marlboro Fuse Beyond Double Switch",
+      "piece": "10",
+      "price": "270"
+    },
+    {
+      "id": 204,
+      "img": "https://cdn.zeptonow.com/production///tr:w-400,ar-1000-1000,pr-true,f-auto,q-80/cms/product_variant/bc253a81-9766-4ced-be70-fa4b32d2b12e.jpeg",
+      "title": "Marlboro Fuse Beyond Double Switch",
+      "piece": "10",
+      "price": "320"
+    },
+    {
+      "id": 205,
+      "img": "https://cdn.zeptonow.com/production///tr:w-400,ar-1000-1000,pr-true,f-auto,q-80/cms/product_variant/a163a351-f031-4023-a382-11ac4a801685.jpeg",
+      "title": "Marlboro Gold Advance",
+      "piece": "10",
+      "price": "100"
+    },
+    {
+      "id": 206,
+      "img": "https://cdn.zeptonow.com/production///tr:w-400,ar-1000-1000,pr-true,f-auto,q-80/cms/product_variant/bc253a81-9766-4ced-be70-fa4b32d2b12e.jpeg",
+      "title": "Marlboro Fine Touch",
+      "piece": "10",
+      "price": "300"
+    },
+    {
+      "id": 207,
+      "img": "https://cdn.zeptonow.com/production///tr:w-400,ar-1000-1000,pr-true,f-auto,q-80/cms/product_variant/a163a351-f031-4023-a382-11ac4a801685.jpeg",
+      "title": "Stellar shift with Mint",
+      "piece": "10",
+      "price": "230"
+    },
+    {
+      "id": 208,
+      "img": "https://cdn.zeptonow.com/production///tr:w-400,ar-1000-1000,pr-true,f-auto,q-80/cms/product_variant/bc253a81-9766-4ced-be70-fa4b32d2b12e.jpeg",
+      "title": "Marlboro Gold Light",
+      "piece": "10",
+      "price": "150"
+    },
+    {
+      "id": 209,
+      "img": "https://cdn.zeptonow.com/production///tr:w-400,ar-1000-1000,pr-true,f-auto,q-80/cms/product_variant/a163a351-f031-4023-a382-11ac4a801685.jpeg",
+      "title": "Classic Ice Burst Cigarette",
+      "piece": "10",
+      "price": "150"
+    },
+    {
+      "id": 210,
+      "img": "https://cdn.zeptonow.com/production///tr:w-400,ar-1000-1000,pr-true,f-auto,q-80/cms/product_variant/bc253a81-9766-4ced-be70-fa4b32d2b12e.jpeg",
+      "title": "B&H Blue Gold Cigarette",
+      "piece": "10",
+      "price": "50"
     }
   ],
-  "cart": [
+  "cart": [],
+  "paan": [
     {
-      "id": "6724",
-      "img": "https://cdn.zeptonow.com/production///tr:w-450,ar-1500-938,pr-true,f-webp,q-80/inventory/product/1f2bb758-9bdb-41b9-8615-a07e0c27128f-Photo.jpeg",
-      "title": "Pomegranate",
-      "price": "₹198"
+      "id": 201,
+      "img": "https://cdn.zeptonow.com/production///tr:w-400,ar-1000-1000,pr-true,f-auto,q-80/cms/product_variant/a163a351-f031-4023-a382-11ac4a801685.jpeg",
+      "title": "Stellar Define",
+      "piece": "10",
+      "price": "250"
     },
     {
-      "id": "b624",
-      "img": "https://cdn.zeptonow.com/production///tr:w-400,ar-1021-1021,pr-true,f-auto,q-80/cms/product_variant/af0a1930-e8b6-4eed-a986-87dc1843cbe6.jpeg",
-      "title": "Cadbury Dairy Milk Chocolate Home Treats",
-      "price": "₹126"
+      "id": 202,
+      "img": "https://cdn.zeptonow.com/production///tr:w-400,ar-1000-1000,pr-true,f-auto,q-80/cms/product_variant/bc253a81-9766-4ced-be70-fa4b32d2b12e.jpeg",
+      "title": "Marlboro Advanced Compact",
+      "piece": "10",
+      "price": "150"
     },
     {
-      "id": "e08a",
-      "img": "https://cdn.zeptonow.com/production///tr:w-450,ar-612-408,pr-true,f-webp,q-80/inventory/product/f09fe9da-fa2c-4112-8188-49bb0430ed51-image",
-      "title": "Banana Elaichi / Yelakki Semi Ripe",
-      "price": "₹53"
+      "id": 203,
+      "img": "https://cdn.zeptonow.com/production///tr:w-400,ar-1000-1000,pr-true,f-auto,q-80/cms/product_variant/a163a351-f031-4023-a382-11ac4a801685.jpeg",
+      "title": "Marlboro Fuse Beyond Double Switch",
+      "piece": "10",
+      "price": "270"
     },
     {
-      "id": "2bde",
-      "img": "https://cdn.zeptonow.com/production///tr:w-400,ar-741-955,pr-true,f-auto,q-80/cms/product_variant/f1e793c7-67de-478a-99d8-377d266edf33.png",
-      "title": "Amul Gold Full Cream Fresh Milk (Pouch)",
-      "price": "₹66"
+      "id": 204,
+      "img": "https://cdn.zeptonow.com/production///tr:w-400,ar-1000-1000,pr-true,f-auto,q-80/cms/product_variant/bc253a81-9766-4ced-be70-fa4b32d2b12e.jpeg",
+      "title": "Marlboro Fuse Beyond Double Switch",
+      "piece": "10",
+      "price": "320"
     },
     {
-      "id": "588c",
-      "img": "https://cdn.zeptonow.com/production///tr:w-450,ar-600-600,pr-true,f-webp,q-80/inventory/product/73ca31e0-8caa-4cc1-90f5-52732b21cf55-1BkEH7EVfKq_pDNx6X0_u59UpojYixy7u.jpeg",
-      "title": "White Tone Creamface Cream",
-      "price": "₹140"
+      "id": 205,
+      "img": "https://cdn.zeptonow.com/production///tr:w-400,ar-1000-1000,pr-true,f-auto,q-80/cms/product_variant/a163a351-f031-4023-a382-11ac4a801685.jpeg",
+      "title": "Marlboro Gold Advance",
+      "piece": "10",
+      "price": "100"
+    },
+    {
+      "id": 206,
+      "img": "https://cdn.zeptonow.com/production///tr:w-400,ar-1000-1000,pr-true,f-auto,q-80/cms/product_variant/bc253a81-9766-4ced-be70-fa4b32d2b12e.jpeg",
+      "title": "Marlboro Fine Touch",
+      "piece": "10",
+      "price": "300"
+    },
+    {
+      "id": 207,
+      "img": "https://cdn.zeptonow.com/production///tr:w-400,ar-1000-1000,pr-true,f-auto,q-80/cms/product_variant/a163a351-f031-4023-a382-11ac4a801685.jpeg",
+      "title": "Stellar shift with Mint",
+      "piece": "10",
+      "price": "230"
+    },
+    {
+      "id": 208,
+      "img": "https://cdn.zeptonow.com/production///tr:w-400,ar-1000-1000,pr-true,f-auto,q-80/cms/product_variant/bc253a81-9766-4ced-be70-fa4b32d2b12e.jpeg",
+      "title": "Marlboro Gold Light",
+      "piece": "10",
+      "price": "150"
+    },
+    {
+      "id": 209,
+      "img": "https://cdn.zeptonow.com/production///tr:w-400,ar-1000-1000,pr-true,f-auto,q-80/cms/product_variant/a163a351-f031-4023-a382-11ac4a801685.jpeg",
+      "title": "Classic Ice Burst Cigarette",
+      "piece": "10",
+      "price": "150"
+    },
+    {
+      "id": 210,
+      "img": "https://cdn.zeptonow.com/production///tr:w-400,ar-1000-1000,pr-true,f-auto,q-80/cms/product_variant/bc253a81-9766-4ced-be70-fa4b32d2b12e.jpeg",
+      "title": "B&H Blue Gold Cigarette",
+      "piece": "10",
+      "price": "50"
+
     }
   ]
 }

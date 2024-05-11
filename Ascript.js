@@ -10,18 +10,11 @@ card.addEventListener("click",(e)=>{
     e.preventDefault();
     window.location.href = `products.html?id=${item.id}`;
     
-
-
 })
 //image div
 let imagediv=document.createElement("div");
 imagediv.classList.add("A-image-div");
-// imagediv.addEventListener("click",()=>{
-//     window.location.href = `products.html?id=${item.id}`;
-    
 
-
-// })
 let img = document.createElement("img");
 img.classList.add("A-image");
 img.src=item.img;
@@ -98,7 +91,7 @@ searchInput.addEventListener("input", () => {
  }
 }
 
-//product details JS data
+//product details JS data//////////////////////////////////////////////////////////////////////////////
 
 
 
@@ -119,7 +112,7 @@ document.addEventListener('DOMContentLoaded', async function () {
         console.log(error);
     }
 });
-//Adding things to cart
+//Adding things to cart/////////////////////////////////////////////////////////////
 async function addToCart(item) {
     try {
         let itemData = {
@@ -136,12 +129,12 @@ async function addToCart(item) {
             body: JSON.stringify(itemData)
         });
         let data = await res.json();
-        console.log(data); // Handle the response from the server if needed
+        console.log(data);
     } catch (error) {
         console.log(error);
     }
 }
-//feting data from cart db.json to cart page
+//feting data from cart db.json to cart page////////////////////////////////////////////////
 async function fetchCartData() {
     try {
         let res = await fetch("http://localhost:3000/cart");
@@ -190,26 +183,17 @@ function displayCartItem(item) {
     buttonDiv.appendChild(btn2);
     //adding button fucntions here
     let value=1;
-   
-
-    // Update price function
-   
-
-    span.innerHTML=value;
-    
-
+   // Update price function
+   span.innerHTML=value;
     btn2.addEventListener("click",(e)=>{
         e.preventDefault();
      value++;
      span.innerHTML=value;
-    
-    
-    })
+     }) 
+
     btn1.addEventListener("click",(e)=>{
         e.preventDefault();
-        
-        
-       if(value>0){
+        if(value>0){
         value--;
         span.innerHTML=value;
       
@@ -225,23 +209,22 @@ function displayCartItem(item) {
     let price = document.createElement("p");
     price.classList.add("A-cart-price");
     price.innerText = item.price;
+    //paymrnt deletion program
     
     // Appending data to cart div
     cart.append(imageDiv, title, buttonDiv, price);
     return cart;
 }
-
-
-
 function appendCartData(data) {
     let cartMain = document.getElementById("A-cart");
     cartMain.innerHTML = "";
     data.forEach((item) => {
         let cartItem = displayCartItem(item);
         cartMain.appendChild(cartItem);
+        
     });
 }
-
+//Deleting data from cart///////////////////////////////////////////////////
 async function deleteformCart(itemId) {
     try {
         let res = await fetch(`http://localhost:3000/cart/${itemId}`, {
@@ -264,21 +247,19 @@ btnCart.addEventListener("click",(e)=>{
 let Acartoutercontainer=document.getElementById("A-cart-outer-container");
 let popup=document.getElementById("cart-popup");
 let paymentButton = document.getElementById("A-cart-payment");
+///////////Deleting intire cart after payment is done//////////////////////////////////////////
 paymentButton.addEventListener("click",(e)=>{
   e.preventDefault();
   popup.style.visibility="visible";
   popup.classList.add("A-cart-popup1");
-
 })
+
+
+
+
 let goback=document.getElementById("goback-cart");
 goback.addEventListener("click",()=>{
     window.location.href="index.html";
 })
 
 
-// search functionaloity
-
-
-
-// search end
-// Adarsh section end

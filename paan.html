@@ -3,9 +3,8 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Zepto clone</title>
-    <link rel="stylesheet" href="styles.css" />
-    <link rel="stylesheet" href="Search.css">
+    <title>paan</title>
+    <link rel="stylesheet" href="./styles.css" />
     <link
       rel="stylesheet"
       href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css"
@@ -21,14 +20,12 @@
     />
     <style>
       body {
-        font-family: Arial, sans-serif;
         margin: 0px;
         padding: 0px;
       }
     </style>
   </head>
   <body>
-    <!-- Kranti navbar start -->
     <nav>
       <div id="kdiv">
         <div id="klogo">
@@ -44,7 +41,7 @@
         </div>
         <div id="kinput">
           <i class="fa-solid fa-magnifying-glass"></i>
-          <input id="Search_h" type="text" placeholder="Search for product" />
+          <input type="text" placeholder="Search for product" />
         </div>
         <div id="kicons">
           <div id="kicon1">
@@ -76,59 +73,12 @@
         </div>
       </div>
     </nav>
-    <div id="kimagecontainer">
-      <a href="./paan.html" id="paan-anchor"
-        ><img
-          src="https://cdn.zeptonow.com/web-static-assets-prod/artifacts/10.9.3/tr:w-1280,ar-1438-235,pr-true,f-auto,q-80//images/paan-corner/paan-corner-banner-desktop.png"
-          alt=""
-      /></a>
+    <!-- navbar ended here -->
+    <h1 id="paan-heading">Buy Cigarettes Online</h1>
+    <div id="P-pdiv">
+      <!-- items will be added here dynamically -->
     </div>
-
-    <!-- Kranti navbar end -->
-
-    <!-- Haresh login and signup start -->
-    <!-- <div id="hdiv">
-        <nav class="nav_h">
-            <ul>
-              <li><a id="loginBtn" href="login.html">Login</a></li>
-            </ul>
-          </nav>
-    </div> -->
-
-    <!-- Haresh login and singup end -->
-
-    <!-- Soumyadeep hero section start -->
-    <section class="card-carousel">
-        <div class="carousel-container">
-            <div class="cards">
-                <!-- Cards will be dynamically added here -->
-            </div>
-            <button class="prev">&#10094;</button>
-            <button class="next">&#10095;</button>
-        </div>
-    </section>
-    
-    <div class="headings">
-        <h2 class="explore-heading">Explore by category</h2>
-        <a href="seall.html" class="see-all"><b>See All &gt;</b></a>
-    </div>
-        
-    <div class="explore-categories">
-        <!-- Categories will be dynamically generated here -->
-    </div>
-
-    <!-- Soumyadeep hero section end -->
-
-    <!-- Adarsh infinity scrolling start -->
-    <div id="adiv"></div>
-
-    <!-- Adarsh infinity scrolling end -->
-
-    <script src="script.js"></script>
-    <script src="./Ascript.js"></script>
-    <script
-      src="https://kit.fontawesome.com/3cabc7956c.js"
-      crossorigin="anonymous"
-    ></script>
+    <script src="./paan.js"></script>
+    <!-- <script src="./Ascript.js"></script> -->
   </body>
 </html>
