@@ -1,13 +1,6 @@
 {
   "users": [
-    {
-      "id": "7737",
-      "username": "Haresh",
-      "email": "haresh31@gmail.com",
-      "password": "123456",
-      "contact": "9773166630",
-      "CartArray": []
-    },
+    
     {
       "id": "ff29",
       "username": "bhavesh",
