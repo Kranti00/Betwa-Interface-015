@@ -289,31 +289,31 @@ body {
 
 /* Soumyadeep section */
 /* Styles for card carousel */
-.carousel-container {
-    position: relative;
+.unique-carousel-container {
+    /* position: relative; */
     max-width: 100%;
     overflow: hidden;
     margin: 0 auto;
 }
 
-.cards {
+.unique-cards {
     display: flex;
     transition: transform 0.5s ease; 
 }
 
-.card {
+.unique-card {
     flex: 0 0 calc(25% - 20px); 
     margin: 0 10px; 
     box-sizing: border-box; 
 }
 
-.card img {
+.unique-card img {
     width: 100%;
     height: auto;
 }
 
 /* Styles for carousel navigation buttons */
-.prev, .next {
+.unique-prev, .unique-next {
     position: absolute;
     top: 50%;
     transform: translateY(-50%);
@@ -324,32 +324,32 @@ body {
     cursor: pointer;
 }
 
-.prev {
+.unique-prev {
     left: 0;
 }
 
-.next {
+.unique-next {
     right: 0;
 }
 
 /* Styles for explore by category */
-.explore-categories {
+.unique-explore-categories {
     margin-top: 20px;
 }
 
-.category-row {
+.unique-category-row {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
 }
 
-.category {
+.unique-category {
     margin: 10px;
     text-align: center;
     max-width: 2000px; 
 }
 
-.category img {
+.unique-category img {
     width: 162px;
     height: 200px;
     display: block;
@@ -358,47 +358,47 @@ body {
     transition: transform 0.5s ease; 
 }
 
-.category img[alt="Fruits and Vegetables"],
-.category img[alt="Atta, Rice and Dals"] {
+.unique-category img[alt="Fruits and Vegetables"],
+.unique-category img[alt="Atta, Rice and Dals"] {
     width: 282px; 
     height: auto; 
 }
 
-.category p {
+.unique-category p {
     margin-top: 5px;
 }
 
-.category img:hover {
+.unique-category img:hover {
     transform: scale(1.05); 
 }
 
 
 @media screen and (max-width: 600px) {
-    .category {
+    .unique-category {
         max-width: 100%;
     }
 
-    .category img {
+    .unique-category img {
         width: 80px;
         height: 80px;
     }
 }
 
-.headings {
+.unique-headings {
     display: flex;
     justify-content: space-between;
     align-items: center;
 }
 
-.explore-heading {
+.unique-explore-heading {
     margin-right: auto; 
 }
-.see-all {
+.unique-see-all {
     font-size: 18px;
     color: #FF3269;
     text-decoration: none;
 }
-.back {
+.unique-back {
     background-color: #4CAF50;
     color: white;
     border: none;
@@ -409,18 +409,18 @@ body {
     transition: background-color 0.3s ease;
 }
 
-.back:hover {
+.unique-back:hover {
     background-color: #45a049; 
 }
 
-.product-card {
+.unique-product-card {
     display: flex;
     flex-direction: column;
     align-items: center;
     margin-bottom: 20px;
 }
 
-.product-card img {
+.unique-product-card img {
     width: 1560px; /* Adjust the width as needed */
     height: auto; /* Maintain aspect ratio */
     border-radius: 10px; /* Rounded corners */
@@ -428,16 +428,17 @@ body {
     transition: transform 0.3s ease-in-out; /* Smooth transition effect */
 }
 
-.product-card img:focus {
+.unique-product-card img:focus {
     transform: scale(1.1); 
     outline: none; 
 }
 
-.product-card p {
+.unique-product-card p {
     margin-top: 10px;
     font-size: 16px;
     text-align: center;
 }
+
 
 /* Soumyadeep section end */
 
