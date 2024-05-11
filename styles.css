@@ -251,6 +251,7 @@ body {
   box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
   position: relative;
   z-index: 1000;
+  /* align-items: center; */
 }
 
 .container_app_h{
@@ -452,8 +453,6 @@ body {
     gap: 10px;
     justify-content: center; 
     /* position: relative; */
-
-
 }
 #P-pdiv{
     margin-top: 20px;
