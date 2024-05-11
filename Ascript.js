@@ -78,6 +78,19 @@ async function fetchDataCard(){
     let res= await fetch(`http://localhost:3000/cards`);
     let data = await res.json();
     console.log(data);
+// serarch start
+ let searchInput = document.getElementById('Search_h');
+searchInput.addEventListener("input", () => {
+    let searchTerm = searchInput.value.toLowerCase();
+    let filteredData = [];
+    if (searchTerm.trim() !== "") {
+        filteredData = data.filter(product => product.title.toLowerCase().includes(searchTerm));
+    } else {
+        filteredData = data;
+    }
+    appendData(filteredData);
+});
+// search end
     appendData(data);
    
  } catch (error) {
@@ -262,4 +275,10 @@ goback.addEventListener("click",()=>{
     window.location.href="index.html";
 })
 
+
+// search functionaloity
+
+
+
+// search end
 // Adarsh section end
