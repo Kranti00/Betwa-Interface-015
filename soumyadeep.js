@@ -231,153 +231,153 @@ document.addEventListener("DOMContentLoaded", function() {
 
     // Function to handle click event on category images
     function redirectToProducts(categoryName) {
-        window.location.href = `products.html?category=${encodeURIComponent(categoryName)}`;
+        window.location.href = `new_products.html?category=${encodeURIComponent(categoryName)}`;
     }
 });
 
-// Array of products
-const allProducts = [
-    {
-        image: "./fruits.png", 
-        category: "Fruits and Vegetables"
-    },
-    {
-        image: "./atta.png", 
-        category: "Atta, Rice and Dals"
-    },
-    {
-        image: "./masala.png", 
-        category: "Masala and Dry fruits"
-    },
-    {
-        image: "./sweet.png", 
-        category: "Sweet Cravings"
-    },
-    {
-        image: "./Toys12.png", 
-        category: "Toys"
-    },
-    {
-        image: "./Apparel.png", 
-        category: "Appareal & Lifestyle"
-    },
-    {
-        image: "./Jwellery.png", 
-        category: "Jewellery"
-    },
-    {
-        image: "./Frozen-foods.png", 
-        category: "Frozen Food & Ice Cream"
-    },
-    {
-        image: "./Packaged.png", 
-        category: "Packaged Foods"
-    },
-    {
-        image: "./Daily-Breads-eggs.png", 
-        category: "Dairy Breads and Eggs"
-    },
-    {
-        image: "./Cold-Drink-Juices.png", 
-        category: "Cold Drinks & Juices"
-    },
-    {
-        image: "./Munchies.png", 
-        category: "Munchies & Chips"
-    },
-    {
-        image: "./Meat.png", 
-        category: "Meats, Fish & Eggs"
-    },
-    {
-        image: "./Breakfast.png", 
-        category: "Breakfast & Sauces"
-    },
-    {
-        image: "./Tea-Coffee.png", 
-        category: "Tea, Coffee & more"
-    },
-    {
-        image: "./Biscuits-Cookies.png", 
-        category: "Biscuits and Cookies"
-    },
-    {
-        image: "./Makeup.png", 
-        category: "Makeup & Beauty"
-    },
-    {
-        image: "./Bath-Body.png", 
-        category: "Bath, Body & Hair"
-    },
-    {
-        image: "./Cleaning-essential.png", 
-        category: "Cleaning Essentials"
-    },
-    {
-        image: "./Home-needs.png", 
-        category: "Home Needs"
-    },
-    {
-        image: "./Electrical.png", 
-        category: "Electrical & Accessories"
-    },
-    {
-        image: "./Grooming.png", 
-        category: "Grooming Essentials"
-    },
-    {
-        image: "./Hygiene-Wellness.png", 
-        category: "Hygiene and Wellness"
-    },
-    {
-        image: "./baby-care.png", 
-        category: "Baby Care"
-    },
-    {
-        image: "./Pet-Care.png", 
-        category: "Pet Care"
-    },
-    {
-        image: "./Paan-corner.png", 
-        category: "Paan Corner"
-    }
+// // Array of products
+// const allProducts = [
+//     {
+//         image: "../Somyadeep_imgs/atta.png", 
+//         category: "Fruits and Vegetables"
+//     },
+//     {
+//         image: "./atta.png", 
+//         category: "Atta, Rice and Dals"
+//     },
+//     {
+//         image: "./masala.png", 
+//         category: "Masala and Dry fruits"
+//     },
+//     {
+//         image: "./sweet.png", 
+//         category: "Sweet Cravings"
+//     },
+//     {
+//         image: "./Toys12.png", 
+//         category: "Toys"
+//     },
+//     {
+//         image: "./Apparel.png", 
+//         category: "Appareal & Lifestyle"
+//     },
+//     {
+//         image: "./Jwellery.png", 
+//         category: "Jewellery"
+//     },
+//     {
+//         image: "./Frozen-foods.png", 
+//         category: "Frozen Food & Ice Cream"
+//     },
+//     {
+//         image: "./Packaged.png", 
+//         category: "Packaged Foods"
+//     },
+//     {
+//         image: "./Daily-Breads-eggs.png", 
+//         category: "Dairy Breads and Eggs"
+//     },
+//     {
+//         image: "./Cold-Drink-Juices.png", 
+//         category: "Cold Drinks & Juices"
+//     },
+//     {
+//         image: "./Munchies.png", 
+//         category: "Munchies & Chips"
+//     },
+//     {
+//         image: "./Meat.png", 
+//         category: "Meats, Fish & Eggs"
+//     },
+//     {
+//         image: "./Breakfast.png", 
+//         category: "Breakfast & Sauces"
+//     },
+//     {
+//         image: "./Tea-Coffee.png", 
+//         category: "Tea, Coffee & more"
+//     },
+//     {
+//         image: "./Biscuits-Cookies.png", 
+//         category: "Biscuits and Cookies"
+//     },
+//     {
+//         image: "./Makeup.png", 
+//         category: "Makeup & Beauty"
+//     },
+//     {
+//         image: "./Bath-Body.png", 
+//         category: "Bath, Body & Hair"
+//     },
+//     {
+//         image: "./Cleaning-essential.png", 
+//         category: "Cleaning Essentials"
+//     },
+//     {
+//         image: "./Home-needs.png", 
+//         category: "Home Needs"
+//     },
+//     {
+//         image: "./Electrical.png", 
+//         category: "Electrical & Accessories"
+//     },
+//     {
+//         image: "./Grooming.png", 
+//         category: "Grooming Essentials"
+//     },
+//     {
+//         image: "./Hygiene-Wellness.png", 
+//         category: "Hygiene and Wellness"
+//     },
+//     {
+//         image: "./baby-care.png", 
+//         category: "Baby Care"
+//     },
+//     {
+//         image: "./Pet-Care.png", 
+//         category: "Pet Care"
+//     },
+//     {
+//         image: "./Paan-corner.png", 
+//         category: "Paan Corner"
+//     }
     
-];
+// ];
 
-// Get query parameter
-function getQueryParameter(name) {
-    const queryString = window.location.search;
-    const urlParams = new URLSearchParams(queryString);
-    return urlParams.get(name);
-}
+// // Get query parameter
+// function getQueryParameter(name) {
+//     const queryString = window.location.search;
+//     const urlParams = new URLSearchParams(queryString);
+//     return urlParams.get(name);
+// }
 
-// Filter products by category
-function filterProductsByCategory(category) {
-    return allProducts.filter(product => product.category === category);
-}
+// // Filter products by category
+// function filterProductsByCategory(category) {
+//     return allProducts.filter(product => product.category === category);
+// }
 
-// Render products
-function renderProducts(products) {
-    const productsContainer = document.querySelector('.unique-products');
-    productsContainer.innerHTML = ''; // Clear previous products
+// // Render products
+// function renderProducts(products) {
+//     const productsContainer = document.querySelector('.unique-products');
+//     productsContainer.innerHTML = ''; // Clear previous products
 
-    products.forEach(product => {
-        const productCard = document.createElement('div');
-        productCard.classList.add('unique-product-card');
-        productCard.innerHTML = `
-            <img src="${product.image}" alt="${product.category}">
-            <p>${product.category}</p>
-        `;
-        productsContainer.appendChild(productCard);
-    });
-}
+//     products.forEach(product => {
+//         const productCard = document.createElement('div');
+//         productCard.classList.add('unique-product-card');
+//         productCard.innerHTML = `
+//             <img src="${product.image}" alt="${product.category}">
+//             <p>${product.category}</p>
+//         `;
+//         productsContainer.appendChild(productCard);
+//     });
+// }
 
-// Load products based on category
-document.addEventListener("DOMContentLoaded", function() {
-    const category = getQueryParameter('category');
-    if (category) {
-        const products = filterProductsByCategory(category);
-        renderProducts(products);
-    }
-});
+// // Load products based on category
+// document.addEventListener("DOMContentLoaded", function() {
+//     const category = getQueryParameter('category');
+//     if (category) {
+//         const products = filterProductsByCategory(category);
+//         renderProducts(products);
+//     }
+// });
 
