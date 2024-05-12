@@ -82,14 +82,13 @@ Betwa-Interface-015/
 
 ### Design Elements
 
-1. **Interactive**: Card will increase in sized in a smooth way when curser hover them also the button changes the colors and in header the dropdown menu comes up and a red underline comes when user interact with it.
+- **Interactive**: Card will increase in sized in a smooth way when curser hover them also the button changes the colors and in header the dropdown menu comes up and a red underline comes when user interact with it.
 
-2. **Carousel**: A responsive slideshow for cycling images or text, with controls and indicators.
+- **Carousel**: A responsive slideshow for cycling images or text, with controls and indicators.
 
-3. **Flex and Grid**: Many of the elements takes the benefits of display flex and display grid to provide more control over the deferent layout in different sections of website.
+- **Flex and Grid**: Many of the elements takes the benefits of display flex and display grid to provide more control over the deferent layout in different sections of website.
 
-4. **Fonts & Icons:**
-   Integrates Google Fonts and FontAwesome icons for enhanced typography and visual elements. By leveraging these resources, the website achieves a modern and visually appealing design, improving readability and user engagement.
+- **Fonts & Icons**: Integrates Google Fonts and FontAwesome icons for enhanced typography and visual elements. By leveraging these resources, the website achieves a modern and visually appealing design, improving readability and user engagement.
 
 
 ### How to Use
