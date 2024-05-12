@@ -1,6 +1,5 @@
 {
   "users": [
-    
     {
       "id": "ff29",
       "username": "bhavesh",
@@ -1816,9 +1815,86 @@
       "title": "B&H Blue Gold Cigarette",
       "piece": "10",
       "price": "50"
+    },
+    {
+      "id": "301",
+      "img": "https://cdn.zeptonow.com/production///tr:w-400,ar-597-403,pr-true,f-auto,q-80/inventory/product/aefc1cee-85fd-4be7-bdbf-23ab5f7abf05-potato-1-kg-product-images-o590000090-p590000090-0-202207291750.jpg",
+      "title": "Potato",
+      "weight": "1Kg",
+      "price": "₹31"
+    },
+    {
+      "id": "302",
+      "img": "https://cdn.zeptonow.com/production///tr:w-400,ar-371-310,pr-true,f-auto,q-80/cms/product_variant/40e816c1-02be-4df4-b8f7-57603876c453.jpeg",
+      "title": "Blueberry",
+      "weight": "1 pack",
+      "price": "₹115"
+    },
+    {
+      "id": "303",
+      "img": "https://cdn.zeptonow.com/production///tr:w-400,ar-1000-1000,pr-true,f-auto,q-80/cms/product_variant/65fdd4ab-24b6-4222-a21f-10a7620aab61.jpeg",
+      "title": "Chakki Atta",
+      "weight": "5 Kg",
+      "price": "₹184"
+    },
+    {
+      "id": "304",
+      "img": "https://cdn.zeptonow.com/production///tr:w-400,ar-1000-1000,pr-true,f-auto,q-80/cms/product_variant/060bc252-4300-4898-8adc-1e8281c1182a.jpeg",
+      "title": "India Gate Basmati Rice",
+      "weight": "5 Kg",
+      "price": "₹834"
+    },
+    {
+      "id": "305",
+      "img": "https://cdn.zeptonow.com/production///tr:w-400,ar-1021-1021,pr-true,f-auto,q-80/cms/product_variant/e69aba42-cf7e-43c5-8693-5b6e15f56896.jpeg",
+      "title": "Ferrero Rocher Chocolate Gift Box",
+      "weight": "330 gm",
+      "price": "₹902"
+    },
+    {
+      "id": "306",
+      "img": "https://cdn.zeptonow.com/production///tr:w-400,ar-600-600,pr-true,f-auto,q-80/inventory/product/671896eb-3b7f-43a1-bb4b-5db277ca53d9-1SiEBx2B3cmzhNkJy2ahPntb-ej6Y2Sdd.jpeg",
+      "title": "Amul Dark Chocolate Bar",
+      "weight": "150 gm",
+      "price": "₹105"
+    },
+    {
+      "id": "307",
+      "img": "https://cdn.zeptonow.com/production///tr:w-400,ar-1000-1000,pr-true,f-auto,q-80/cms/product_variant/ee40f94d-9a37-467f-b12d-d099580f6ab4.jpeg",
+      "title": "Red Bull Energy Drink Multican",
+      "weight": "4 X 250ML",
+      "price": "₹450"
+    },
+    {
+      "id": "308",
+      "img": "https://cdn.zeptonow.com/production///tr:w-400,ar-1021-1021,pr-true,f-auto,q-80/cms/product_variant/106fc258-2443-47c9-ae31-d7d538de3d9c.jpeg",
+      "title": "Glucon-D Tangy Orange Glucose Powder Refill",
+      "weight": "1 kg",
+      "price": "₹348"
+    },
+    {
+      "id": "309",
+      "img": "https://cdn.zeptonow.com/production///tr:w-400,ar-1000-1000,pr-true,f-auto,q-80/cms/product_variant/e8bd9ee4-7777-4cd5-bad7-801ac2bdbc5b.jpeg",
+      "title": "BoAt Airdopes 131/138 with upto 15 Hours",
+      "weight": "1 piece",
+      "price": "₹1399"
+    },
+    {
+      "id": "310",
+      "img": "https://cdn.zeptonow.com/production///tr:w-400,ar-1021-1021,pr-true,f-auto,q-80/cms/product_variant/dec3a87e-f29f-4363-9bca-156d23cb3eba.jpeg",
+      "title": "New Spinz Enchante Perfumed Deo",
+      "weight": "200 ml",
+      "price": "₹180"
     }
   ],
-  "cart": [],
+  "cart": [
+    {
+      "img": "https://cdn.zeptonow.com/production///tr:w-400,ar-1021-1021,pr-true,f-auto,q-80/cms/product_variant/af0a1930-e8b6-4eed-a986-87dc1843cbe6.jpeg",
+      "title": "Cadbury Dairy Milk Chocolate Home Treats",
+      "price": "₹126",
+      "id": 1
+    }
+  ],
   "paan": [
     {
       "id": 201,
@@ -1889,7 +1965,6 @@
       "title": "B&H Blue Gold Cigarette",
       "piece": "10",
       "price": "50"
-
     }
   ],
   "categories": [
