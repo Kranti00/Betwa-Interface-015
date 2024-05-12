@@ -2,7 +2,7 @@ let paandiv = document.getElementById("P-pdiv");
 async function fetchPaan() {
     try {
        
-        let res = await fetch("http://localhost:3000/paan");
+        let res = await fetch("https://betwa-interface-015.onrender.com/paan");
         
        
         if (!res.ok) {
@@ -87,7 +87,7 @@ fetchPaan();
 document.addEventListener('DOMContentLoaded', async function () {
     try {
         const productId = new URLSearchParams(window.location.search).get('id');
-        const res = await fetch(`http://localhost:3000/paan/${productId}`); 
+        const res = await fetch(`https://betwa-interface-015.onrender.com/paan/${productId}`); 
         const data = await res.json();
         console.log(data);
         
@@ -110,7 +110,7 @@ async function addToCart(item) {
             "title": item.title,
             "price": item.price
         };
-        let res = await fetch(`http://localhost:3000/cart`, {
+        let res = await fetch(`https://betwa-interface-015.onrender.com/cart`, {
             method: "POST",
             headers: {
                 "Content-Type": "application/json",

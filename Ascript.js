@@ -68,7 +68,7 @@ fetchDataCard();
 
 async function fetchDataCard(){
  try {
-    let res= await fetch(`http://localhost:3000/cards`);
+    let res= await fetch(`https://betwa-interface-015.onrender.com/cards`);
     let data = await res.json();
     console.log(data);
 // serarch start
@@ -98,7 +98,7 @@ searchInput.addEventListener("input", () => {
 document.addEventListener('DOMContentLoaded', async function () {
     try {
         const productId = new URLSearchParams(window.location.search).get('id');
-        const res = await fetch(`http://localhost:3000/cards/${productId}`); 
+        const res = await fetch(`https://betwa-interface-015.onrender.com/cards/${productId}`); 
         const data = await res.json();
         console.log(data);
         
@@ -121,7 +121,7 @@ async function addToCart(item) {
             "title": item.title,
             "price": item.price
         };
-        let res = await fetch(`http://localhost:3000/cart`, {
+        let res = await fetch(`https://betwa-interface-015.onrender.com/cart`, {
             method: "POST",
             headers: {
                 "Content-Type": "application/json",
@@ -137,7 +137,7 @@ async function addToCart(item) {
 //feting data from cart db.json to cart page////////////////////////////////////////////////
 async function fetchCartData() {
     try {
-        let res = await fetch("http://localhost:3000/cart");
+        let res = await fetch("https://betwa-interface-015.onrender.com/cart");
         let data = await res.json();
         appendCartData(data);
         
@@ -227,7 +227,7 @@ function appendCartData(data) {
 //Deleting data from cart///////////////////////////////////////////////////
 async function deleteformCart(itemId) {
     try {
-        let res = await fetch(`http://localhost:3000/cart/${itemId}`, {
+        let res = await fetch(`https://betwa-interface-015.onrender.com/cart/${itemId}`, {
             method: "DELETE",
         });
         let data = await res.json();

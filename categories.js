@@ -3,7 +3,7 @@ let category_div=document.getElementById("c-div");
 async function fetchcategory() {
     try {
        
-        let res = await fetch("http://localhost:3000/categories");
+        let res = await fetch("https://betwa-interface-015.onrender.com/categories");
         
        
         if (!res.ok) {
@@ -88,7 +88,7 @@ fetchcategory();
 document.addEventListener('DOMContentLoaded', async function () {
     try {
         const productId = new URLSearchParams(window.location.search).get('id');
-        const res = await fetch(`http://localhost:3000/categories/${productId}`); 
+        const res = await fetch(`https://betwa-interface-015.onrender.com/categories/${productId}`); 
         const data = await res.json();
         console.log(data);
         
@@ -111,7 +111,7 @@ async function addToCart(item) {
             "title": item.title,
             "price": item.price
         };
-        let res = await fetch(`http://localhost:3000/cart`, {
+        let res = await fetch(`https://betwa-interface-015.onrender.com/cart`, {
             method: "POST",
             headers: {
                 "Content-Type": "application/json",

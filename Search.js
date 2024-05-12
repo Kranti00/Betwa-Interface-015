@@ -37,7 +37,7 @@ function displayResults(results) {
 }
 
 // Fetch data from the server
-fetch('http://localhost:3000/cards')
+fetch('https://betwa-interface-015.onrender.com/cards')
   .then(response => response.json())
   .then(data => {
     const products = data;
