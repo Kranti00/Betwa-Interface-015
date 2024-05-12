@@ -15,6 +15,7 @@
     background-attachment: fixed;
     position: fixed;
     top:0%;
+    z-index: 1000;
  }
  #K-pdiv{
     margin-top: 200px;
@@ -251,6 +252,7 @@ body {
   box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
   position: relative;
   z-index: 1000;
+  /* align-items: center; */
 }
 
 .container_app_h{
@@ -287,12 +289,189 @@ body {
 /* Haresh section end */
 
 /* Soumyadeep section */
+/* Styles for card carousel */
+.unique-card-carousel{
+  /* background-color: greenyellow; */
+  width: 100%;
+  max-width: 1280px;
+  margin: auto;
+  position: relative;
+}
+.unique-carousel-container {
+    /* position: relative; */
+   
+    overflow: hidden;
+    margin:auto;
+    margin-top: 25px;
+    z-index: -1;
+}
+
+.unique-cards {
+    display: flex;
+    transition: transform 0.5s ease; 
+}
+
+.unique-card {
+    flex: 0 0 calc(25% - 20px); 
+    margin: 0 10px; 
+    box-sizing: border-box; 
+}
+
+.unique-card img {
+    width: 100%;
+    height: auto;
+}
+
+/* Styles for carousel navigation buttons */
+.unique-prev, .unique-next {
+    position: absolute;
+    top: 55%;
+    transform: translateY(-50%);
+    background-color: white;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    color: #FF3269;
+    padding: 10px;
+    border: none;
+    font-weight: 600;
+    font-size: 16px;
+    cursor: pointer;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+
+.unique-prev {
+    left: -20px;
+}
+
+.unique-next {
+    right: -20px;
+}
+
+/* Styles for explore by category */
+.unique-explore-categories {
+    margin: auto;
+    margin-top: 20px;
+    /* width: 100%; */
+    max-width: 1280px;
+ /* background-color: #45a049; */
+}
+
+.unique-category-row {
+    display: flex;
+    /* flex-wrap: wrap; */
+    justify-content: center;
+}
+
+.unique-category {
+    margin: 10px;
+    text-align: center;
+    /* width: 200px; */
+    /* max-width: 2000px;  */
+    /* background-color: #7a519a; */
+}
+
+.unique-category img {
+    width: 142px;
+    height: 200px;
+    display: block;
+    margin: auto;
+    object-fit: contain;
+    transition: transform 0.5s ease; 
+}
+
+.unique-category img[alt="Fruits and Vegetables"],
+.unique-category img[alt="Atta, Rice and Dals"] {
+    width: 282px; 
+    height: auto; 
+}
+
+.unique-category p {
+    margin-top: 5px;
+    background-color: #45a049;
+}
+
+.unique-category img:hover {
+    transform: scale(1.05); 
+}
+
+
+@media screen and (max-width: 600px) {
+    .unique-category {
+        max-width: 100%;
+    }
+
+    .unique-category img {
+        width: 80px;
+        height: 80px;
+    }
+}
+
+.unique-headings {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 1280px;
+    margin: auto;
+}
+
+.unique-explore-heading {
+    margin-right: auto; 
+   
+}
+.unique-see-all {
+    font-size: 18px;
+    color: #FF3269;
+    text-decoration: none;
+}
+.unique-back {
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.unique-back:hover {
+    background-color: #45a049; 
+}
+
+/* .unique-product-card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 20px;
+    background-color: #45a049;
+} */
+
+/* .unique-product-card img {
+    width: 1560px;
+    height: auto; 
+    border-radius: 10px; 
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); 
+    transition: transform 0.3s ease-in-out; 
+}
+
+.unique-product-card img:focus {
+    transform: scale(1.1); 
+    outline: none; 
+}
+
+.unique-product-card p {
+    margin-top: 10px;
+    font-size: 16px;
+    text-align: center;
+} */
+
 
 /* Soumyadeep section end */
 
 /* Adarsh section */
 
-#adiv,#P-pdiv{
+#adiv,#P-pdiv,#c-div{
     
     width: 70%;
     max-width: 1180px;
@@ -302,8 +481,9 @@ body {
     gap: 10px;
     justify-content: center; 
     /* position: relative; */
-
-
+}
+#c-div{
+    margin-top: 110px;
 }
 #P-pdiv{
     margin-top: 20px;
@@ -315,37 +495,37 @@ body {
  font-weight: 600;
  /* position: fixed; */
 }
-.card,.p-card{
+.card,.p-card,.c-card{
 /* border: 2px solid black; */
 padding: 4px;
 }
 
-.A-image-div,.p-image-div{
+.A-image-div,.p-image-div,.c-image-div{
 width: 240px;
 height: 240px;
 /* padding: 15px; */
 box-sizing: border-box;
 box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
 }
-.A-image,.p-image{
+.A-image,.p-image,.c-image{
 width: 100%;
 border-radius: 8px;
 }
-.A-title,.p-title{
+.A-title,.p-title,.c-title{
 font-size: 14px;
 width: 240px;
 height: 36px;
 font-weight: 600;
 }
-.A-weight,.p-piece{
+.A-weight,.p-piece,.c-weight{
 font-size: 13px;
 color: #000000;
 }
-.A-price,.p-price{
+.A-price,.p-price,.c-price{
 font-size: 15px;
 font-weight: 700;
 }
-.A-btn,.p-btn{
+.A-btn,.p-btn,.c-btn{
 width: 96%;
 display: block;
 margin: auto;
@@ -601,11 +781,9 @@ font-family: "Open Sans", sans-serif;
  left: 36%;
  margin: auto;
 }
-.A-cart-popup1{
-    /* visibility: visible; */
+/* .A-cart-popup1{
     
-    
-}
+} */
 .A-cart-popup>img{
     width: 140px;
     height: 140px;
