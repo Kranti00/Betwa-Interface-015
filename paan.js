@@ -60,7 +60,7 @@ function createpaan(item){
     button.innerText = "Add to Cart";
     button.addEventListener("click",(e)=>{
        e.preventDefault();
-       addToCart(item);
+    //    addToCart(item);
        alert("Item has been to cart")
     })
     card.append(imageDiv, title, piece, price, button);
