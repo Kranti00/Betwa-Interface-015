@@ -10,7 +10,7 @@ Frontend | Backend
 
 ### Deployed Link
 
--[Live Demo Zepto]()
+-[Live Demo Zepto](https://zepto-masai.netlify.app/)
 
 ### Directory Structure
 
