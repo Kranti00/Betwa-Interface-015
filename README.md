@@ -37,6 +37,28 @@ Betwa-Interface-015/
 
 ### Screenshots
 
+**Landing Page**
+
+<img src="Landing page.png" alt="">
+
+**Login and Signup Page**
+
+<div style="display: flex;">
+  <img src="Login page.png" alt="">
+  <img src="Signup page.png" alt="">
+</div>
+
+**Card Page**
+
+<img src="Card page.png" alt="">
+
+**Product Detail Page**
+
+<img src="Product details page.png" alt="">
+
+**Cart Page**
+
+<img src="Cart page.png" alt="">
 
 
 ### Features
@@ -85,4 +107,5 @@ To run this project locally:
 ### Acknowledments
 
 - Inspired by Zepto original website.
+- Special thanks for our team mate Adarsh for his contribution in solving critical problems.
 - Special thanks to our dedicated team for their invaluable contributions to Zepto and our mentor/IA Ritesh Ranjan Sir for giving us directions and material for this project.
