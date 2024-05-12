@@ -87,7 +87,6 @@ Betwa-Interface-015/
 2. **Carousel**: A responsive slideshow for cycling images or text, with controls and indicators.
 
 3. **Flex and Grid**: Many of the elements takes the benefits of display flex and display grid to provide more control over the deferent layout in different sections of website.
-Tech Stack
 
 4. **Fonts & Icons:**
    Integrates Google Fonts and FontAwesome icons for enhanced typography and visual elements. By leveraging these resources, the website achieves a modern and visually appealing design, improving readability and user engagement.
