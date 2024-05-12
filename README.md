@@ -2,7 +2,7 @@
 
 ### Zepto
 
-ZeptoNow is a website that offers a curated selection of limited-time deals on a variety of products and services. Users can browse through the latest offers, which span categories such as electronics, fashion, home goods, and more. With a focus on time-limited promotions, ZeptoNow aims to provide users with exclusive deals and discounts that are only available for a short period, adding a sense of urgency to their shopping experience.
+Zepto is a website that offers a curated selection of limited-time deals on a variety of products and services. Users can browse through the latest offers, which span categories such as electronics, fashion, home goods, and more. With a focus on time-limited promotions, Zepto aims to provide users with exclusive deals and discounts that are only available for a short period, adding a sense of urgency to their shopping experience.
 
 ### Project Type
 
@@ -28,12 +28,12 @@ Betwa-Interface-015/
 
 ### Video Walkthrough of the project
 
--[Presentation Link]()
+-[Presentation Link](https://youtu.be/UwceyozDs4o)
 
 ### Questionnaires related to project
 
--[Video 1]()
--[Video 2]()
+-[Video 1](https://youtu.be/NxUQoZpY3Hs)
+-[Video 2](https://www.youtube.com/watch?v=9D1sJYWVxr4)
 
 ### Screenshots
 
