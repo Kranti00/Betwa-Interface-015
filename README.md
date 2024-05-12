@@ -41,6 +41,7 @@ Betwa-Interface-015/
 
 <img src="./Site screenshots/Landing page.png" alt="">
 
+
 **Login and Signup Page**
 
 <div style="display: flex; flex-direction: row;">
@@ -48,15 +49,18 @@ Betwa-Interface-015/
   <img src="./Site screenshots/Signup page .png" alt="">
 </div>
 
+
 **Card Page**
 
 <img src="./Site screenshots/Card page.png" alt="">
 
 **Product Detail Page**
 
+
 <img src="./Site screenshots/Product details page.png" alt="">
 
 **Cart Page**
+
 
 <img src="./Site screenshots/Cart page.png" alt="">
 
