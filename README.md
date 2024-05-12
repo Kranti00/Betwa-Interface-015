@@ -43,7 +43,7 @@ Betwa-Interface-015/
 
 **Login and Signup Page**
 
-<div style="display: flex;">
+<div style="display: flex; flex-direction: row;">
   <img src="./Site screenshots/Login page.png" alt="">
   <img src="./Site screenshots/Signup page .png" alt="">
 </div>
