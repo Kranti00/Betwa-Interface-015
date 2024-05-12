@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Zepto clone</title>
     <link rel="stylesheet" href="styles.css" />
+    <link rel="stylesheet" href="Search.css">
     <link
       rel="stylesheet"
       href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css"
@@ -43,7 +44,7 @@
         </div>
         <div id="kinput">
           <i class="fa-solid fa-magnifying-glass"></i>
-          <input type="text" placeholder="Search for product" />
+          <input id="Search_h" type="text" placeholder="Search for product" />
         </div>
         <div id="kicons">
           <div id="kicon1">
@@ -97,7 +98,24 @@
     <!-- Haresh login and singup end -->
 
     <!-- Soumyadeep hero section start -->
-    <div id="sdiv"></div>
+    <section class="unique-card-carousel">
+      <div class="unique-carousel-container">
+          <div class="unique-cards">
+              <!-- Cards will be dynamically added here -->
+          </div>
+          <button class="unique-prev">&#10094;</button>
+          <button class="unique-next">&#10095;</button>
+      </div>
+  </section>
+  
+  <div class="unique-headings">
+      <h2 class="unique-explore-heading">Explore by category</h2>
+      <a href="seall.html" class="unique-see-all"><b>See All &gt;</b></a>
+  </div>
+      
+  <div class="unique-explore-categories">
+      <!-- Categories will be dynamically generated here -->
+  </div>
 
     <!-- Soumyadeep hero section end -->
 
@@ -107,6 +125,7 @@
     <!-- Adarsh infinity scrolling end -->
 
     <script src="script.js"></script>
+    <script src="./soumyadeep.js"></script>
     <script src="./Ascript.js"></script>
     <script
       src="https://kit.fontawesome.com/3cabc7956c.js"
