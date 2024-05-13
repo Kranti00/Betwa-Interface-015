@@ -109,5 +109,4 @@ To run this project locally:
 ### Acknowledments
 
 - Inspired by Zepto original website.
-- Special thanks for our team mate Adarsh for his contribution in solving critical problems.
 - Special thanks to our dedicated team for their invaluable contributions to Zepto and our mentor/IA Ritesh Ranjan Sir for giving us directions and material for this project.
