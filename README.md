@@ -97,7 +97,8 @@ To run this project locally:
 
 1. Clone this repository to your local machine.
 2. Open the index.html file in your preferred web browser.
-3. Explore Zepto experience right from your device.
+3. Additionally, ensure that you have the JSON server running locally by executing npm run start in your terminal. This will provide the necessary data from the backend.
+4. Explore the Zepto experience right from your device.
 
 ### Contributors
 
